@@ -1,0 +1,17 @@
+-- 01/11/2023
+
+ALTER TABLE `core_customer`
+ADD COLUMN `poc_name` VARCHAR(255) DEFAULT NULL
+AFTER `name`
+
+
+INSERT INTO const_stock_flow_document
+SET document_type_id = 36,
+document_name = 'Stock In',
+sort_order = 8;
+
+
+INSERT INTO const_stock_flow_document
+SET document_type_id = 37,
+document_name = 'Stock Out',
+sort_order = 9;

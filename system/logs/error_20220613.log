@@ -1,0 +1,14 @@
+2022-06-13 9:18:32 - PHP Warning:  session_start(): open(C:\Users\TAIKHU~1\AppData\Local\Temp\sess_65rnrvn3ea7qnqb57b3emn4e14, O_RDWR) failed: Permission denied (13) in C:\xampp\htdocs\php_milwa_trading\system\library\session.php on line 9
+2022-06-13 9:18:43 - PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\xampp\htdocs\php_milwa_trading\system\library\session.php on line 9
+2022-06-13 9:18:43 - PHP Warning:  session_destroy(): Trying to destroy uninitialized session in C:\xampp\htdocs\php_milwa_trading\system\library\user.php on line 38
+2022-06-13 16:18:29 - PHP Notice:  Undefined index: case_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\home.php on line 55
+2022-06-13 16:18:29 - PHP Notice:  Undefined index: case_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\home.php on line 56
+2022-06-13 16:18:30 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-06-13 16:18:30 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-06-13 16:18:31 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 229
+2022-06-13 16:18:31 - PHP Notice:  Undefined variable: sale_order_details in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\home.tpl on line 174
+2022-06-13 16:18:31 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\home.tpl on line 174
+2022-06-13 16:18:31 - PHP Notice:  Undefined variable: challan_details in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\home.tpl on line 215
+2022-06-13 16:18:31 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\home.tpl on line 215
+2022-06-13 16:18:31 - PHP Notice:  Undefined variable: bank_receipts in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\home.tpl on line 258
+2022-06-13 16:18:31 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\home.tpl on line 258

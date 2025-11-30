@@ -1,0 +1,1077 @@
+2022-12-16 9:18:59 - PHP Notice:  Undefined index: from_time in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\login.php on line 102
+2022-12-16 9:18:59 - PHP Notice:  Undefined index: to_time in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\login.php on line 103
+2022-12-16 9:19:03 - PHP Notice:  Undefined index: db_name in C:\xampp\htdocs\php_milwa_trading\system\engine\hmodel.php on line 12
+2022-12-16 9:19:03 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\preset.tpl on line 52
+2022-12-16 9:19:05 - PHP Notice:  Undefined index: db_name in C:\xampp\htdocs\php_milwa_trading\system\engine\hmodel.php on line 12
+2022-12-16 9:19:05 - PHP Notice:  Undefined index: case_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\home.php on line 55
+2022-12-16 9:19:05 - PHP Notice:  Undefined index: case_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\home.php on line 56
+2022-12-16 9:19:06 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-12-16 9:19:06 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-12-16 9:19:06 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 229
+2022-12-16 9:19:06 - PHP Notice:  Undefined variable: bank_receipts in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\home.tpl on line 258
+2022-12-16 9:19:06 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\home.tpl on line 258
+2022-12-16 9:44:09 - PHP Notice:  Undefined index: case_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\home.php on line 55
+2022-12-16 9:44:09 - PHP Notice:  Undefined index: case_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\home.php on line 56
+2022-12-16 9:44:09 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-12-16 9:44:09 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-12-16 9:44:09 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 229
+2022-12-16 9:44:09 - PHP Notice:  Undefined variable: bank_receipts in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\home.tpl on line 258
+2022-12-16 9:44:09 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\home.tpl on line 258
+2022-12-16 10:00:53 - PHP Notice:  Undefined index: case_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\home.php on line 55
+2022-12-16 10:00:53 - PHP Notice:  Undefined index: case_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\home.php on line 56
+2022-12-16 10:00:53 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-12-16 10:00:53 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-12-16 10:00:53 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 229
+2022-12-16 10:00:53 - PHP Notice:  Undefined variable: bank_receipts in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\home.tpl on line 258
+2022-12-16 10:00:53 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\home.tpl on line 258
+2022-12-16 10:04:43 - PHP Notice:  Undefined index: case_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\home.php on line 55
+2022-12-16 10:04:43 - PHP Notice:  Undefined index: case_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\home.php on line 56
+2022-12-16 10:04:43 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-12-16 10:04:43 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-12-16 10:04:43 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 229
+2022-12-16 10:04:43 - PHP Notice:  Undefined variable: bank_receipts in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\home.tpl on line 258
+2022-12-16 10:04:43 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\home.tpl on line 258
+2022-12-16 11:53:53 - PHP Notice:  Undefined index: db_name in C:\xampp\htdocs\php_milwa_trading\system\engine\hmodel.php on line 12
+2022-12-16 11:53:53 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\preset.tpl on line 52
+2022-12-16 11:53:53 - PHP Notice:  Undefined variable: fiscal_year_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\preset.php on line 228
+2022-12-16 11:53:56 - PHP Notice:  Undefined index: db_name in C:\xampp\htdocs\php_milwa_trading\system\engine\hmodel.php on line 12
+2022-12-16 11:53:56 - PHP Notice:  Undefined index: case_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\home.php on line 55
+2022-12-16 11:53:56 - PHP Notice:  Undefined index: case_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\home.php on line 56
+2022-12-16 11:53:56 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 11:53:56 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 11:53:56 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 231
+2022-12-16 11:53:56 - PHP Notice:  Undefined index: company_logo in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\page_header.php on line 24
+2022-12-16 11:53:56 - PHP Notice:  Undefined index: base_currency_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\page_header.php on line 30
+2022-12-16 11:53:56 - PHP Notice:  Undefined index: currency_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\page_header.php on line 33
+2022-12-16 11:53:56 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\page_header.php on line 34
+2022-12-16 11:53:56 - PHP Notice:  Undefined variable: bank_receipts in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\home.tpl on line 258
+2022-12-16 11:53:56 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\home.tpl on line 258
+2022-12-16 11:54:00 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 11:54:00 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 11:54:00 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 231
+2022-12-16 11:54:00 - PHP Notice:  Undefined index: company_logo in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\page_header.php on line 24
+2022-12-16 11:54:00 - PHP Notice:  Undefined index: base_currency_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\page_header.php on line 30
+2022-12-16 11:54:00 - PHP Notice:  Undefined index: currency_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\page_header.php on line 33
+2022-12-16 11:54:00 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\page_header.php on line 34
+2022-12-16 11:54:00 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\company_list.tpl on line 19
+2022-12-16 11:54:00 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\company_list.tpl on line 19
+2022-12-16 11:54:00 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\company_list.tpl on line 19
+2022-12-16 11:54:00 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\company_list.tpl on line 74
+2022-12-16 11:54:03 - PHP Notice:  Undefined index: branch_code in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\company.php on line 186
+2022-12-16 11:54:03 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\company.php on line 187
+2022-12-16 11:54:03 - PHP Notice:  Undefined index: fy_code in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\company.php on line 189
+2022-12-16 11:54:03 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\company.php on line 190
+2022-12-16 11:54:03 - PHP Notice:  Undefined index: date_from in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\company.php on line 191
+2022-12-16 11:54:03 - PHP Notice:  Undefined index: date_to in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\company.php on line 192
+2022-12-16 11:54:03 - PHP Notice:  Undefined index: login_name in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\company.php on line 193
+2022-12-16 11:54:03 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 11:54:03 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 11:54:03 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 231
+2022-12-16 11:54:03 - PHP Notice:  Undefined index: company_logo in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\page_header.php on line 24
+2022-12-16 11:54:03 - PHP Notice:  Undefined index: base_currency_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\page_header.php on line 30
+2022-12-16 11:54:03 - PHP Notice:  Undefined index: currency_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\page_header.php on line 33
+2022-12-16 11:54:03 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\page_header.php on line 34
+2022-12-16 11:54:03 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\company_form.tpl on line 18
+2022-12-16 11:54:03 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\company_form.tpl on line 18
+2022-12-16 11:54:03 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\company_form.tpl on line 18
+2022-12-16 11:54:03 - PHP Notice:  Undefined variable: action in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\company_form.tpl on line 59
+2022-12-16 11:54:03 - PHP Notice:  Undefined variable: user_password in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\company_form.tpl on line 105
+2022-12-16 11:54:03 - PHP Notice:  Undefined index: selected in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\company_form.tpl on line 112
+2022-12-16 11:54:03 - PHP Notice:  Undefined index: selected in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\company_form.tpl on line 112
+2022-12-16 11:54:03 - PHP Notice:  Undefined index: selected in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\company_form.tpl on line 112
+2022-12-16 11:54:03 - PHP Notice:  Undefined index: selected in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\company_form.tpl on line 112
+2022-12-16 11:54:03 - PHP Notice:  Undefined index: selected in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\company_form.tpl on line 112
+2022-12-16 11:54:03 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\company_form.tpl on line 157
+2022-12-16 11:55:15 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 11:55:15 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 11:55:15 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 231
+2022-12-16 11:55:15 - PHP Notice:  Undefined index: company_logo in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\page_header.php on line 24
+2022-12-16 11:55:15 - PHP Notice:  Undefined index: base_currency_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\page_header.php on line 30
+2022-12-16 11:55:15 - PHP Notice:  Undefined index: currency_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\page_header.php on line 33
+2022-12-16 11:55:15 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\page_header.php on line 34
+2022-12-16 11:55:15 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\company_list.tpl on line 19
+2022-12-16 11:55:15 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\company_list.tpl on line 19
+2022-12-16 11:55:15 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\company_list.tpl on line 19
+2022-12-16 11:55:15 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\company_list.tpl on line 74
+2022-12-16 11:55:23 - PHP Notice:  Undefined index: db_name in C:\xampp\htdocs\php_milwa_trading\system\engine\hmodel.php on line 12
+2022-12-16 11:55:23 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\preset.tpl on line 52
+2022-12-16 11:55:24 - PHP Notice:  Undefined index: db_name in C:\xampp\htdocs\php_milwa_trading\system\engine\hmodel.php on line 12
+2022-12-16 11:55:24 - PHP Notice:  Undefined index: case_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\home.php on line 55
+2022-12-16 11:55:24 - PHP Notice:  Undefined index: case_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\home.php on line 56
+2022-12-16 11:55:24 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 11:55:24 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 11:55:24 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 231
+2022-12-16 11:55:24 - PHP Notice:  Undefined variable: bank_receipts in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\home.tpl on line 258
+2022-12-16 11:55:24 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\home.tpl on line 258
+2022-12-16 11:55:29 - PHP Warning:  Declaration of ControllerUserUserPermission::validateDelete() should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 209
+2022-12-16 11:55:29 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 11:55:29 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 11:55:29 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 231
+2022-12-16 11:55:29 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\user\user_permission_list.tpl on line 19
+2022-12-16 11:55:29 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\user\user_permission_list.tpl on line 19
+2022-12-16 11:55:29 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\user\user_permission_list.tpl on line 19
+2022-12-16 11:55:29 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\user\user_permission_list.tpl on line 73
+2022-12-16 11:55:29 - PHP Warning:  Declaration of ControllerUserUserPermission::validateDelete() should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 209
+2022-12-16 11:55:31 - PHP Warning:  Declaration of ControllerUserUserPermission::validateDelete() should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 209
+2022-12-16 11:55:31 - PHP Notice:  Undefined index: report/income_statement in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 175
+2022-12-16 11:55:31 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 175
+2022-12-16 11:55:31 - PHP Notice:  Undefined index: report/income_statement in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 176
+2022-12-16 11:55:31 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 176
+2022-12-16 11:55:31 - PHP Notice:  Undefined index: report/income_statement in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 177
+2022-12-16 11:55:31 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 177
+2022-12-16 11:55:31 - PHP Notice:  Undefined index: report/income_statement in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 178
+2022-12-16 11:55:31 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 178
+2022-12-16 11:55:31 - PHP Notice:  Undefined index: report/income_statement in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 179
+2022-12-16 11:55:31 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 179
+2022-12-16 11:55:31 - PHP Notice:  Undefined index: report/sale_analysis_report in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 175
+2022-12-16 11:55:31 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 175
+2022-12-16 11:55:31 - PHP Notice:  Undefined index: report/sale_analysis_report in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 176
+2022-12-16 11:55:31 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 176
+2022-12-16 11:55:31 - PHP Notice:  Undefined index: report/sale_analysis_report in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 177
+2022-12-16 11:55:31 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 177
+2022-12-16 11:55:31 - PHP Notice:  Undefined index: report/sale_analysis_report in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 178
+2022-12-16 11:55:31 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 178
+2022-12-16 11:55:31 - PHP Notice:  Undefined index: report/sale_analysis_report in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 179
+2022-12-16 11:55:31 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 179
+2022-12-16 11:55:31 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 11:55:31 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 11:55:31 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 231
+2022-12-16 11:55:31 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\user\user_permission_form.tpl on line 19
+2022-12-16 11:55:31 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\user\user_permission_form.tpl on line 19
+2022-12-16 11:55:31 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\user\user_permission_form.tpl on line 19
+2022-12-16 11:55:31 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\user\user_permission_form.tpl on line 102
+2022-12-16 11:55:41 - PHP Warning:  Declaration of ControllerUserUserPermission::validateDelete() should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 209
+2022-12-16 11:55:41 - PHP Warning:  Declaration of ControllerUserUserPermission::validateDelete() should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 209
+2022-12-16 11:55:41 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 11:55:41 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 11:55:41 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 231
+2022-12-16 11:55:41 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\user\user_permission_list.tpl on line 19
+2022-12-16 11:55:41 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\user\user_permission_list.tpl on line 19
+2022-12-16 11:55:41 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\user\user_permission_list.tpl on line 19
+2022-12-16 11:55:41 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\user\user_permission_list.tpl on line 73
+2022-12-16 11:55:42 - PHP Warning:  Declaration of ControllerUserUserPermission::validateDelete() should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 209
+2022-12-16 11:55:49 - PHP Warning:  Declaration of ControllerUserUserPermission::validateDelete() should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 209
+2022-12-16 11:55:49 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 11:55:49 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 11:55:49 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 231
+2022-12-16 11:55:49 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\user\user_permission_form.tpl on line 19
+2022-12-16 11:55:49 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\user\user_permission_form.tpl on line 19
+2022-12-16 11:55:49 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\user\user_permission_form.tpl on line 19
+2022-12-16 11:55:49 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\user\user_permission_form.tpl on line 102
+2022-12-16 11:55:56 - PHP Warning:  Declaration of ControllerUserUserPermission::validateDelete() should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 209
+2022-12-16 11:55:57 - PHP Warning:  Declaration of ControllerUserUserPermission::validateDelete() should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 209
+2022-12-16 11:55:57 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 11:55:57 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 11:55:57 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 231
+2022-12-16 11:55:57 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\user\user_permission_list.tpl on line 19
+2022-12-16 11:55:57 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\user\user_permission_list.tpl on line 19
+2022-12-16 11:55:57 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\user\user_permission_list.tpl on line 19
+2022-12-16 11:55:57 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\user\user_permission_list.tpl on line 73
+2022-12-16 11:55:57 - PHP Warning:  Declaration of ControllerUserUserPermission::validateDelete() should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 209
+2022-12-16 11:56:17 - PHP Warning:  Declaration of ControllerUserUser::validateDelete() should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user.php on line 296
+2022-12-16 11:56:17 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 11:56:17 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 11:56:17 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 231
+2022-12-16 11:56:17 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\user\user_list.tpl on line 19
+2022-12-16 11:56:17 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\user\user_list.tpl on line 19
+2022-12-16 11:56:17 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\user\user_list.tpl on line 19
+2022-12-16 11:56:17 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\user\user_list.tpl on line 79
+2022-12-16 11:56:17 - PHP Warning:  Declaration of ControllerUserUser::validateDelete() should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user.php on line 296
+2022-12-16 11:56:20 - PHP Warning:  Declaration of ControllerUserUser::validateDelete() should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user.php on line 296
+2022-12-16 11:56:20 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 11:56:20 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 11:56:20 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 231
+2022-12-16 11:56:20 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\user\user_form.tpl on line 19
+2022-12-16 11:56:20 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\user\user_form.tpl on line 19
+2022-12-16 11:56:20 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\user\user_form.tpl on line 19
+2022-12-16 11:56:20 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\user\user_form.tpl on line 170
+2022-12-16 11:56:24 - PHP Warning:  Declaration of ControllerUserUserPermission::validateDelete() should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 209
+2022-12-16 11:56:24 - PHP Notice:  Undefined index: inventory/goods_received in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 175
+2022-12-16 11:56:24 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 175
+2022-12-16 11:56:24 - PHP Notice:  Undefined index: inventory/goods_received in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 176
+2022-12-16 11:56:25 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 176
+2022-12-16 11:56:25 - PHP Notice:  Undefined index: inventory/goods_received in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 177
+2022-12-16 11:56:25 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 177
+2022-12-16 11:56:25 - PHP Notice:  Undefined index: inventory/goods_received in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 178
+2022-12-16 11:56:25 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 178
+2022-12-16 11:56:25 - PHP Notice:  Undefined index: inventory/goods_received in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 179
+2022-12-16 11:56:25 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 179
+2022-12-16 11:56:25 - PHP Notice:  Undefined index: report/income_statement in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 175
+2022-12-16 11:56:25 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 175
+2022-12-16 11:56:25 - PHP Notice:  Undefined index: report/income_statement in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 176
+2022-12-16 11:56:25 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 176
+2022-12-16 11:56:25 - PHP Notice:  Undefined index: report/income_statement in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 177
+2022-12-16 11:56:25 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 177
+2022-12-16 11:56:25 - PHP Notice:  Undefined index: report/income_statement in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 178
+2022-12-16 11:56:25 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 178
+2022-12-16 11:56:25 - PHP Notice:  Undefined index: report/income_statement in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 179
+2022-12-16 11:56:25 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 179
+2022-12-16 11:56:25 - PHP Notice:  Undefined index: report/sale_analysis_report in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 175
+2022-12-16 11:56:25 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 175
+2022-12-16 11:56:25 - PHP Notice:  Undefined index: report/sale_analysis_report in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 176
+2022-12-16 11:56:25 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 176
+2022-12-16 11:56:25 - PHP Notice:  Undefined index: report/sale_analysis_report in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 177
+2022-12-16 11:56:25 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 177
+2022-12-16 11:56:25 - PHP Notice:  Undefined index: report/sale_analysis_report in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 178
+2022-12-16 11:56:25 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 178
+2022-12-16 11:56:25 - PHP Notice:  Undefined index: report/sale_analysis_report in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 179
+2022-12-16 11:56:25 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 179
+2022-12-16 11:56:25 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 11:56:25 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 11:56:25 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 231
+2022-12-16 11:56:25 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\user\user_permission_form.tpl on line 19
+2022-12-16 11:56:25 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\user\user_permission_form.tpl on line 19
+2022-12-16 11:56:25 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\user\user_permission_form.tpl on line 19
+2022-12-16 11:56:25 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\user\user_permission_form.tpl on line 102
+2022-12-16 11:56:33 - PHP Warning:  Declaration of ControllerUserUserPermission::validateDelete() should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 209
+2022-12-16 11:56:34 - PHP Warning:  Declaration of ControllerUserUserPermission::validateDelete() should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 209
+2022-12-16 11:56:34 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 11:56:34 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 11:56:34 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 231
+2022-12-16 11:56:34 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\user\user_permission_list.tpl on line 19
+2022-12-16 11:56:34 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\user\user_permission_list.tpl on line 19
+2022-12-16 11:56:34 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\user\user_permission_list.tpl on line 19
+2022-12-16 11:56:34 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\user\user_permission_list.tpl on line 73
+2022-12-16 11:56:34 - PHP Warning:  Declaration of ControllerUserUserPermission::validateDelete() should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 209
+2022-12-16 11:56:40 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 11:56:40 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 11:56:40 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 231
+2022-12-16 11:56:40 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 18
+2022-12-16 11:56:40 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 18
+2022-12-16 11:56:40 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 18
+2022-12-16 11:56:40 - PHP Warning:  Use of undefined constant entry_to_date - assumed 'entry_to_date' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 61
+2022-12-16 11:56:40 - PHP Warning:  Use of undefined constant entry_group_by - assumed 'entry_group_by' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 69
+2022-12-16 11:56:40 - PHP Warning:  Use of undefined constant text_level3 - assumed 'text_level3' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 71
+2022-12-16 11:56:40 - PHP Warning:  Use of undefined constant text_level2 - assumed 'text_level2' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 72
+2022-12-16 11:56:40 - PHP Warning:  Use of undefined constant text_level1 - assumed 'text_level1' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 73
+2022-12-16 11:56:40 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 110
+2022-12-16 11:56:52 - PHP Warning:  Declaration of ControllerUserUserPermission::validateDelete() should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 209
+2022-12-16 11:56:52 - PHP Notice:  Undefined index: inventory/goods_received in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 175
+2022-12-16 11:56:52 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 175
+2022-12-16 11:56:52 - PHP Notice:  Undefined index: inventory/goods_received in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 176
+2022-12-16 11:56:52 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 176
+2022-12-16 11:56:52 - PHP Notice:  Undefined index: inventory/goods_received in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 177
+2022-12-16 11:56:52 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 177
+2022-12-16 11:56:52 - PHP Notice:  Undefined index: inventory/goods_received in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 178
+2022-12-16 11:56:52 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 178
+2022-12-16 11:56:52 - PHP Notice:  Undefined index: inventory/goods_received in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 179
+2022-12-16 11:56:52 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 179
+2022-12-16 11:56:52 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 11:56:52 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 11:56:52 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 231
+2022-12-16 11:56:52 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\user\user_permission_form.tpl on line 19
+2022-12-16 11:56:52 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\user\user_permission_form.tpl on line 19
+2022-12-16 11:56:52 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\user\user_permission_form.tpl on line 19
+2022-12-16 11:56:52 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\user\user_permission_form.tpl on line 102
+2022-12-16 11:57:36 - PHP Notice:  Undefined index: db_name in C:\xampp\htdocs\php_milwa_trading\system\engine\hmodel.php on line 12
+2022-12-16 11:57:36 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\preset.tpl on line 52
+2022-12-16 11:57:37 - PHP Notice:  Undefined variable: fiscal_year_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\preset.php on line 228
+2022-12-16 11:57:39 - PHP Notice:  Undefined index: db_name in C:\xampp\htdocs\php_milwa_trading\system\engine\hmodel.php on line 12
+2022-12-16 11:57:39 - PHP Notice:  Undefined index: case_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\home.php on line 55
+2022-12-16 11:57:39 - PHP Notice:  Undefined index: case_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\home.php on line 56
+2022-12-16 11:57:39 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 11:57:39 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 11:57:39 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 231
+2022-12-16 11:57:39 - PHP Notice:  Undefined index: company_logo in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\page_header.php on line 24
+2022-12-16 11:57:40 - PHP Notice:  Undefined index: base_currency_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\page_header.php on line 30
+2022-12-16 11:57:40 - PHP Notice:  Undefined index: currency_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\page_header.php on line 33
+2022-12-16 11:57:40 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\page_header.php on line 34
+2022-12-16 11:57:40 - PHP Notice:  Undefined variable: bank_receipts in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\home.tpl on line 258
+2022-12-16 11:57:40 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\home.tpl on line 258
+2022-12-16 11:57:42 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 11:57:42 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 11:57:42 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 231
+2022-12-16 11:57:42 - PHP Notice:  Undefined index: company_logo in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\page_header.php on line 24
+2022-12-16 11:57:42 - PHP Notice:  Undefined index: base_currency_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\page_header.php on line 30
+2022-12-16 11:57:42 - PHP Notice:  Undefined index: currency_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\page_header.php on line 33
+2022-12-16 11:57:42 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\page_header.php on line 34
+2022-12-16 11:57:42 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\company_list.tpl on line 19
+2022-12-16 11:57:42 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\company_list.tpl on line 19
+2022-12-16 11:57:42 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\company_list.tpl on line 19
+2022-12-16 11:57:42 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\company_list.tpl on line 74
+2022-12-16 11:57:43 - PHP Notice:  Undefined index: branch_code in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\company.php on line 186
+2022-12-16 11:57:43 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\company.php on line 187
+2022-12-16 11:57:43 - PHP Notice:  Undefined index: fy_code in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\company.php on line 189
+2022-12-16 11:57:43 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\company.php on line 190
+2022-12-16 11:57:43 - PHP Notice:  Undefined index: date_from in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\company.php on line 191
+2022-12-16 11:57:43 - PHP Notice:  Undefined index: date_to in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\company.php on line 192
+2022-12-16 11:57:43 - PHP Notice:  Undefined index: login_name in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\company.php on line 193
+2022-12-16 11:57:43 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 11:57:43 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 11:57:43 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 231
+2022-12-16 11:57:43 - PHP Notice:  Undefined index: company_logo in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\page_header.php on line 24
+2022-12-16 11:57:43 - PHP Notice:  Undefined index: base_currency_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\page_header.php on line 30
+2022-12-16 11:57:43 - PHP Notice:  Undefined index: currency_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\page_header.php on line 33
+2022-12-16 11:57:43 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\page_header.php on line 34
+2022-12-16 11:57:43 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\company_form.tpl on line 18
+2022-12-16 11:57:43 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\company_form.tpl on line 18
+2022-12-16 11:57:43 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\company_form.tpl on line 18
+2022-12-16 11:57:43 - PHP Notice:  Undefined variable: action in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\company_form.tpl on line 59
+2022-12-16 11:57:43 - PHP Notice:  Undefined variable: user_password in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\company_form.tpl on line 105
+2022-12-16 11:57:43 - PHP Notice:  Undefined index: selected in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\company_form.tpl on line 112
+2022-12-16 11:57:43 - PHP Notice:  Undefined index: selected in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\company_form.tpl on line 112
+2022-12-16 11:57:43 - PHP Notice:  Undefined index: selected in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\company_form.tpl on line 112
+2022-12-16 11:57:43 - PHP Notice:  Undefined index: selected in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\company_form.tpl on line 112
+2022-12-16 11:57:43 - PHP Notice:  Undefined index: selected in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\company_form.tpl on line 112
+2022-12-16 11:57:43 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\company_form.tpl on line 157
+2022-12-16 11:57:57 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 11:57:57 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 11:57:57 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 231
+2022-12-16 11:57:57 - PHP Notice:  Undefined index: company_logo in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\page_header.php on line 24
+2022-12-16 11:57:57 - PHP Notice:  Undefined index: base_currency_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\page_header.php on line 30
+2022-12-16 11:57:57 - PHP Notice:  Undefined index: currency_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\page_header.php on line 33
+2022-12-16 11:57:57 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\page_header.php on line 34
+2022-12-16 11:57:57 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\company_list.tpl on line 19
+2022-12-16 11:57:57 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\company_list.tpl on line 19
+2022-12-16 11:57:57 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\company_list.tpl on line 19
+2022-12-16 11:57:57 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\company_list.tpl on line 74
+2022-12-16 11:58:00 - PHP Notice:  Undefined index: db_name in C:\xampp\htdocs\php_milwa_trading\system\engine\hmodel.php on line 12
+2022-12-16 11:58:00 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\preset.tpl on line 52
+2022-12-16 11:58:01 - PHP Notice:  Undefined index: db_name in C:\xampp\htdocs\php_milwa_trading\system\engine\hmodel.php on line 12
+2022-12-16 11:58:01 - PHP Notice:  Undefined index: case_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\home.php on line 55
+2022-12-16 11:58:01 - PHP Notice:  Undefined index: case_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\home.php on line 56
+2022-12-16 11:58:01 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 11:58:01 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 11:58:01 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 231
+2022-12-16 11:58:01 - PHP Notice:  Undefined variable: bank_receipts in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\home.tpl on line 258
+2022-12-16 11:58:01 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\home.tpl on line 258
+2022-12-16 11:58:03 - PHP Warning:  Declaration of ControllerUserUserPermission::validateDelete() should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 209
+2022-12-16 11:58:03 - PHP Notice:  Undefined index: gl/profit_and_loss_mapping in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 175
+2022-12-16 11:58:03 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 175
+2022-12-16 11:58:03 - PHP Notice:  Undefined index: gl/profit_and_loss_mapping in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 176
+2022-12-16 11:58:03 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 176
+2022-12-16 11:58:03 - PHP Notice:  Undefined index: gl/profit_and_loss_mapping in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 177
+2022-12-16 11:58:03 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 177
+2022-12-16 11:58:03 - PHP Notice:  Undefined index: gl/profit_and_loss_mapping in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 178
+2022-12-16 11:58:03 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 178
+2022-12-16 11:58:03 - PHP Notice:  Undefined index: gl/profit_and_loss_mapping in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 179
+2022-12-16 11:58:03 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 179
+2022-12-16 11:58:03 - PHP Notice:  Undefined index: inventory/goods_received in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 175
+2022-12-16 11:58:03 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 175
+2022-12-16 11:58:03 - PHP Notice:  Undefined index: inventory/goods_received in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 176
+2022-12-16 11:58:03 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 176
+2022-12-16 11:58:03 - PHP Notice:  Undefined index: inventory/goods_received in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 177
+2022-12-16 11:58:03 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 177
+2022-12-16 11:58:03 - PHP Notice:  Undefined index: inventory/goods_received in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 178
+2022-12-16 11:58:03 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 178
+2022-12-16 11:58:03 - PHP Notice:  Undefined index: inventory/goods_received in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 179
+2022-12-16 11:58:03 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 179
+2022-12-16 11:58:03 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 11:58:03 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 11:58:03 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 231
+2022-12-16 11:58:03 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\user\user_permission_form.tpl on line 19
+2022-12-16 11:58:03 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\user\user_permission_form.tpl on line 19
+2022-12-16 11:58:03 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\user\user_permission_form.tpl on line 19
+2022-12-16 11:58:03 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\user\user_permission_form.tpl on line 102
+2022-12-16 11:58:06 - PHP Warning:  Declaration of ControllerUserUserPermission::validateDelete() should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 209
+2022-12-16 11:58:07 - PHP Warning:  Declaration of ControllerUserUserPermission::validateDelete() should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 209
+2022-12-16 11:58:07 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 11:58:07 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 11:58:07 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 231
+2022-12-16 11:58:07 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\user\user_permission_list.tpl on line 19
+2022-12-16 11:58:07 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\user\user_permission_list.tpl on line 19
+2022-12-16 11:58:07 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\user\user_permission_list.tpl on line 19
+2022-12-16 11:58:07 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\user\user_permission_list.tpl on line 73
+2022-12-16 11:58:07 - PHP Warning:  Declaration of ControllerUserUserPermission::validateDelete() should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\php_milwa_trading\admin\controller\user\user_permission.php on line 209
+2022-12-16 11:58:22 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 11:58:22 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 11:58:22 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 231
+2022-12-16 11:58:22 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 18
+2022-12-16 11:58:22 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 18
+2022-12-16 11:58:22 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 18
+2022-12-16 11:58:22 - PHP Warning:  Use of undefined constant entry_to_date - assumed 'entry_to_date' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 61
+2022-12-16 11:58:22 - PHP Warning:  Use of undefined constant entry_group_by - assumed 'entry_group_by' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 69
+2022-12-16 11:58:22 - PHP Warning:  Use of undefined constant text_level3 - assumed 'text_level3' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 71
+2022-12-16 11:58:22 - PHP Warning:  Use of undefined constant text_level2 - assumed 'text_level2' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 72
+2022-12-16 11:58:22 - PHP Warning:  Use of undefined constant text_level1 - assumed 'text_level1' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 73
+2022-12-16 11:58:22 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 110
+2022-12-16 13:54:23 - PHP Notice:  Undefined index: date_from in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 610
+2022-12-16 13:54:23 - PHP Notice:  Undefined index: date_from in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 715
+2022-12-16 13:54:23 - PHP Notice:  Undefined index: sale_revenue_account_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 723
+2022-12-16 13:54:23 - PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 723
+2022-12-16 13:54:23 - PHP Notice:  Undefined index: sale_return_and_discount_account_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 724
+2022-12-16 13:54:23 - PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 724
+2022-12-16 13:54:23 - PHP Notice:  Undefined index: cogs_account_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 725
+2022-12-16 13:54:23 - PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 725
+2022-12-16 13:54:23 - PHP Notice:  Undefined index: admin_expense_account_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 726
+2022-12-16 13:54:23 - PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 726
+2022-12-16 13:54:23 - PHP Notice:  Undefined index: financial_charges_account_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 727
+2022-12-16 13:54:23 - PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 727
+2022-12-16 13:54:23 - PHP Notice:  Undefined index: sale_marketing_account_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 728
+2022-12-16 13:54:23 - PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 728
+2022-12-16 13:54:23 - PHP Notice:  Undefined index: non_operating_income_account_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 729
+2022-12-16 13:54:23 - PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 729
+2022-12-16 13:54:23 - PHP Notice:  Undefined index: tax_paid_account_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 730
+2022-12-16 13:54:23 - PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 730
+2022-12-16 13:54:23 - PHP Notice:  Undefined index: Sales Revenue: in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 782
+2022-12-16 13:54:23 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 782
+2022-12-16 13:54:23 - PHP Notice:  Undefined index: Less: Sale Return & Discount: in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 782
+2022-12-16 13:54:23 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 782
+2022-12-16 13:54:23 - PHP Notice:  Undefined index: Less: Cost of Goods Sold: in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 806
+2022-12-16 13:54:24 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 806
+2022-12-16 13:54:24 - PHP Notice:  Undefined index: Less: Admin Expenses: in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 847
+2022-12-16 13:54:24 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 847
+2022-12-16 13:54:24 - PHP Notice:  Undefined index: Less: Sales & Marketing Expenses: in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 847
+2022-12-16 13:54:24 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 847
+2022-12-16 13:54:24 - PHP Notice:  Undefined index: Add: Non Operating Income: in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 872
+2022-12-16 13:54:24 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 872
+2022-12-16 13:54:24 - PHP Notice:  Undefined index: Less: Financial Charges: in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 896
+2022-12-16 13:54:24 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 896
+2022-12-16 13:54:24 - PHP Notice:  Undefined index: Less: Income Tax Expenses: in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 920
+2022-12-16 13:54:24 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 920
+2022-12-16 13:54:24 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\php_milwa_trading\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2022-12-16 13:54:24 - PHP Notice:  Undefined index: date_from in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 966
+2022-12-16 13:54:24 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 986
+2022-12-16 13:54:24 - PHP Notice:  Undefined index: data in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 13:54:24 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 13:54:24 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 986
+2022-12-16 13:54:24 - PHP Notice:  Undefined index: data in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 13:54:24 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 13:54:24 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 986
+2022-12-16 13:54:24 - PHP Notice:  Undefined index: data in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 13:54:24 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 13:54:24 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 986
+2022-12-16 13:54:24 - PHP Notice:  Undefined index: data in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 13:54:24 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 13:54:24 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 986
+2022-12-16 13:54:24 - PHP Notice:  Undefined index: data in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 13:54:24 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 13:54:24 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 986
+2022-12-16 13:54:24 - PHP Notice:  Undefined index: data in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 13:54:24 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 13:54:30 - PHP Warning:  Declaration of ControllerGLProfitAndLossMapping::updateData($data) should be compatible with HController::updateData($primary_key, $data) in C:\xampp\htdocs\php_milwa_trading\admin\controller\gl\profit_and_loss_mapping.php on line 93
+2022-12-16 13:54:30 - PHP Notice:  Undefined index: school_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\gl\profit_and_loss_mapping.php on line 26
+2022-12-16 13:54:30 - PHP Warning:  Declaration of ControllerGLProfitAndLossMapping::updateData($data) should be compatible with HController::updateData($primary_key, $data) in C:\xampp\htdocs\php_milwa_trading\admin\controller\gl\profit_and_loss_mapping.php on line 93
+2022-12-16 13:54:30 - PHP Notice:  Undefined index: setting_id in C:\xampp\htdocs\php_milwa_trading\system\engine\hcontroller.php on line 223
+2022-12-16 13:54:30 - PHP Notice:  Undefined index: setting_id in C:\xampp\htdocs\php_milwa_trading\system\engine\hcontroller.php on line 224
+2022-12-16 13:54:30 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 13:54:30 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 13:54:30 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 231
+2022-12-16 13:54:31 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\profit_and_loss_mapping_form.tpl on line 18
+2022-12-16 13:54:31 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\profit_and_loss_mapping_form.tpl on line 18
+2022-12-16 13:54:31 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\profit_and_loss_mapping_form.tpl on line 18
+2022-12-16 13:54:31 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\profit_and_loss_mapping_form.tpl on line 185
+2022-12-16 13:55:15 - PHP Warning:  Declaration of ControllerGLProfitAndLossMapping::updateData($data) should be compatible with HController::updateData($primary_key, $data) in C:\xampp\htdocs\php_milwa_trading\admin\controller\gl\profit_and_loss_mapping.php on line 93
+2022-12-16 13:55:15 - PHP Warning:  Declaration of ControllerGLProfitAndLossMapping::updateData($data) should be compatible with HController::updateData($primary_key, $data) in C:\xampp\htdocs\php_milwa_trading\admin\controller\gl\profit_and_loss_mapping.php on line 93
+2022-12-16 13:55:15 - PHP Notice:  Undefined index: school_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\gl\profit_and_loss_mapping.php on line 26
+2022-12-16 13:55:15 - PHP Warning:  Declaration of ControllerGLProfitAndLossMapping::updateData($data) should be compatible with HController::updateData($primary_key, $data) in C:\xampp\htdocs\php_milwa_trading\admin\controller\gl\profit_and_loss_mapping.php on line 93
+2022-12-16 13:55:15 - PHP Notice:  Undefined index: setting_id in C:\xampp\htdocs\php_milwa_trading\system\engine\hcontroller.php on line 223
+2022-12-16 13:55:15 - PHP Notice:  Undefined index: setting_id in C:\xampp\htdocs\php_milwa_trading\system\engine\hcontroller.php on line 224
+2022-12-16 13:55:15 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 13:55:15 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 13:55:15 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 231
+2022-12-16 13:55:15 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\profit_and_loss_mapping_form.tpl on line 18
+2022-12-16 13:55:15 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\profit_and_loss_mapping_form.tpl on line 18
+2022-12-16 13:55:15 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\profit_and_loss_mapping_form.tpl on line 18
+2022-12-16 13:55:15 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\profit_and_loss_mapping_form.tpl on line 185
+2022-12-16 13:55:19 - PHP Notice:  Undefined index: date_from in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 610
+2022-12-16 13:55:19 - PHP Notice:  Undefined index: date_from in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 715
+2022-12-16 13:55:19 - PHP Notice:  Undefined index: sale_return_and_discount_account_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 724
+2022-12-16 13:55:19 - PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 724
+2022-12-16 13:55:19 - PHP Notice:  Undefined index: financial_charges_account_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 727
+2022-12-16 13:55:19 - PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 727
+2022-12-16 13:55:19 - PHP Notice:  Undefined index: sale_marketing_account_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 728
+2022-12-16 13:55:19 - PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 728
+2022-12-16 13:55:19 - PHP Notice:  Undefined index: non_operating_income_account_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 729
+2022-12-16 13:55:19 - PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 729
+2022-12-16 13:55:19 - PHP Notice:  Undefined index: Sales Revenue: in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 782
+2022-12-16 13:55:19 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 782
+2022-12-16 13:55:19 - PHP Notice:  Undefined index: Less: Sale Return & Discount: in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 782
+2022-12-16 13:55:19 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 782
+2022-12-16 13:55:19 - PHP Notice:  Undefined index: Less: Cost of Goods Sold: in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 806
+2022-12-16 13:55:19 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 806
+2022-12-16 13:55:19 - PHP Notice:  Undefined index: Less: Admin Expenses: in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 847
+2022-12-16 13:55:19 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 847
+2022-12-16 13:55:19 - PHP Notice:  Undefined index: Less: Sales & Marketing Expenses: in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 847
+2022-12-16 13:55:19 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 847
+2022-12-16 13:55:19 - PHP Notice:  Undefined index: Add: Non Operating Income: in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 872
+2022-12-16 13:55:19 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 872
+2022-12-16 13:55:19 - PHP Notice:  Undefined index: Less: Financial Charges: in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 896
+2022-12-16 13:55:19 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 896
+2022-12-16 13:55:19 - PHP Notice:  Undefined index: Less: Income Tax Expenses: in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 920
+2022-12-16 13:55:19 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 920
+2022-12-16 13:55:19 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\php_milwa_trading\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2022-12-16 13:55:19 - PHP Notice:  Undefined index: date_from in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 966
+2022-12-16 13:55:19 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 986
+2022-12-16 13:55:19 - PHP Notice:  Undefined index: data in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 13:55:19 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 13:55:19 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 986
+2022-12-16 13:55:19 - PHP Notice:  Undefined index: data in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 13:55:19 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 13:55:19 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 986
+2022-12-16 13:55:19 - PHP Notice:  Undefined index: data in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 13:55:19 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 13:55:19 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 986
+2022-12-16 13:55:19 - PHP Notice:  Undefined index: data in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 13:55:19 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 13:55:19 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 986
+2022-12-16 13:55:19 - PHP Notice:  Undefined index: data in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 13:55:19 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 13:55:19 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 986
+2022-12-16 13:55:19 - PHP Notice:  Undefined index: data in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 13:55:19 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 13:55:29 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 13:55:29 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 13:55:29 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 231
+2022-12-16 13:55:29 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 18
+2022-12-16 13:55:29 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 18
+2022-12-16 13:55:29 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 18
+2022-12-16 13:55:29 - PHP Warning:  Use of undefined constant entry_to_date - assumed 'entry_to_date' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 61
+2022-12-16 13:55:29 - PHP Warning:  Use of undefined constant entry_group_by - assumed 'entry_group_by' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 69
+2022-12-16 13:55:29 - PHP Warning:  Use of undefined constant text_level3 - assumed 'text_level3' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 71
+2022-12-16 13:55:29 - PHP Warning:  Use of undefined constant text_level2 - assumed 'text_level2' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 72
+2022-12-16 13:55:29 - PHP Warning:  Use of undefined constant text_level1 - assumed 'text_level1' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 73
+2022-12-16 13:55:29 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 110
+2022-12-16 13:55:32 - PHP Notice:  Undefined index: date_from in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 610
+2022-12-16 13:55:32 - PHP Notice:  Undefined index: date_from in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 715
+2022-12-16 13:55:32 - PHP Notice:  Undefined index: sale_return_and_discount_account_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 724
+2022-12-16 13:55:32 - PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 724
+2022-12-16 13:55:32 - PHP Notice:  Undefined index: financial_charges_account_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 727
+2022-12-16 13:55:32 - PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 727
+2022-12-16 13:55:32 - PHP Notice:  Undefined index: sale_marketing_account_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 728
+2022-12-16 13:55:32 - PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 728
+2022-12-16 13:55:32 - PHP Notice:  Undefined index: non_operating_income_account_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 729
+2022-12-16 13:55:32 - PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 729
+2022-12-16 13:55:32 - PHP Notice:  Undefined index: Sales Revenue: in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 782
+2022-12-16 13:55:32 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 782
+2022-12-16 13:55:32 - PHP Notice:  Undefined index: Less: Sale Return & Discount: in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 782
+2022-12-16 13:55:32 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 782
+2022-12-16 13:55:32 - PHP Notice:  Undefined index: Less: Cost of Goods Sold: in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 806
+2022-12-16 13:55:32 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 806
+2022-12-16 13:55:32 - PHP Notice:  Undefined index: Less: Admin Expenses: in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 847
+2022-12-16 13:55:32 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 847
+2022-12-16 13:55:32 - PHP Notice:  Undefined index: Less: Sales & Marketing Expenses: in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 847
+2022-12-16 13:55:32 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 847
+2022-12-16 13:55:32 - PHP Notice:  Undefined index: Add: Non Operating Income: in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 872
+2022-12-16 13:55:32 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 872
+2022-12-16 13:55:32 - PHP Notice:  Undefined index: Less: Financial Charges: in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 896
+2022-12-16 13:55:32 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 896
+2022-12-16 13:55:32 - PHP Notice:  Undefined index: Less: Income Tax Expenses: in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 920
+2022-12-16 13:55:32 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 920
+2022-12-16 13:55:32 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\php_milwa_trading\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2022-12-16 13:55:32 - PHP Notice:  Undefined index: date_from in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 966
+2022-12-16 13:55:32 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 986
+2022-12-16 13:55:32 - PHP Notice:  Undefined index: data in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 13:55:32 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 13:55:32 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 986
+2022-12-16 13:55:32 - PHP Notice:  Undefined index: data in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 13:55:32 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 13:55:32 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 986
+2022-12-16 13:55:32 - PHP Notice:  Undefined index: data in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 13:55:32 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 13:55:32 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 986
+2022-12-16 13:55:33 - PHP Notice:  Undefined index: data in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 13:55:33 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 13:55:33 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 986
+2022-12-16 13:55:33 - PHP Notice:  Undefined index: data in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 13:55:33 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 13:55:33 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 986
+2022-12-16 13:55:33 - PHP Notice:  Undefined index: data in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 13:55:33 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 13:55:37 - PHP Warning:  Declaration of ControllerGLProfitAndLossMapping::updateData($data) should be compatible with HController::updateData($primary_key, $data) in C:\xampp\htdocs\php_milwa_trading\admin\controller\gl\profit_and_loss_mapping.php on line 93
+2022-12-16 13:55:37 - PHP Notice:  Undefined index: setting_id in C:\xampp\htdocs\php_milwa_trading\system\engine\hcontroller.php on line 223
+2022-12-16 13:55:37 - PHP Notice:  Undefined index: setting_id in C:\xampp\htdocs\php_milwa_trading\system\engine\hcontroller.php on line 224
+2022-12-16 13:55:37 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 13:55:37 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 13:55:37 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 231
+2022-12-16 13:55:37 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\profit_and_loss_mapping_form.tpl on line 18
+2022-12-16 13:55:37 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\profit_and_loss_mapping_form.tpl on line 18
+2022-12-16 13:55:37 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\profit_and_loss_mapping_form.tpl on line 18
+2022-12-16 13:55:37 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\profit_and_loss_mapping_form.tpl on line 185
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 13:55:49 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 231
+2022-12-16 13:55:49 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 18
+2022-12-16 13:55:49 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 18
+2022-12-16 13:55:49 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 18
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: coa_levels1 in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 66
+2022-12-16 13:55:49 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 66
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:49 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:50 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:50 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:50 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:50 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:50 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:50 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:50 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:50 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:50 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:50 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:50 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:50 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:50 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:50 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:50 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:50 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:50 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:50 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:50 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:50 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:50 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:50 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:50 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:50 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:50 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:50 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:50 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:50 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:50 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:50 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:50 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:50 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:50 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 90
+2022-12-16 13:55:50 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\ledger_report.tpl on line 156
+2022-12-16 13:55:54 - PHP Notice:  Undefined index: coa_level1_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\ledger_report.php on line 337
+2022-12-16 13:55:54 - PHP Notice:  Undefined index: coa_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\ledger_report.php on line 369
+2022-12-16 13:55:54 - PHP Notice:  Undefined index: display_name in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\ledger_report.php on line 374
+2022-12-16 13:55:54 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\php_milwa_trading\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2022-12-16 13:56:03 - PHP Notice:  Undefined index: coa_level1_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\ledger_report.php on line 337
+2022-12-16 13:56:03 - PHP Notice:  Undefined index: coa_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\ledger_report.php on line 369
+2022-12-16 13:56:03 - PHP Notice:  Undefined index: display_name in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\ledger_report.php on line 374
+2022-12-16 13:56:03 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\php_milwa_trading\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2022-12-16 13:56:08 - PHP Warning:  Declaration of ControllerGLProfitAndLossMapping::updateData($data) should be compatible with HController::updateData($primary_key, $data) in C:\xampp\htdocs\php_milwa_trading\admin\controller\gl\profit_and_loss_mapping.php on line 93
+2022-12-16 13:56:09 - PHP Warning:  Declaration of ControllerGLProfitAndLossMapping::updateData($data) should be compatible with HController::updateData($primary_key, $data) in C:\xampp\htdocs\php_milwa_trading\admin\controller\gl\profit_and_loss_mapping.php on line 93
+2022-12-16 13:56:09 - PHP Notice:  Undefined index: school_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\gl\profit_and_loss_mapping.php on line 26
+2022-12-16 13:56:09 - PHP Warning:  Declaration of ControllerGLProfitAndLossMapping::updateData($data) should be compatible with HController::updateData($primary_key, $data) in C:\xampp\htdocs\php_milwa_trading\admin\controller\gl\profit_and_loss_mapping.php on line 93
+2022-12-16 13:56:09 - PHP Notice:  Undefined index: setting_id in C:\xampp\htdocs\php_milwa_trading\system\engine\hcontroller.php on line 223
+2022-12-16 13:56:09 - PHP Notice:  Undefined index: setting_id in C:\xampp\htdocs\php_milwa_trading\system\engine\hcontroller.php on line 224
+2022-12-16 13:56:09 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 13:56:09 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 13:56:09 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 231
+2022-12-16 13:56:09 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\profit_and_loss_mapping_form.tpl on line 18
+2022-12-16 13:56:09 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\profit_and_loss_mapping_form.tpl on line 18
+2022-12-16 13:56:09 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\profit_and_loss_mapping_form.tpl on line 18
+2022-12-16 13:56:09 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\profit_and_loss_mapping_form.tpl on line 185
+2022-12-16 13:56:15 - PHP Notice:  Undefined index: date_from in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 610
+2022-12-16 13:56:15 - PHP Notice:  Undefined index: date_from in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 715
+2022-12-16 13:56:15 - PHP Notice:  Undefined index: sale_return_and_discount_account_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 724
+2022-12-16 13:56:15 - PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 724
+2022-12-16 13:56:15 - PHP Notice:  Undefined index: financial_charges_account_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 727
+2022-12-16 13:56:15 - PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 727
+2022-12-16 13:56:15 - PHP Notice:  Undefined index: sale_marketing_account_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 728
+2022-12-16 13:56:15 - PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 728
+2022-12-16 13:56:15 - PHP Notice:  Undefined index: non_operating_income_account_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 729
+2022-12-16 13:56:15 - PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 729
+2022-12-16 13:56:15 - PHP Notice:  Undefined index: Sales Revenue: in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 782
+2022-12-16 13:56:15 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 782
+2022-12-16 13:56:15 - PHP Notice:  Undefined index: Less: Sale Return & Discount: in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 782
+2022-12-16 13:56:15 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 782
+2022-12-16 13:56:15 - PHP Notice:  Undefined index: Less: Cost of Goods Sold: in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 806
+2022-12-16 13:56:15 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 806
+2022-12-16 13:56:15 - PHP Notice:  Undefined index: Less: Admin Expenses: in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 847
+2022-12-16 13:56:15 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 847
+2022-12-16 13:56:15 - PHP Notice:  Undefined index: Less: Sales & Marketing Expenses: in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 847
+2022-12-16 13:56:15 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 847
+2022-12-16 13:56:15 - PHP Notice:  Undefined index: Add: Non Operating Income: in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 872
+2022-12-16 13:56:15 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 872
+2022-12-16 13:56:15 - PHP Notice:  Undefined index: Less: Financial Charges: in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 896
+2022-12-16 13:56:15 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 896
+2022-12-16 13:56:15 - PHP Notice:  Undefined index: Less: Income Tax Expenses: in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 920
+2022-12-16 13:56:15 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 920
+2022-12-16 13:56:15 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\php_milwa_trading\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2022-12-16 13:56:15 - PHP Notice:  Undefined index: date_from in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 966
+2022-12-16 13:56:16 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 986
+2022-12-16 13:56:16 - PHP Notice:  Undefined index: data in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 13:56:16 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 13:56:16 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 986
+2022-12-16 13:56:16 - PHP Notice:  Undefined index: data in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 13:56:16 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 13:56:16 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 986
+2022-12-16 13:56:16 - PHP Notice:  Undefined index: data in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 13:56:16 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 13:56:16 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 986
+2022-12-16 13:56:16 - PHP Notice:  Undefined index: data in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 13:56:16 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 13:56:16 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 986
+2022-12-16 13:56:16 - PHP Notice:  Undefined index: data in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 13:56:16 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 13:56:16 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 986
+2022-12-16 13:56:16 - PHP Notice:  Undefined index: data in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 13:56:16 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 13:56:35 - PHP Warning:  Declaration of ControllerGLProfitAndLossMapping::updateData($data) should be compatible with HController::updateData($primary_key, $data) in C:\xampp\htdocs\php_milwa_trading\admin\controller\gl\profit_and_loss_mapping.php on line 93
+2022-12-16 13:56:35 - PHP Notice:  Undefined index: setting_id in C:\xampp\htdocs\php_milwa_trading\system\engine\hcontroller.php on line 223
+2022-12-16 13:56:35 - PHP Notice:  Undefined index: setting_id in C:\xampp\htdocs\php_milwa_trading\system\engine\hcontroller.php on line 224
+2022-12-16 13:56:35 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 13:56:35 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 13:56:35 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 231
+2022-12-16 13:56:35 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\profit_and_loss_mapping_form.tpl on line 18
+2022-12-16 13:56:35 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\profit_and_loss_mapping_form.tpl on line 18
+2022-12-16 13:56:35 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\profit_and_loss_mapping_form.tpl on line 18
+2022-12-16 13:56:35 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\profit_and_loss_mapping_form.tpl on line 185
+2022-12-16 13:56:43 - PHP Notice:  Undefined index: date_from in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 610
+2022-12-16 13:56:43 - PHP Notice:  Undefined index: date_from in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 715
+2022-12-16 13:56:43 - PHP Notice:  Undefined index: sale_return_and_discount_account_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 724
+2022-12-16 13:56:43 - PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 724
+2022-12-16 13:56:43 - PHP Notice:  Undefined index: financial_charges_account_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 727
+2022-12-16 13:56:43 - PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 727
+2022-12-16 13:56:43 - PHP Notice:  Undefined index: sale_marketing_account_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 728
+2022-12-16 13:56:43 - PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 728
+2022-12-16 13:56:43 - PHP Notice:  Undefined index: non_operating_income_account_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 729
+2022-12-16 13:56:43 - PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 729
+2022-12-16 13:56:43 - PHP Notice:  Undefined index: Sales Revenue: in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 782
+2022-12-16 13:56:43 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 782
+2022-12-16 13:56:43 - PHP Notice:  Undefined index: Less: Sale Return & Discount: in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 782
+2022-12-16 13:56:43 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 782
+2022-12-16 13:56:43 - PHP Notice:  Undefined index: Less: Cost of Goods Sold: in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 806
+2022-12-16 13:56:43 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 806
+2022-12-16 13:56:43 - PHP Notice:  Undefined index: Less: Admin Expenses: in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 847
+2022-12-16 13:56:43 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 847
+2022-12-16 13:56:43 - PHP Notice:  Undefined index: Less: Sales & Marketing Expenses: in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 847
+2022-12-16 13:56:43 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 847
+2022-12-16 13:56:43 - PHP Notice:  Undefined index: Add: Non Operating Income: in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 872
+2022-12-16 13:56:43 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 872
+2022-12-16 13:56:43 - PHP Notice:  Undefined index: Less: Financial Charges: in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 896
+2022-12-16 13:56:43 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 896
+2022-12-16 13:56:43 - PHP Notice:  Undefined index: Less: Income Tax Expenses: in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 920
+2022-12-16 13:56:43 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 920
+2022-12-16 13:56:43 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\php_milwa_trading\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2022-12-16 13:56:43 - PHP Notice:  Undefined index: date_from in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 966
+2022-12-16 13:56:43 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 986
+2022-12-16 13:56:43 - PHP Notice:  Undefined index: data in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 13:56:43 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 13:56:43 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 986
+2022-12-16 13:56:43 - PHP Notice:  Undefined index: data in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 13:56:43 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 13:56:43 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 986
+2022-12-16 13:56:43 - PHP Notice:  Undefined index: data in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 13:56:43 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 13:56:43 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 986
+2022-12-16 13:56:43 - PHP Notice:  Undefined index: data in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 13:56:43 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 13:56:43 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 986
+2022-12-16 13:56:43 - PHP Notice:  Undefined index: data in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 13:56:43 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 13:56:43 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 986
+2022-12-16 13:56:43 - PHP Notice:  Undefined index: data in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 13:56:43 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 13:56:46 - PHP Notice:  Undefined index: date_from in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 610
+2022-12-16 13:56:46 - PHP Notice:  Undefined index: date_from in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 715
+2022-12-16 13:56:46 - PHP Notice:  Undefined index: sale_return_and_discount_account_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 724
+2022-12-16 13:56:46 - PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 724
+2022-12-16 13:56:46 - PHP Notice:  Undefined index: financial_charges_account_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 727
+2022-12-16 13:56:46 - PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 727
+2022-12-16 13:56:46 - PHP Notice:  Undefined index: sale_marketing_account_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 728
+2022-12-16 13:56:46 - PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 728
+2022-12-16 13:56:46 - PHP Notice:  Undefined index: non_operating_income_account_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 729
+2022-12-16 13:56:46 - PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 729
+2022-12-16 13:56:46 - PHP Notice:  Undefined index: Sales Revenue: in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 782
+2022-12-16 13:56:46 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 782
+2022-12-16 13:56:46 - PHP Notice:  Undefined index: Less: Sale Return & Discount: in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 782
+2022-12-16 13:56:46 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 782
+2022-12-16 13:56:46 - PHP Notice:  Undefined index: Less: Cost of Goods Sold: in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 806
+2022-12-16 13:56:46 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 806
+2022-12-16 13:56:46 - PHP Notice:  Undefined index: Less: Admin Expenses: in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 847
+2022-12-16 13:56:46 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 847
+2022-12-16 13:56:46 - PHP Notice:  Undefined index: Less: Sales & Marketing Expenses: in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 847
+2022-12-16 13:56:46 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 847
+2022-12-16 13:56:46 - PHP Notice:  Undefined index: Add: Non Operating Income: in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 872
+2022-12-16 13:56:46 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 872
+2022-12-16 13:56:46 - PHP Notice:  Undefined index: Less: Financial Charges: in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 896
+2022-12-16 13:56:46 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 896
+2022-12-16 13:56:46 - PHP Notice:  Undefined index: Less: Income Tax Expenses: in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 920
+2022-12-16 13:56:46 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 920
+2022-12-16 13:56:46 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\php_milwa_trading\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2022-12-16 13:56:46 - PHP Notice:  Undefined index: date_from in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 966
+2022-12-16 13:56:46 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 986
+2022-12-16 13:56:46 - PHP Notice:  Undefined index: data in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 13:56:46 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 13:56:46 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 986
+2022-12-16 13:56:46 - PHP Notice:  Undefined index: data in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 13:56:46 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 13:56:46 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 986
+2022-12-16 13:56:46 - PHP Notice:  Undefined index: data in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 13:56:46 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 13:56:46 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 986
+2022-12-16 13:56:47 - PHP Notice:  Undefined index: data in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 13:56:47 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 13:56:47 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 986
+2022-12-16 13:56:47 - PHP Notice:  Undefined index: data in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 13:56:47 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 13:56:47 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 986
+2022-12-16 13:56:47 - PHP Notice:  Undefined index: data in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 13:56:47 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 13:57:14 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 13:57:14 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 13:57:14 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 231
+2022-12-16 14:04:17 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 14:04:17 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 14:04:17 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 231
+2022-12-16 14:04:17 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\sale_analysis_report.tpl on line 18
+2022-12-16 14:04:17 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\sale_analysis_report.tpl on line 18
+2022-12-16 14:04:17 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\sale_analysis_report.tpl on line 18
+2022-12-16 14:04:17 - PHP Warning:  Use of undefined constant from_date - assumed 'from_date' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\sale_analysis_report.tpl on line 60
+2022-12-16 14:04:17 - PHP Warning:  Use of undefined constant to_date - assumed 'to_date' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\sale_analysis_report.tpl on line 66
+2022-12-16 14:04:17 - PHP Notice:  Undefined variable: partner_type_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\sale_analysis_report.tpl on line 78
+2022-12-16 14:04:17 - PHP Notice:  Undefined variable: partner_type_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\sale_analysis_report.tpl on line 78
+2022-12-16 14:04:17 - PHP Notice:  Undefined variable: partners in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\sale_analysis_report.tpl on line 88
+2022-12-16 14:04:17 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\sale_analysis_report.tpl on line 88
+2022-12-16 14:04:17 - PHP Notice:  Undefined variable: products in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\sale_analysis_report.tpl on line 100
+2022-12-16 14:04:17 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\sale_analysis_report.tpl on line 100
+2022-12-16 14:04:17 - PHP Notice:  Undefined variable: warehouses in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\sale_analysis_report.tpl on line 118
+2022-12-16 14:04:17 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\sale_analysis_report.tpl on line 118
+2022-12-16 14:04:17 - PHP Warning:  Use of undefined constant group_by - assumed 'group_by' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\sale_analysis_report.tpl on line 127
+2022-12-16 14:04:17 - PHP Warning:  Use of undefined constant text_document - assumed 'text_document' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\sale_analysis_report.tpl on line 129
+2022-12-16 14:04:17 - PHP Warning:  Use of undefined constant text_partner - assumed 'text_partner' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\sale_analysis_report.tpl on line 130
+2022-12-16 14:04:17 - PHP Warning:  Use of undefined constant text_warehouse - assumed 'text_warehouse' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\sale_analysis_report.tpl on line 131
+2022-12-16 14:04:17 - PHP Warning:  Use of undefined constant text_product - assumed 'text_product' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\sale_analysis_report.tpl on line 132
+2022-12-16 14:04:17 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\sale_analysis_report.tpl on line 163
+2022-12-16 14:04:29 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 14:04:29 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 14:04:29 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 231
+2022-12-16 14:04:29 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 18
+2022-12-16 14:04:29 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 18
+2022-12-16 14:04:29 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 18
+2022-12-16 14:04:29 - PHP Warning:  Use of undefined constant entry_to_date - assumed 'entry_to_date' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 61
+2022-12-16 14:04:29 - PHP Warning:  Use of undefined constant entry_group_by - assumed 'entry_group_by' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 69
+2022-12-16 14:04:29 - PHP Warning:  Use of undefined constant text_level3 - assumed 'text_level3' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 71
+2022-12-16 14:04:29 - PHP Warning:  Use of undefined constant text_level2 - assumed 'text_level2' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 72
+2022-12-16 14:04:29 - PHP Warning:  Use of undefined constant text_level1 - assumed 'text_level1' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 73
+2022-12-16 14:04:29 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 110
+2022-12-16 14:04:31 - PHP Notice:  Undefined index: date_from in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 610
+2022-12-16 14:04:31 - PHP Notice:  Undefined index: date_from in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 715
+2022-12-16 14:04:31 - PHP Notice:  Undefined index: sale_return_and_discount_account_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 724
+2022-12-16 14:04:31 - PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 724
+2022-12-16 14:04:31 - PHP Notice:  Undefined index: financial_charges_account_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 727
+2022-12-16 14:04:31 - PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 727
+2022-12-16 14:04:31 - PHP Notice:  Undefined index: sale_marketing_account_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 728
+2022-12-16 14:04:31 - PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 728
+2022-12-16 14:04:31 - PHP Notice:  Undefined index: non_operating_income_account_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 729
+2022-12-16 14:04:31 - PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 729
+2022-12-16 14:04:32 - PHP Notice:  Undefined index: Sales Revenue: in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 782
+2022-12-16 14:04:32 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 782
+2022-12-16 14:04:32 - PHP Notice:  Undefined index: Less: Sale Return & Discount: in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 782
+2022-12-16 14:04:32 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 782
+2022-12-16 14:04:32 - PHP Notice:  Undefined index: Less: Cost of Goods Sold: in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 806
+2022-12-16 14:04:32 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 806
+2022-12-16 14:04:32 - PHP Notice:  Undefined index: Less: Admin Expenses: in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 847
+2022-12-16 14:04:32 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 847
+2022-12-16 14:04:32 - PHP Notice:  Undefined index: Less: Sales & Marketing Expenses: in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 847
+2022-12-16 14:04:32 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 847
+2022-12-16 14:04:32 - PHP Notice:  Undefined index: Add: Non Operating Income: in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 872
+2022-12-16 14:04:32 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 872
+2022-12-16 14:04:32 - PHP Notice:  Undefined index: Less: Financial Charges: in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 896
+2022-12-16 14:04:32 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 896
+2022-12-16 14:04:32 - PHP Notice:  Undefined index: Less: Income Tax Expenses: in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 920
+2022-12-16 14:04:32 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 920
+2022-12-16 14:04:32 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\php_milwa_trading\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2022-12-16 14:04:32 - PHP Notice:  Undefined index: date_from in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 966
+2022-12-16 14:04:32 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 986
+2022-12-16 14:04:32 - PHP Notice:  Undefined index: data in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 14:04:32 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 14:04:32 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 986
+2022-12-16 14:04:32 - PHP Notice:  Undefined index: data in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 14:04:32 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 14:04:32 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 986
+2022-12-16 14:04:32 - PHP Notice:  Undefined index: data in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 14:04:32 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 14:04:32 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 986
+2022-12-16 14:04:32 - PHP Notice:  Undefined index: data in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 14:04:32 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 14:04:32 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 986
+2022-12-16 14:04:32 - PHP Notice:  Undefined index: data in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 14:04:32 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 14:04:32 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 986
+2022-12-16 14:04:32 - PHP Notice:  Undefined index: data in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 14:04:32 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 14:04:48 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 14:04:48 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 14:04:48 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 231
+2022-12-16 14:04:48 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 18
+2022-12-16 14:04:48 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 18
+2022-12-16 14:04:48 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 18
+2022-12-16 14:04:48 - PHP Warning:  Use of undefined constant entry_to_date - assumed 'entry_to_date' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 61
+2022-12-16 14:04:48 - PHP Warning:  Use of undefined constant entry_group_by - assumed 'entry_group_by' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 69
+2022-12-16 14:04:48 - PHP Warning:  Use of undefined constant text_level3 - assumed 'text_level3' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 71
+2022-12-16 14:04:48 - PHP Warning:  Use of undefined constant text_level2 - assumed 'text_level2' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 72
+2022-12-16 14:04:48 - PHP Warning:  Use of undefined constant text_level1 - assumed 'text_level1' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 73
+2022-12-16 14:04:48 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 110
+2022-12-16 15:28:40 - PHP Notice:  Undefined index: product_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\sale_analysis_report.php on line 1684
+2022-12-16 15:28:40 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\php_milwa_trading\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2022-12-16 15:28:40 - PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\php_milwa_trading\system\helper\utility.php on line 420
+2022-12-16 15:28:40 - PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\php_milwa_trading\system\helper\utility.php on line 420
+2022-12-16 15:28:40 - PHP Notice:  Undefined offset: 1 in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\sale_analysis_report.php on line 1859
+2022-12-16 15:28:40 - PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\php_milwa_trading\system\helper\utility.php on line 420
+2022-12-16 15:28:40 - PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\php_milwa_trading\system\helper\utility.php on line 420
+2022-12-16 15:28:40 - PHP Notice:  Undefined offset: 1 in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\sale_analysis_report.php on line 1859
+2022-12-16 15:28:40 - PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\php_milwa_trading\system\helper\utility.php on line 420
+2022-12-16 15:28:40 - PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\php_milwa_trading\system\helper\utility.php on line 420
+2022-12-16 15:28:40 - PHP Notice:  Undefined offset: 1 in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\sale_analysis_report.php on line 1859
+2022-12-16 15:28:40 - PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\php_milwa_trading\system\helper\utility.php on line 420
+2022-12-16 15:28:40 - PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\php_milwa_trading\system\helper\utility.php on line 420
+2022-12-16 15:28:40 - PHP Notice:  Undefined offset: 1 in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\sale_analysis_report.php on line 1859
+2022-12-16 15:28:40 - PHP Warning:  Division by zero in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\sale_analysis_report.php on line 1805
+2022-12-16 15:28:41 - PHP Warning:  Division by zero in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\sale_analysis_report.php on line 1805
+2022-12-16 15:28:41 - PHP Warning:  Division by zero in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\sale_analysis_report.php on line 1805
+2022-12-16 15:28:41 - PHP Warning:  Division by zero in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\sale_analysis_report.php on line 1896
+2022-12-16 15:28:41 - PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\php_milwa_trading\system\helper\utility.php on line 420
+2022-12-16 15:28:41 - PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\php_milwa_trading\system\helper\utility.php on line 420
+2022-12-16 15:28:41 - PHP Notice:  Undefined offset: 1 in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\sale_analysis_report.php on line 1859
+2022-12-16 15:28:41 - PHP Warning:  Division by zero in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\sale_analysis_report.php on line 1805
+2022-12-16 15:28:41 - PHP Warning:  Division by zero in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\sale_analysis_report.php on line 1805
+2022-12-16 15:28:41 - PHP Warning:  Division by zero in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\sale_analysis_report.php on line 1806
+2022-12-16 15:28:41 - PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\php_milwa_trading\system\helper\utility.php on line 420
+2022-12-16 15:28:41 - PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\php_milwa_trading\system\helper\utility.php on line 420
+2022-12-16 15:28:41 - PHP Notice:  Undefined offset: 1 in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\sale_analysis_report.php on line 1859
+2022-12-16 15:28:41 - PHP Warning:  Division by zero in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\sale_analysis_report.php on line 1896
+2022-12-16 15:28:41 - PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\php_milwa_trading\system\helper\utility.php on line 420
+2022-12-16 15:28:41 - PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\php_milwa_trading\system\helper\utility.php on line 420
+2022-12-16 15:28:41 - PHP Notice:  Undefined offset: 1 in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\sale_analysis_report.php on line 1859
+2022-12-16 15:28:50 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 15:28:50 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 15:28:50 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 231
+2022-12-16 15:28:50 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 18
+2022-12-16 15:28:50 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 18
+2022-12-16 15:28:50 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 18
+2022-12-16 15:28:50 - PHP Warning:  Use of undefined constant entry_to_date - assumed 'entry_to_date' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 61
+2022-12-16 15:28:50 - PHP Warning:  Use of undefined constant entry_group_by - assumed 'entry_group_by' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 69
+2022-12-16 15:28:50 - PHP Warning:  Use of undefined constant text_level3 - assumed 'text_level3' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 71
+2022-12-16 15:28:50 - PHP Warning:  Use of undefined constant text_level2 - assumed 'text_level2' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 72
+2022-12-16 15:28:50 - PHP Warning:  Use of undefined constant text_level1 - assumed 'text_level1' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 73
+2022-12-16 15:28:50 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 110
+2022-12-16 15:29:10 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 15:29:10 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 15:29:10 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 231
+2022-12-16 15:29:10 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 18
+2022-12-16 15:29:10 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 18
+2022-12-16 15:29:10 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 18
+2022-12-16 15:29:10 - PHP Warning:  Use of undefined constant entry_to_date - assumed 'entry_to_date' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 61
+2022-12-16 15:29:10 - PHP Warning:  Use of undefined constant entry_group_by - assumed 'entry_group_by' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 69
+2022-12-16 15:29:10 - PHP Warning:  Use of undefined constant text_level3 - assumed 'text_level3' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 71
+2022-12-16 15:29:10 - PHP Warning:  Use of undefined constant text_level2 - assumed 'text_level2' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 72
+2022-12-16 15:29:10 - PHP Warning:  Use of undefined constant text_level1 - assumed 'text_level1' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 73
+2022-12-16 15:29:10 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 110
+2022-12-16 15:30:22 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 15:30:22 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 15:30:22 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 231
+2022-12-16 15:30:22 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\party_ledger.tpl on line 18
+2022-12-16 15:30:22 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\party_ledger.tpl on line 18
+2022-12-16 15:30:22 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\party_ledger.tpl on line 18
+2022-12-16 15:30:22 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\party_ledger.tpl on line 172
+2022-12-16 15:30:27 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 15:30:27 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 15:30:28 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 231
+2022-12-16 15:30:28 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 18
+2022-12-16 15:30:28 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 18
+2022-12-16 15:30:28 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 18
+2022-12-16 15:30:28 - PHP Warning:  Use of undefined constant entry_to_date - assumed 'entry_to_date' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 61
+2022-12-16 15:30:28 - PHP Warning:  Use of undefined constant entry_group_by - assumed 'entry_group_by' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 69
+2022-12-16 15:30:28 - PHP Warning:  Use of undefined constant text_level3 - assumed 'text_level3' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 71
+2022-12-16 15:30:28 - PHP Warning:  Use of undefined constant text_level2 - assumed 'text_level2' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 72
+2022-12-16 15:30:28 - PHP Warning:  Use of undefined constant text_level1 - assumed 'text_level1' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 73
+2022-12-16 15:30:28 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 110
+2022-12-16 15:39:11 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 15:39:11 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 68
+2022-12-16 15:39:11 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 231
+2022-12-16 15:39:11 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 18
+2022-12-16 15:39:11 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 18
+2022-12-16 15:39:11 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 18
+2022-12-16 15:39:11 - PHP Warning:  Use of undefined constant entry_from_date - assumed 'entry_from_date' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 61
+2022-12-16 15:39:11 - PHP Warning:  Use of undefined constant entry_to_date - assumed 'entry_to_date' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 67
+2022-12-16 15:39:11 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\income_statement.tpl on line 106
+2022-12-16 15:39:22 - PHP Notice:  Undefined index: sale_return_and_discount_account_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 724
+2022-12-16 15:39:22 - PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 724
+2022-12-16 15:39:22 - PHP Notice:  Undefined index: financial_charges_account_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 727
+2022-12-16 15:39:22 - PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 727
+2022-12-16 15:39:22 - PHP Notice:  Undefined index: sale_marketing_account_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 728
+2022-12-16 15:39:22 - PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 728
+2022-12-16 15:39:22 - PHP Notice:  Undefined index: non_operating_income_account_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 729
+2022-12-16 15:39:22 - PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 729
+2022-12-16 15:39:22 - PHP Notice:  Undefined index: Less: Sale Return & Discount: in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 782
+2022-12-16 15:39:22 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 782
+2022-12-16 15:39:22 - PHP Notice:  Undefined index: Less: Sales & Marketing Expenses: in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 847
+2022-12-16 15:39:22 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 847
+2022-12-16 15:39:22 - PHP Notice:  Undefined index: Add: Non Operating Income: in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 872
+2022-12-16 15:39:22 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 872
+2022-12-16 15:39:22 - PHP Notice:  Undefined index: Less: Financial Charges: in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 896
+2022-12-16 15:39:22 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 896
+2022-12-16 15:39:22 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\php_milwa_trading\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2022-12-16 15:39:22 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 986
+2022-12-16 15:39:22 - PHP Notice:  Undefined index: data in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 15:39:22 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 15:39:22 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 986
+2022-12-16 15:39:23 - PHP Notice:  Undefined index: data in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 15:39:23 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 15:39:23 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 986
+2022-12-16 15:39:23 - PHP Notice:  Undefined index: data in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 15:39:23 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 15:39:23 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 986
+2022-12-16 15:39:23 - PHP Notice:  Undefined index: data in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 15:39:23 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 15:39:23 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 986
+2022-12-16 15:39:23 - PHP Notice:  Undefined index: data in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 15:39:23 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 15:39:23 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 986
+2022-12-16 15:39:23 - PHP Notice:  Undefined index: data in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990
+2022-12-16 15:39:23 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\income_statement.php on line 990

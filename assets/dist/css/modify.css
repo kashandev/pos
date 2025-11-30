@@ -1,0 +1,727 @@
+/*!
+ *   Theme: Material Admin LTE
+ *   Modify v-1.0
+ *   Author: 
+ *	 Website: 
+ *   License:
+!*/
+
+:root{
+	--m-default:#fff;
+	--m-primary:#1e80b9;
+	--m-secondary:#90A4AE;
+	--m-success:#00C853;
+	--m-danger:#ff5252;
+	--m-info:#47a8e4;
+	--m-white:#fff;
+	--m-dark:#424242;
+	--m-light:#EEEEEE;
+	--m-warning:#FF9100;
+
+	--m-default-hover:#e4e0e0;
+	--m-primary-hover:#158dd2;
+	--m-secondary-hover:#8b99a0;
+	--m-success-hover:#07af4d;
+	--m-danger-hover:#f54242;
+	--m-info-hover:#1881c1;
+	--m-white-hover:#e2e1e1;
+	--m-dark-hover:#504f4f;
+	--m-light-hover:#eae0e0;
+	--m-warning-hover:#de8005;
+
+	--m-bg-header:#1e80b9;
+	--m-bg-header2:#0a6498;
+
+
+	--m-shadow-default:-5px -5px 10px rgb(185 180 180 / 25%), 5px 5px 10px rgb(176 170 170 / 25%);
+	--m-shadow-light:-5px -5px 5px rgb(2 2 2 / 5%), 5px 5px 5px rgb(2 2 2 / 5%);
+	--m-shadow-dark:-5px -5px 10px rgb(113 110 110 / 25%), 5px 5px 10px rgb(111 110 110 / 25%);
+	--m-shadow-1:0 2px 5px 0 rgba(0,0,0,.2), 0 2px 10px 0 rgba(0,0,0,.1);
+}
+
+/* -------------------------------------------------------------
+    -- MAIN CONTENT --
+---------------------------------------------------------------- */
+
+.content-wrapper{
+	background:var(--m-white);
+	padding:20px;
+}
+
+.main-header{
+	background:var(--m-bg-header);
+	box-shadow: 5px 0 10px -10px inset var(--m-dark), 
+	var(--m-shadow-light);
+}
+
+/* -------------------------------------------------------------
+    -- NAVIAGATION HEADER AND SIDEBAR --
+---------------------------------------------------------------- */
+.skin-blue .main-header .navbar{
+	background:var(--m-bg-header);
+}
+
+.skin-blue .wrapper, .skin-blue .main-sidebar, .skin-blue .left-side{
+	background:var(--m-bg-header);
+	box-shadow: 10px -10px 5px rgb(234 233 233);
+}
+
+.skin-blue .sidebar-menu > li:hover > a, .skin-blue .sidebar-menu > li.active > a {
+	background:var(--m-bg-header);
+	border:0;
+}
+
+.skin-blue .sidebar-menu li  .treeview-menu{
+	background:var(--m-bg-header2);
+	border:0;
+}
+
+.navbar-custom-menu > .navbar-nav > li > .dropdown-menu{
+	box-shadow: 5px 0 10px -10px inset var(--m-dark), 
+	var(--m-shadow-light);
+	border-radius:0 0 10px 10px;
+}
+
+.skin-blue .main-header li.user-header{
+	background:var(--m-bg-header);
+	
+}
+
+.navbar-nav > .user-menu > .dropdown-menu > .user-footer{
+	padding:20px
+}
+
+.skin-blue .wrapper, .skin-blue .main-sidebar, .skin-blue .left-side{
+	background:var(--m-bg-header);
+	box-shadow: 10px -10px 5px rgb(234 233 233);
+}
+
+.sidebar-mini.sidebar-collapse .sidebar-menu > li:hover > .treeview-menu{
+	margin-left:-3px;
+}
+
+/* -------------------------------------------------------------
+    -- PAGE CONTENT HEADER --
+---------------------------------------------------------------- */
+
+.content-header{
+	box-shadow: 5px 0 10px -10px inset var(--m-dark), 
+	var(--m-shadow-light);
+	position:relative;
+	padding:20px 30px;
+	border-radius:10px;
+}
+
+.content{
+	padding:20px 0;
+}
+
+/* -------------------------------------------------------------
+    -- ALERT --
+---------------------------------------------------------------- */
+
+.alert{
+	box-shadow:var(--m-shadow-light);
+	border-radius:5px;
+}
+.alert-primary{
+	border-left:10px solid var(--m-primary);
+	box-shadow: 5px 0 10px -10px inset var(--m-dark), 
+	var(--m-shadow-light);
+}
+.alert-secondary{
+	border-left:10px solid var(--m-secondary);
+	box-shadow: 5px 0 10px -10px inset var(--m-dark), 
+	var(--m-shadow-light);
+}
+.alert-success{
+	border-left:10px solid var(--m-success);
+	box-shadow: 5px 0 10px -10px inset var(--m-dark), 
+	var(--m-shadow-light);
+}
+.alert-danger{
+	border-left:10px solid var(--m-danger);
+	box-shadow: 5px 0 10px -10px inset var(--m-dark), 
+	var(--m-shadow-light);
+}
+.alert-info{
+	border-left:10px solid var(--m-info);
+	box-shadow: 5px 0 10px -10px inset var(--m-dark), 
+	var(--m-shadow-light);
+}
+.alert-light{
+	border-left:10px solid var(--m-light);
+	box-shadow: 5px 0 10px -10px inset var(--m-dark), 
+	var(--m-shadow-light);
+}
+.alert-dark{
+	border-left:10px solid var(--m-dark);
+	box-shadow: 5px 0 10px -10px inset var(--m-dark), 
+	var(--m-shadow-light);
+}
+
+.alert-warning{
+	border-left:10px solid var(--m-warning);
+	box-shadow: 5px 0 10px -10px inset var(--m-dark), 
+	var(--m-shadow-light);
+}
+
+
+/* -------------------------------------------------------------
+    -- CALLOUTS --
+---------------------------------------------------------------- */
+.callout{
+	box-shadow:var(--m-shadow-light);
+	border-radius:5px;
+}
+.callout-primary{
+	border-left:5px solid var(--m-primary);
+	box-shadow: 5px 0 10px -8px inset var(--m-dark), 
+	var(--m-shadow-light);
+}
+.callout-secondary{
+	border-left:5px solid var(--m-secondary);
+	box-shadow: 5px 0 10px -8px inset var(--m-dark), 
+	var(--m-shadow-light);
+}
+.callout-success{
+	border-left:5px solid var(--m-success);
+	box-shadow: 5px 0 10px -8px inset var(--m-dark), 
+	var(--m-shadow-light);
+}
+.callout-danger{
+	border-left:5px solid var(--m-danger);
+	box-shadow: 5px 0 10px -8px inset var(--m-dark), 
+	var(--m-shadow-light);
+}
+.callout-info{
+	border-left:5px solid var(--m-info);
+	box-shadow: 5px 0 10px -8px inset var(--m-dark), 
+	var(--m-shadow-light);
+}
+.callout-light{
+	border-left:5px solid var(--m-light);
+	box-shadow: 5px 0 10px -8px inset var(--m-dark), 
+	var(--m-shadow-light);
+}
+.callout-dark{
+	border-left:5px solid var(--m-dark);
+	box-shadow: 5px 0 10px -8px inset var(--m-dark), 
+	var(--m-shadow-light);
+}
+
+.callout-warning{
+	border-left:5px solid var(--m-warning);
+	box-shadow: 5px 0 10px -8px inset var(--m-dark), 
+	var(--m-shadow-light);
+}
+
+/* -------------------------------------------------------------
+    -- BOX --
+---------------------------------------------------------------- */
+.box{
+	box-shadow:	var(--m-shadow-light);
+	border-radius:10px;
+	background:var(--m-white);
+	border:0;
+}
+
+.box .box-header{
+/* 	box-shadow: 1px 1px 5px -5px inset var(--m-dark),  */
+	var(--m-shadow-dark);
+	border-radius:10px 10px 0 0;
+	padding:15px;
+}
+
+.box .box-header .form-control{
+	/* border:initial; */
+	box-shadow:none;
+}
+
+.box .box-body .dataTables_length .form-control,
+.box .box-body .dataTables_filter .form-control{
+	box-shadow:none;
+	border-top: 0;
+	border-left: 0;
+	border-right: 0
+}
+
+.box .box-header .btn{
+	box-shadow:none !important;
+}
+
+.box .box-body{
+	padding:20px;
+}
+
+.box .box-footer{
+	padding:30px;
+}
+
+.box .box-header,
+.box .box-body,
+.box .box-footer{
+	border:0;
+}
+
+/* -------------------------------------------------------------
+    -- NAV TABS --
+---------------------------------------------------------------- */
+.nav-tabs-custom {
+	border-radius:10px;
+	overflow:hidden;
+	box-shadow: 1px 1px 5px -5px inset var(--m-dark), 
+	var(--m-shadow-dark);
+}
+
+.nav-tabs-custom>.nav-tabs {
+    border:0;
+    position:relative;
+    box-shadow: 1px 1px 5px -5px inset var(--m-dark), 
+	var(--m-shadow-dark)
+}
+
+.nav-tabs-custom>.nav-tabs>li {
+    border-top: 5px solid transparent;
+    transition:.5s ease-out;
+}
+
+.nav-tabs-custom>.nav-tabs>li.active {
+    border-top-color: var(--m-primary);
+    transition:.5s ease-in;
+}
+
+.nav-tabs-custom>.nav-tabs>li.active>a{
+	border:0;
+}
+
+.nav-tabs-custom>.tab-content{
+	margin:10px
+}
+
+/* -------------------------------------------------------------
+    -- BUTTONS --
+---------------------------------------------------------------- */
+
+.btn,
+.btn:focus{
+	border-radius:3px !important;
+	border:0 !important;
+	box-shadow:var(--m-shadow-1) !important;
+	font-weight:600;
+	transition: .25s ease-out;
+	outline:none !important
+}
+
+button,
+button:focus,
+button:active,
+.btn,
+.btn:focus,
+.btn:active,
+.input-group-btn .btn,
+.input-group-btn .btn:focus,
+.input-group-btn .btn:active,
+.btn.form-control,
+.btn.form-control:focus,
+.btn.form-control:active,{
+    outline:none !important;
+   
+}
+
+.form-control.btn{
+	margin:10px 0;
+}
+
+.form-control.btn:hover,
+.btn:hover{
+	transition: .25s ease-in;
+}
+
+
+.form-control.btn-round-10,
+.btn-round-10{
+    border-radius: 10px;
+}
+
+.form-control.btn-round-15,
+.btn-round-15{
+    border-radius: 15px;
+}
+
+.form-control.btn-round-25,
+.btn-round-25{
+    border-radius: 25px;
+}
+
+.form-control.btn-round-35,
+.btn-round-35{
+    border-radius: 35px;
+}
+
+.btn-primary,
+.form-control.btn-primary{
+	background: var(--m-primary) !important;
+}
+.btn-secondary,
+.form-control.btn-secondary{
+	background: var(--m-secondary) !important;
+}
+.btn-success,
+.form-control.btn-success{
+	background: var(--m-success) !important;
+}
+.btn-danger,
+.form-control.btn-danger{
+	background: var(--m-danger) !important;
+}
+.btn-info,
+.form-control.btn-info{
+	background: var(--m-info) !important;
+}
+.btn-light,
+.form-control.btn-light{
+	background: var(--m-light) !important;
+}
+.btn-dark,
+.form-control.btn-dark{
+	background: var(--m-dark) !important;
+}
+
+.btn-warning:hover,
+.form-control.btn-warning:hover{
+	background: var(--m-warning-hover) !important;
+}
+.btn-default:hover,
+.form-control.btn-default:hover{
+	background: var(--m-default-hover) !important;
+}
+
+.btn-primary:hover,
+.form-control.btn-primary:hover{
+	background: var(--m-primary-hover) !important;
+}
+.btn-secondary:hover,
+.form-control.btn-secondary:hover{
+	background: var(--m-secondary-hover) !important;
+}
+.btn-success:hover,
+.form-control.btn-success:hover{
+	background: var(--m-success-hover) !important;
+}
+.btn-danger:hover,
+.form-control.btn-danger:hover{
+	background: var(--m-danger-hover) !important;
+}
+.btn-info:hover,
+.form-control.btn-info:hover{
+	background: var(--m-info-hover) !important;
+}
+.btn-light:hover,
+.form-control.btn-light:hover{
+	background: var(--m-light-hover) !important;
+}
+.btn-dark:hover,
+.form-control.btn-dark:hover{
+	background: var(--m-dark-hover) !important;
+}
+
+.btn-warning:hover,
+.form-control.btn-warning:hover{
+	background: var(--m-warning-hover) !important;
+}
+.btn-default:hover,
+.form-control.btn-default:hover{
+	background: var(--m-default-hover) !important;
+}
+
+/* -------------------------------------------------------------
+    -- MODALS --
+---------------------------------------------------------------- */
+.modal .modal-dialog{
+	box-shadow:var(--m-shadow-light);
+	border-radius:10px;
+	overflow:hidden;
+}
+
+.modal.modal-primary .modal-dialog .modal-content{
+	background:var(--m-primary)
+}
+
+.modal.modal-secondary .modal-dialog .modal-content{
+	background:var(--m-secondary)
+}
+
+.modal.modal-success .modal-dialog .modal-content{
+	background:var(--m-success)
+}
+
+.modal.modal-danger .modal-dialog .modal-content{
+	background:var(--m-danger)
+}
+
+.modal.modal-warning .modal-dialog .modal-content{
+	background:var(--m-warning)
+}
+
+.modal.modal-info .modal-dialog .modal-content{
+	background:var(--m-info)
+}
+
+.modal.modal-dark .modal-dialog .modal-content{
+	background:var(--m-dark)
+}
+
+.modal.modal-light .modal-dialog .modal-content{
+	background:var(--m-light)
+}
+
+
+.modal.modal-white .modal-dialog .modal-content{
+	background:var(--m-white)
+}
+
+.modal.modal-default .modal-dialog .modal-content{
+	background:var(--m-default)
+}
+
+.modal .modal-dialog .modal-content .modal-header,
+.modal .modal-dialog .modal-content .modal-body,
+.modal .modal-dialog .modal-content .modal-footer{
+	border:0;
+	padding:25px;
+	background:none !important;
+}
+
+.modal .modal-dialog .modal-content .modal-title{
+	font-weight:500;
+}
+
+/* -------------------------------------------------------------
+    -- FORMS ELEMENTS --
+---------------------------------------------------------------- */
+label{
+	color:var(--m-secondary)
+}
+
+label.required{
+	color:var(--m-danger);
+}
+
+.form-control:not(.btn),
+.form-control:not(.btn):focus{
+	border-radius:0 !important;
+	box-shadow: var(--m-shadow-default) !important;
+	border-width:1px !important;
+	border-color:var(--m-light) !important;
+	border-bottom-color: var(--m-primary) !important;
+	background:var(--m-white) !important;
+	border-bottom-width:2px !important;
+}
+
+.form-control:not(.btn)[readonly],
+.form-control:not(.btn)[disabled]{
+	background:var(--m-light) !important;
+	box-shadow:none !important
+}
+
+.input-group .input-group-addon{
+    border-color:var(--m-light) !important;
+    border-bottom-color: var(--m-primary) !important;
+	border-bottom-width:2px !important;
+	z-index:999 !important;
+	position:relative !important;
+	box-shadow:var(--m-shadow-dark) !important;
+	border:0 !important;
+	transform:scale(1.05) !important;
+}
+
+/* -------------------------------------------------------------
+    -- SELECT 2 --
+---------------------------------------------------------------- */
+.select2 .select2-selection{
+	border-radius:0;
+	box-shadow:var(--m-shadow-default);
+	border-width:1px !important;
+    border-color:var(--m-light) !important;
+    border-bottom-color: var(--m-primary) !important;
+	background:var(--m-white);
+	border-bottom-width:2px !important;
+}
+
+.select2 .select2-selection 
+.select2-selection__rendered{
+	padding-left:10px;
+	padding-right:10px;
+}
+
+.select2-selection__rendered{}
+.select2-selection__rendered 
+.select2-selection__choice{
+	background:var(--m-info) !important;
+	border:0 !important;
+	box-shadow:var(--m-shadow-1);
+	font-weight:600;
+	color:var(--m-white) !important;
+}
+.select2-selection__rendered 
+.select2-selection__choice 
+.select2-selection__choice__remove{
+	color:var(--m-white)
+}
+
+/* -------------------------------------------------------------
+    -- PAGINATION --
+---------------------------------------------------------------- */
+.pagination{
+}
+.pagination li{
+}
+
+.pagination li a{
+    background:var(--m-white);
+    transition:.25s ease-out
+}
+
+.pagination li.active a,
+.pagination li a:focus,
+.pagination li a:hover, 
+.pagination li span:focus, 
+.pagination li span:hover {
+    color: var(--m-white);
+    background-color: var(--m-primary);
+    box-shadow:var(--m-shadow-1);
+    border-color:transparent !important;
+    transform:scale(1.1);
+    transition:.25s ease-in;
+    font-weight:600;
+}
+
+
+/* -------------------------------------------------------------
+    -- WIDGETS  --
+---------------------------------------------------------------- */
+.info-box,
+.small-box{
+	box-shadow:var(--m-shadow-1);
+	border-radius:5px;
+	overflow:hidden;
+}
+.info-box
+.info-box-icon{
+	background:none;
+	box-shadow: 1px 0 5px var(--m-dark);
+	border:0 !important;
+	border-radius:0 !important;
+}
+
+.small-box .small-box-footer {
+    box-shadow:0 -1px 20px var(--m-dark);
+    padding:10px 0;
+}
+
+.bg-aqua{
+	background:var(--m-primary) !important
+}
+.bg-green{
+	background:var(--m-success) !important
+}
+.bg-red{
+	background:var(--m-danger) !important
+}
+.bg-yellow{
+    background:var(--m-warning) !important
+}
+
+/* -------------------------------------------------------------
+    -- PANNEL --
+---------------------------------------------------------------- */
+.panel{
+	box-shadow:var(--m-shadow-1);
+	border-radius:10px;
+	border:0;
+	overflow:hidden;
+}
+
+.panel .panel-heading{
+	background:var(--m-white);
+	box-shadow: 1px 1px 5px -5px inset var(--m-dark), 
+	var(--m-shadow-dark)
+}
+
+.panel .panel-collapse{
+	padding:15px;
+}
+
+/* -------------------------------------------------------------
+    -- TABLE --
+---------------------------------------------------------------- */
+.table-responsive::-webkit-scrollbar{
+    width:10px;
+    height:10px;
+}
+
+.table-responsive::-webkit-scrollbar-track{
+	background:var(--m-light)
+}
+
+.table-responsive::-webkit-scrollbar-thumb{
+	background:var(--m-primary);
+	border-radius:5px;
+}
+
+/* -------------------------------------------------------------
+    -- IMAGES --
+---------------------------------------------------------------- */
+.img-thumbnail{
+	box-shadow: 1px 1px 5px -5px inset var(--m-dark), 
+	var(--m-shadow-dark);
+	border-radius:10px;
+}
+
+
+/* -------------------------------------------------------------
+    -- BREAD CRUMBS --
+---------------------------------------------------------------- */
+.breadcrumb{
+    padding:10px 0;
+}
+
+.breadcrumb li{}
+
+.breadcrumb li a{
+	color:var(--m-secondary);
+	font-weight:600;
+}
+
+/* -------------------------------------------------------------
+    -- TOGGLE BUTTON CHECKBOX --
+---------------------------------------------------------------- */
+.sale_button .slider{
+	background:var(--m-secondary) !important;
+}
+
+.sale_button input:checked + .slider{
+	background:var(--m-primary) !important
+}
+
+.sale_button .slider.round,
+.sale_button .slider:before{
+	box-shadow: var(--m-shadow-1);
+}
+
+.sale_button .slider:before{
+	background:var(--m-white) !important;
+}
+
+
+/* -------------------------------------------------------------
+    -- FOOTER --
+---------------------------------------------------------------- */
+.main-footer{
+	box-shadow: 5px 0 10px -10px inset var(--m-dark), 
+	var(--m-shadow-light);
+	position:relative;
+	padding:20px 30px;
+	border:0;
+}

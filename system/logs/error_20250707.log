@@ -1,0 +1,56 @@
+2025-07-07 10:35:10 - PHP Notice:  Undefined index: db_name in C:\xampp\htdocs\boot_store\system\engine\hmodel.php on line 12
+2025-07-07 10:35:10 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\boot_store\admin\view\template\common\preset.tpl on line 52
+2025-07-07 10:35:10 - PHP Notice:  Undefined variable: fiscal_year_id in C:\xampp\htdocs\boot_store\admin\controller\common\preset.php on line 228
+2025-07-07 10:35:13 - PHP Notice:  Undefined index: db_name in C:\xampp\htdocs\boot_store\system\engine\hmodel.php on line 12
+2025-07-07 10:35:14 - PHP Notice:  Undefined index: case_id in C:\xampp\htdocs\boot_store\admin\controller\common\home.php on line 55
+2025-07-07 10:35:14 - PHP Notice:  Undefined index: case_id in C:\xampp\htdocs\boot_store\admin\controller\common\home.php on line 56
+2025-07-07 10:35:15 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 68
+2025-07-07 10:35:15 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 68
+2025-07-07 10:35:15 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 231
+2025-07-07 10:35:15 - PHP Notice:  Undefined index: company_logo in C:\xampp\htdocs\boot_store\admin\controller\common\page_header.php on line 24
+2025-07-07 10:35:15 - PHP Notice:  Undefined index: base_currency_id in C:\xampp\htdocs\boot_store\admin\controller\common\page_header.php on line 30
+2025-07-07 10:35:15 - PHP Notice:  Undefined index: currency_id in C:\xampp\htdocs\boot_store\admin\controller\common\page_header.php on line 33
+2025-07-07 10:35:15 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\boot_store\admin\controller\common\page_header.php on line 34
+2025-07-07 10:35:15 - PHP Notice:  Undefined index: inventory_sale_invoice in C:\xampp\htdocs\boot_store\admin\view\template\common\home.tpl on line 36
+2025-07-07 10:35:18 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 68
+2025-07-07 10:35:18 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 68
+2025-07-07 10:35:18 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 231
+2025-07-07 10:35:18 - PHP Notice:  Undefined index: company_logo in C:\xampp\htdocs\boot_store\admin\controller\common\page_header.php on line 24
+2025-07-07 10:35:18 - PHP Notice:  Undefined index: base_currency_id in C:\xampp\htdocs\boot_store\admin\controller\common\page_header.php on line 30
+2025-07-07 10:35:18 - PHP Notice:  Undefined index: currency_id in C:\xampp\htdocs\boot_store\admin\controller\common\page_header.php on line 33
+2025-07-07 10:35:18 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\boot_store\admin\controller\common\page_header.php on line 34
+2025-07-07 10:35:18 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_list.tpl on line 19
+2025-07-07 10:35:18 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_list.tpl on line 19
+2025-07-07 10:35:18 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_list.tpl on line 19
+2025-07-07 10:35:18 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_list.tpl on line 78
+2025-07-07 10:35:33 - PHP Notice:  Undefined index: db_name in C:\xampp\htdocs\boot_store\system\engine\hmodel.php on line 12
+2025-07-07 10:35:33 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\boot_store\admin\view\template\common\preset.tpl on line 52
+2025-07-07 10:35:33 - PHP Notice:  Undefined variable: fiscal_year_id in C:\xampp\htdocs\boot_store\admin\controller\common\preset.php on line 228
+2025-07-07 10:35:37 - PHP Notice:  Undefined index: db_name in C:\xampp\htdocs\boot_store\system\engine\hmodel.php on line 12
+2025-07-07 10:35:37 - PHP Notice:  Undefined index: case_id in C:\xampp\htdocs\boot_store\admin\controller\common\home.php on line 55
+2025-07-07 10:35:37 - PHP Notice:  Undefined index: case_id in C:\xampp\htdocs\boot_store\admin\controller\common\home.php on line 56
+2025-07-07 10:35:37 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 68
+2025-07-07 10:35:37 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 68
+2025-07-07 10:35:37 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 231
+2025-07-07 10:35:37 - PHP Notice:  Undefined index: inventory_sale_invoice in C:\xampp\htdocs\boot_store\admin\view\template\common\home.tpl on line 36
+2025-07-07 10:35:40 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 68
+2025-07-07 10:35:40 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 68
+2025-07-07 10:35:40 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 231
+2025-07-07 10:35:40 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_list.tpl on line 19
+2025-07-07 10:35:40 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_list.tpl on line 19
+2025-07-07 10:35:40 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_list.tpl on line 19
+2025-07-07 10:35:40 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_list.tpl on line 78
+2025-07-07 10:35:43 - PHP Notice:  Undefined index: ref_document_id in C:\xampp\htdocs\boot_store\admin\controller\inventory\purchase_invoice.php on line 1824
+2025-07-07 10:35:43 - PHP Notice:  Undefined index: customer_unit_id in C:\xampp\htdocs\boot_store\admin\controller\inventory\purchase_invoice.php on line 1827
+2025-07-07 10:35:43 - PHP Notice:  Undefined index: ref_document_id in C:\xampp\htdocs\boot_store\admin\controller\inventory\purchase_invoice.php on line 1837
+2025-07-07 10:35:43 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\boot_store\admin\controller\inventory\purchase_invoice.php on line 1839
+2025-07-07 10:35:43 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\boot_store\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-07-07 10:35:43 - PHP Notice:  Undefined index: po_date in C:\xampp\htdocs\boot_store\admin\controller\inventory\purchase_invoice.php on line 1878
+2025-07-07 10:35:44 - PHP Notice:  Undefined index: po_date in C:\xampp\htdocs\boot_store\admin\controller\inventory\purchase_invoice.php on line 1951
+2025-07-07 10:35:44 - PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\boot_store\system\helper\utility.php on line 420
+2025-07-07 10:35:44 - PHP Notice:  Undefined index: freight_master in C:\xampp\htdocs\boot_store\admin\controller\inventory\purchase_invoice.php on line 2272
+2025-07-07 10:35:44 - PHP Notice:  Undefined index: freight_master in C:\xampp\htdocs\boot_store\admin\controller\inventory\purchase_invoice.php on line 2279
+2025-07-07 10:35:47 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\boot_store\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-07-07 10:35:47 - PHP Notice:  Undefined index: print_name in C:\xampp\htdocs\boot_store\admin\controller\inventory\purchase_invoice.php on line 1569
+2025-07-07 10:35:47 - PHP Notice:  Undefined index: amount_received in C:\xampp\htdocs\boot_store\admin\controller\inventory\purchase_invoice.php on line 1726
+2025-07-07 10:35:47 - PHP Notice:  Undefined index: freight_master in C:\xampp\htdocs\boot_store\admin\controller\inventory\purchase_invoice.php on line 1741

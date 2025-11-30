@@ -1,0 +1,984 @@
+2025-12-01 0:00:00 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:00:00 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4880
+2025-12-01 0:00:00 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4900
+2025-12-01 0:00:25 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:00:25 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4880
+2025-12-01 0:00:25 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4900
+2025-12-01 0:00:38 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:00:38 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4880
+2025-12-01 0:00:38 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4900
+2025-12-01 0:00:46 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:00:46 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4880
+2025-12-01 0:00:46 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4900
+2025-12-01 0:01:19 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:01:19 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4880
+2025-12-01 0:01:19 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4900
+2025-12-01 0:01:50 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:01:50 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4881
+2025-12-01 0:01:50 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4901
+2025-12-01 0:02:02 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:02:02 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4880
+2025-12-01 0:02:02 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4900
+2025-12-01 0:02:15 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:02:15 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4880
+2025-12-01 0:02:15 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4900
+2025-12-01 0:02:39 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:02:39 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4880
+2025-12-01 0:02:39 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4900
+2025-12-01 0:02:52 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:02:52 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4880
+2025-12-01 0:02:52 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4900
+2025-12-01 0:03:06 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:03:06 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4880
+2025-12-01 0:03:06 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4900
+2025-12-01 0:03:54 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:03:54 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4882
+2025-12-01 0:03:54 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4902
+2025-12-01 0:04:05 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:04:05 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4881
+2025-12-01 0:04:05 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4901
+2025-12-01 0:04:36 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:04:36 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4879
+2025-12-01 0:04:36 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4899
+2025-12-01 0:04:44 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:04:44 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4879
+2025-12-01 0:04:44 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4899
+2025-12-01 0:05:36 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:05:36 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4879
+2025-12-01 0:05:36 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4899
+2025-12-01 0:06:42 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:06:42 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4880
+2025-12-01 0:06:42 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4900
+2025-12-01 0:06:53 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:06:53 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4880
+2025-12-01 0:06:53 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4900
+2025-12-01 0:07:08 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:07:08 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4880
+2025-12-01 0:07:08 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4900
+2025-12-01 0:07:23 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:07:23 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4880
+2025-12-01 0:07:23 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4900
+2025-12-01 0:07:23 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:07:23 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4880
+2025-12-01 0:07:23 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4900
+2025-12-01 0:07:32 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:07:32 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4877
+2025-12-01 0:07:32 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4897
+2025-12-01 0:07:44 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:07:44 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4879
+2025-12-01 0:07:44 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4899
+2025-12-01 0:09:25 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:09:25 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4879
+2025-12-01 0:09:25 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4899
+2025-12-01 0:09:43 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\pos\admin\view\template\common\column_left.tpl on line 68
+2025-12-01 0:09:43 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\pos\admin\view\template\common\column_left.tpl on line 68
+2025-12-01 0:09:43 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\pos\admin\view\template\common\column_left.tpl on line 231
+2025-12-01 0:09:43 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_list.tpl on line 19
+2025-12-01 0:09:43 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_list.tpl on line 19
+2025-12-01 0:09:43 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_list.tpl on line 19
+2025-12-01 0:09:43 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_list.tpl on line 76
+2025-12-01 0:11:03 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\pos\admin\view\template\common\column_left.tpl on line 68
+2025-12-01 0:11:03 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\pos\admin\view\template\common\column_left.tpl on line 68
+2025-12-01 0:11:03 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\pos\admin\view\template\common\column_left.tpl on line 231
+2025-12-01 0:11:03 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_list.tpl on line 19
+2025-12-01 0:11:03 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_list.tpl on line 19
+2025-12-01 0:11:03 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_list.tpl on line 19
+2025-12-01 0:11:03 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_list.tpl on line 76
+2025-12-01 0:11:06 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:11:06 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4879
+2025-12-01 0:11:06 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4899
+2025-12-01 0:11:30 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:11:30 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4879
+2025-12-01 0:11:30 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4899
+2025-12-01 0:11:53 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:11:53 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4879
+2025-12-01 0:11:53 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4899
+2025-12-01 0:12:19 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:12:19 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4879
+2025-12-01 0:12:19 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4899
+2025-12-01 0:12:49 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:12:49 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4879
+2025-12-01 0:12:49 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4899
+2025-12-01 0:12:58 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:12:58 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4879
+2025-12-01 0:12:58 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4899
+2025-12-01 0:13:05 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:13:05 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4879
+2025-12-01 0:13:05 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4899
+2025-12-01 0:13:52 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:13:52 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4879
+2025-12-01 0:13:52 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4899
+2025-12-01 0:14:07 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:14:07 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4879
+2025-12-01 0:14:07 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4899
+2025-12-01 0:14:28 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:14:28 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4879
+2025-12-01 0:14:28 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4899
+2025-12-01 0:15:22 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:15:22 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4879
+2025-12-01 0:15:22 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4899
+2025-12-01 0:15:33 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:15:33 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4879
+2025-12-01 0:15:33 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4899
+2025-12-01 0:16:13 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:16:13 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4879
+2025-12-01 0:16:13 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4899
+2025-12-01 0:16:27 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:16:27 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4879
+2025-12-01 0:16:27 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4899
+2025-12-01 0:16:36 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:16:36 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4879
+2025-12-01 0:16:36 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4899
+2025-12-01 0:16:43 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:16:43 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4879
+2025-12-01 0:16:43 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4899
+2025-12-01 0:16:53 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:16:53 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4879
+2025-12-01 0:16:53 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4899
+2025-12-01 0:17:03 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:17:03 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4879
+2025-12-01 0:17:03 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4899
+2025-12-01 0:17:34 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:17:34 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4882
+2025-12-01 0:17:34 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4902
+2025-12-01 0:17:57 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:17:57 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4882
+2025-12-01 0:17:57 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4902
+2025-12-01 0:18:13 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:18:13 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4882
+2025-12-01 0:18:13 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4902
+2025-12-01 0:18:21 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:18:21 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4881
+2025-12-01 0:18:21 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4901
+2025-12-01 0:18:45 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:18:45 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4881
+2025-12-01 0:18:45 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4901
+2025-12-01 0:19:04 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:19:04 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4881
+2025-12-01 0:19:04 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4901
+2025-12-01 0:19:11 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:19:11 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4881
+2025-12-01 0:19:11 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4901
+2025-12-01 0:19:13 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:19:13 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4881
+2025-12-01 0:19:13 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4901
+2025-12-01 0:27:49 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:27:49 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4883
+2025-12-01 0:27:49 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4903
+2025-12-01 0:27:57 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4232
+2025-12-01 0:27:57 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:27:57 - PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\pos\system\helper\utility.php on line 420
+2025-12-01 0:27:57 - PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\pos\system\helper\utility.php on line 420
+2025-12-01 0:28:16 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:28:16 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4882
+2025-12-01 0:28:16 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4902
+2025-12-01 0:32:52 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:32:52 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4887
+2025-12-01 0:32:52 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4907
+2025-12-01 0:33:11 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:33:11 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4887
+2025-12-01 0:33:11 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4907
+2025-12-01 0:33:17 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:33:17 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4887
+2025-12-01 0:33:17 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4907
+2025-12-01 0:33:28 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:33:28 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4887
+2025-12-01 0:33:28 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4907
+2025-12-01 0:33:46 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:33:46 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4887
+2025-12-01 0:33:46 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4907
+2025-12-01 0:33:58 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:33:58 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4887
+2025-12-01 0:33:58 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4907
+2025-12-01 0:34:12 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:34:12 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4887
+2025-12-01 0:34:12 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4907
+2025-12-01 0:34:19 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:34:19 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4887
+2025-12-01 0:34:19 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4907
+2025-12-01 0:34:43 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:34:43 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4887
+2025-12-01 0:34:43 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4907
+2025-12-01 0:35:04 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:35:04 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4887
+2025-12-01 0:35:04 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4907
+2025-12-01 0:35:49 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:35:49 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4887
+2025-12-01 0:35:49 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4907
+2025-12-01 0:36:51 - PHP Notice:  Undefined index: sale_tax_invoice_id in C:\xampp\htdocs\pos\system\engine\hcontroller.php on line 223
+2025-12-01 0:36:51 - PHP Notice:  Undefined index: sale_tax_invoice_id in C:\xampp\htdocs\pos\system\engine\hcontroller.php on line 224
+2025-12-01 0:36:51 - PHP Notice:  Undefined index: sale_tax_invoice_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 336
+2025-12-01 0:36:51 - PHP Notice:  Undefined index: sale_tax_invoice_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 338
+2025-12-01 0:36:51 - PHP Notice:  Undefined index: announcement_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 340
+2025-12-01 0:36:51 - PHP Notice:  Undefined index: sale_tax_invoice_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 342
+2025-12-01 0:36:51 - PHP Notice:  Undefined index: sale_tax_invoice_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 344
+2025-12-01 0:36:51 - PHP Notice:  Undefined index: sale_tax_invoice_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 346
+2025-12-01 0:36:51 - PHP Notice:  Undefined index: sale_tax_invoice_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 348
+2025-12-01 0:36:51 - PHP Notice:  Undefined index: sale_tax_invoice_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 350
+2025-12-01 0:36:51 - PHP Notice:  Undefined index: sale_tax_invoice_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 352
+2025-12-01 0:36:51 - PHP Notice:  Undefined index: sale_tax_invoice_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 354
+2025-12-01 0:36:51 - PHP Notice:  Undefined index: sale_tax_invoice_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 356
+2025-12-01 0:36:51 - PHP Notice:  Undefined index: sale_tax_invoice_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 358
+2025-12-01 0:36:51 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\pos\admin\view\template\common\column_left.tpl on line 68
+2025-12-01 0:36:51 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\pos\admin\view\template\common\column_left.tpl on line 68
+2025-12-01 0:36:51 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\pos\admin\view\template\common\column_left.tpl on line 231
+2025-12-01 0:36:51 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 31
+2025-12-01 0:36:51 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 31
+2025-12-01 0:36:51 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 31
+2025-12-01 0:36:51 - PHP Notice:  Undefined variable: is_post in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 87
+2025-12-01 0:36:51 - PHP Notice:  Undefined variable: action in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 115
+2025-12-01 0:36:51 - PHP Notice:  Undefined variable: document_type_id in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 117
+2025-12-01 0:36:51 - PHP Notice:  Undefined variable: sale_tax_invoice_id in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 118
+2025-12-01 0:36:51 - PHP Notice:  Undefined variable: invoice_type in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 142
+2025-12-01 0:36:51 - PHP Notice:  Undefined variable: invoice_type in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 150
+2025-12-01 0:36:51 - PHP Notice:  Undefined variable: document_identity in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 163
+2025-12-01 0:36:51 - PHP Notice:  Undefined variable: remarks in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 199
+2025-12-01 0:36:51 - PHP Notice:  Undefined variable: customer_no in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 205
+2025-12-01 0:36:51 - PHP Notice:  Undefined variable: po_no in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 254
+2025-12-01 0:36:51 - PHP Notice:  Undefined variable: dc_no in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 255
+2025-12-01 0:36:51 - PHP Notice:  Undefined variable: po_date in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 262
+2025-12-01 0:36:51 - PHP Notice:  Undefined variable: billty_no in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 268
+2025-12-01 0:36:51 - PHP Notice:  Undefined variable: billty_date in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 274
+2025-12-01 0:36:51 - PHP Notice:  Undefined variable: customer_remarks in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 280
+2025-12-01 0:36:51 - PHP Notice:  Undefined variable: last_rate in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 286
+2025-12-01 0:36:51 - PHP Notice:  Undefined variable: sale_tax_invoice_details in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 320
+2025-12-01 0:36:51 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 320
+2025-12-01 0:36:51 - PHP Notice:  Undefined variable: sale_tax_invoice_details in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 440
+2025-12-01 0:36:51 - PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 440
+2025-12-01 0:36:51 - PHP Notice:  Undefined variable: total_qty in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 453
+2025-12-01 0:36:51 - PHP Notice:  Undefined variable: item_amount in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 459
+2025-12-01 0:36:51 - PHP Notice:  Undefined variable: discount_amount in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 465
+2025-12-01 0:36:51 - PHP Notice:  Undefined variable: net_amount in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 471
+2025-12-01 0:36:51 - PHP Notice:  Undefined variable: cash_received in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 477
+2025-12-01 0:36:51 - PHP Notice:  Undefined variable: balance_amount in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 483
+2025-12-01 0:36:51 - PHP Notice:  Undefined variable: item_discount in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 491
+2025-12-01 0:36:51 - PHP Notice:  Undefined variable: item_tax in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 497
+2025-12-01 0:36:51 - PHP Notice:  Undefined variable: item_total in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 503
+2025-12-01 0:36:51 - PHP Notice:  Undefined variable: tax_per in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 511
+2025-12-01 0:36:51 - PHP Notice:  Undefined variable: discount_amount in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 518
+2025-12-01 0:36:51 - PHP Notice:  Undefined variable: cartage in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 524
+2025-12-01 0:36:51 - PHP Notice:  Undefined variable: net_amount in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 530
+2025-12-01 0:36:51 - PHP Notice:  Undefined variable: is_post in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 587
+2025-12-01 0:36:51 - PHP Notice:  Undefined variable: isEdit in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 609
+2025-12-01 0:36:51 - PHP Notice:  Undefined variable: sale_type in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 611
+2025-12-01 0:36:51 - PHP Notice:  Undefined variable: partner_id in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 614
+2025-12-01 0:36:51 - PHP Notice:  Undefined variable: products in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 623
+2025-12-01 0:36:51 - PHP Notice:  Undefined variable: customer_no in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 625
+2025-12-01 0:36:51 - PHP Notice:  Undefined index: sale_tax_invoice_id in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 680
+2025-12-01 0:36:51 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 765
+2025-12-01 0:37:37 - PHP Notice:  Undefined index: sale_tax_invoice_id in C:\xampp\htdocs\pos\system\engine\hcontroller.php on line 223
+2025-12-01 0:37:37 - PHP Notice:  Undefined index: sale_tax_invoice_id in C:\xampp\htdocs\pos\system\engine\hcontroller.php on line 224
+2025-12-01 0:37:37 - PHP Notice:  Undefined index: sale_tax_invoice_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 336
+2025-12-01 0:37:37 - PHP Notice:  Undefined index: sale_tax_invoice_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 338
+2025-12-01 0:37:37 - PHP Notice:  Undefined index: announcement_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 340
+2025-12-01 0:37:37 - PHP Notice:  Undefined index: sale_tax_invoice_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 342
+2025-12-01 0:37:37 - PHP Notice:  Undefined index: sale_tax_invoice_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 344
+2025-12-01 0:37:37 - PHP Notice:  Undefined index: sale_tax_invoice_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 346
+2025-12-01 0:37:37 - PHP Notice:  Undefined index: sale_tax_invoice_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 348
+2025-12-01 0:37:37 - PHP Notice:  Undefined index: sale_tax_invoice_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 350
+2025-12-01 0:37:37 - PHP Notice:  Undefined index: sale_tax_invoice_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 352
+2025-12-01 0:37:37 - PHP Notice:  Undefined index: sale_tax_invoice_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 354
+2025-12-01 0:37:37 - PHP Notice:  Undefined index: sale_tax_invoice_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 356
+2025-12-01 0:37:37 - PHP Notice:  Undefined index: sale_tax_invoice_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 358
+2025-12-01 0:37:37 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\pos\admin\view\template\common\column_left.tpl on line 68
+2025-12-01 0:37:37 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\pos\admin\view\template\common\column_left.tpl on line 68
+2025-12-01 0:37:37 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\pos\admin\view\template\common\column_left.tpl on line 231
+2025-12-01 0:37:37 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 31
+2025-12-01 0:37:37 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 31
+2025-12-01 0:37:37 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 31
+2025-12-01 0:37:37 - PHP Notice:  Undefined variable: is_post in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 87
+2025-12-01 0:37:37 - PHP Notice:  Undefined variable: action in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 115
+2025-12-01 0:37:37 - PHP Notice:  Undefined variable: document_type_id in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 117
+2025-12-01 0:37:37 - PHP Notice:  Undefined variable: sale_tax_invoice_id in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 118
+2025-12-01 0:37:37 - PHP Notice:  Undefined variable: invoice_type in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 142
+2025-12-01 0:37:37 - PHP Notice:  Undefined variable: invoice_type in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 150
+2025-12-01 0:37:37 - PHP Notice:  Undefined variable: document_identity in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 163
+2025-12-01 0:37:37 - PHP Notice:  Undefined variable: remarks in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 199
+2025-12-01 0:37:37 - PHP Notice:  Undefined variable: customer_no in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 205
+2025-12-01 0:37:37 - PHP Notice:  Undefined variable: po_no in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 254
+2025-12-01 0:37:37 - PHP Notice:  Undefined variable: dc_no in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 255
+2025-12-01 0:37:37 - PHP Notice:  Undefined variable: po_date in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 262
+2025-12-01 0:37:37 - PHP Notice:  Undefined variable: billty_no in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 268
+2025-12-01 0:37:37 - PHP Notice:  Undefined variable: billty_date in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 274
+2025-12-01 0:37:37 - PHP Notice:  Undefined variable: customer_remarks in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 280
+2025-12-01 0:37:37 - PHP Notice:  Undefined variable: last_rate in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 286
+2025-12-01 0:37:37 - PHP Notice:  Undefined variable: sale_tax_invoice_details in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 320
+2025-12-01 0:37:37 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 320
+2025-12-01 0:37:37 - PHP Notice:  Undefined variable: sale_tax_invoice_details in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 440
+2025-12-01 0:37:37 - PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 440
+2025-12-01 0:37:37 - PHP Notice:  Undefined variable: total_qty in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 453
+2025-12-01 0:37:37 - PHP Notice:  Undefined variable: item_amount in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 459
+2025-12-01 0:37:37 - PHP Notice:  Undefined variable: discount_amount in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 465
+2025-12-01 0:37:37 - PHP Notice:  Undefined variable: net_amount in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 471
+2025-12-01 0:37:37 - PHP Notice:  Undefined variable: cash_received in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 477
+2025-12-01 0:37:37 - PHP Notice:  Undefined variable: balance_amount in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 483
+2025-12-01 0:37:37 - PHP Notice:  Undefined variable: item_discount in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 491
+2025-12-01 0:37:37 - PHP Notice:  Undefined variable: item_tax in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 497
+2025-12-01 0:37:37 - PHP Notice:  Undefined variable: item_total in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 503
+2025-12-01 0:37:37 - PHP Notice:  Undefined variable: tax_per in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 511
+2025-12-01 0:37:37 - PHP Notice:  Undefined variable: discount_amount in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 518
+2025-12-01 0:37:37 - PHP Notice:  Undefined variable: cartage in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 524
+2025-12-01 0:37:37 - PHP Notice:  Undefined variable: net_amount in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 530
+2025-12-01 0:37:37 - PHP Notice:  Undefined variable: is_post in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 587
+2025-12-01 0:37:37 - PHP Notice:  Undefined variable: isEdit in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 609
+2025-12-01 0:37:37 - PHP Notice:  Undefined variable: sale_type in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 611
+2025-12-01 0:37:37 - PHP Notice:  Undefined variable: partner_id in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 614
+2025-12-01 0:37:37 - PHP Notice:  Undefined variable: products in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 623
+2025-12-01 0:37:37 - PHP Notice:  Undefined variable: customer_no in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 625
+2025-12-01 0:37:37 - PHP Notice:  Undefined index: sale_tax_invoice_id in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 680
+2025-12-01 0:37:37 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 765
+2025-12-01 0:37:56 - PHP Notice:  Undefined index: sale_tax_invoice_id in C:\xampp\htdocs\pos\system\engine\hcontroller.php on line 223
+2025-12-01 0:37:56 - PHP Notice:  Undefined index: sale_tax_invoice_id in C:\xampp\htdocs\pos\system\engine\hcontroller.php on line 224
+2025-12-01 0:37:56 - PHP Notice:  Undefined index: sale_tax_invoice_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 336
+2025-12-01 0:37:56 - PHP Notice:  Undefined index: sale_tax_invoice_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 338
+2025-12-01 0:37:56 - PHP Notice:  Undefined index: announcement_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 340
+2025-12-01 0:37:56 - PHP Notice:  Undefined index: sale_tax_invoice_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 342
+2025-12-01 0:37:56 - PHP Notice:  Undefined index: sale_tax_invoice_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 344
+2025-12-01 0:37:56 - PHP Notice:  Undefined index: sale_tax_invoice_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 346
+2025-12-01 0:37:56 - PHP Notice:  Undefined index: sale_tax_invoice_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 348
+2025-12-01 0:37:56 - PHP Notice:  Undefined index: sale_tax_invoice_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 350
+2025-12-01 0:37:56 - PHP Notice:  Undefined index: sale_tax_invoice_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 352
+2025-12-01 0:37:56 - PHP Notice:  Undefined index: sale_tax_invoice_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 354
+2025-12-01 0:37:56 - PHP Notice:  Undefined index: sale_tax_invoice_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 356
+2025-12-01 0:37:56 - PHP Notice:  Undefined index: sale_tax_invoice_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 358
+2025-12-01 0:37:56 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\pos\admin\view\template\common\column_left.tpl on line 68
+2025-12-01 0:37:56 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\pos\admin\view\template\common\column_left.tpl on line 68
+2025-12-01 0:37:56 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\pos\admin\view\template\common\column_left.tpl on line 231
+2025-12-01 0:37:56 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 31
+2025-12-01 0:37:56 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 31
+2025-12-01 0:37:56 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 31
+2025-12-01 0:37:56 - PHP Notice:  Undefined variable: is_post in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 87
+2025-12-01 0:37:56 - PHP Notice:  Undefined variable: action in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 115
+2025-12-01 0:37:56 - PHP Notice:  Undefined variable: document_type_id in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 117
+2025-12-01 0:37:56 - PHP Notice:  Undefined variable: sale_tax_invoice_id in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 118
+2025-12-01 0:37:56 - PHP Notice:  Undefined variable: invoice_type in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 142
+2025-12-01 0:37:56 - PHP Notice:  Undefined variable: invoice_type in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 150
+2025-12-01 0:37:56 - PHP Notice:  Undefined variable: document_identity in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 163
+2025-12-01 0:37:56 - PHP Notice:  Undefined variable: remarks in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 199
+2025-12-01 0:37:56 - PHP Notice:  Undefined variable: customer_no in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 205
+2025-12-01 0:37:56 - PHP Notice:  Undefined variable: po_no in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 254
+2025-12-01 0:37:56 - PHP Notice:  Undefined variable: dc_no in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 255
+2025-12-01 0:37:56 - PHP Notice:  Undefined variable: po_date in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 262
+2025-12-01 0:37:56 - PHP Notice:  Undefined variable: billty_no in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 268
+2025-12-01 0:37:56 - PHP Notice:  Undefined variable: billty_date in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 274
+2025-12-01 0:37:56 - PHP Notice:  Undefined variable: customer_remarks in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 280
+2025-12-01 0:37:56 - PHP Notice:  Undefined variable: last_rate in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 286
+2025-12-01 0:37:56 - PHP Notice:  Undefined variable: sale_tax_invoice_details in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 320
+2025-12-01 0:37:56 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 320
+2025-12-01 0:37:56 - PHP Notice:  Undefined variable: sale_tax_invoice_details in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 440
+2025-12-01 0:37:56 - PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 440
+2025-12-01 0:37:56 - PHP Notice:  Undefined variable: total_qty in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 453
+2025-12-01 0:37:56 - PHP Notice:  Undefined variable: item_amount in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 459
+2025-12-01 0:37:56 - PHP Notice:  Undefined variable: discount_amount in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 465
+2025-12-01 0:37:56 - PHP Notice:  Undefined variable: net_amount in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 471
+2025-12-01 0:37:56 - PHP Notice:  Undefined variable: cash_received in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 477
+2025-12-01 0:37:56 - PHP Notice:  Undefined variable: balance_amount in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 483
+2025-12-01 0:37:56 - PHP Notice:  Undefined variable: item_discount in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 491
+2025-12-01 0:37:56 - PHP Notice:  Undefined variable: item_tax in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 497
+2025-12-01 0:37:56 - PHP Notice:  Undefined variable: item_total in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 503
+2025-12-01 0:37:56 - PHP Notice:  Undefined variable: tax_per in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 511
+2025-12-01 0:37:56 - PHP Notice:  Undefined variable: discount_amount in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 518
+2025-12-01 0:37:56 - PHP Notice:  Undefined variable: cartage in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 524
+2025-12-01 0:37:56 - PHP Notice:  Undefined variable: net_amount in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 530
+2025-12-01 0:37:56 - PHP Notice:  Undefined variable: is_post in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 587
+2025-12-01 0:37:56 - PHP Notice:  Undefined variable: isEdit in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 609
+2025-12-01 0:37:56 - PHP Notice:  Undefined variable: sale_type in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 611
+2025-12-01 0:37:56 - PHP Notice:  Undefined variable: partner_id in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 614
+2025-12-01 0:37:56 - PHP Notice:  Undefined variable: products in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 623
+2025-12-01 0:37:56 - PHP Notice:  Undefined variable: customer_no in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 625
+2025-12-01 0:37:56 - PHP Notice:  Undefined index: sale_tax_invoice_id in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 680
+2025-12-01 0:37:56 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 765
+2025-12-01 0:38:02 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\pos\admin\view\template\common\column_left.tpl on line 68
+2025-12-01 0:38:02 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\pos\admin\view\template\common\column_left.tpl on line 68
+2025-12-01 0:38:02 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\pos\admin\view\template\common\column_left.tpl on line 231
+2025-12-01 0:38:02 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_list.tpl on line 19
+2025-12-01 0:38:02 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_list.tpl on line 19
+2025-12-01 0:38:02 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_list.tpl on line 19
+2025-12-01 0:38:02 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_list.tpl on line 76
+2025-12-01 0:38:21 - PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 295
+2025-12-01 0:38:21 - PHP Notice:  Undefined index: manual_ref_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 313
+2025-12-01 0:38:21 - PHP Notice:  Undefined index: announcement_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 340
+2025-12-01 0:38:21 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\pos\admin\view\template\common\column_left.tpl on line 68
+2025-12-01 0:38:21 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\pos\admin\view\template\common\column_left.tpl on line 68
+2025-12-01 0:38:21 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\pos\admin\view\template\common\column_left.tpl on line 231
+2025-12-01 0:38:21 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 31
+2025-12-01 0:38:21 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 31
+2025-12-01 0:38:21 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 31
+2025-12-01 0:38:21 - PHP Notice:  Undefined variable: action_cash_receipt in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 41
+2025-12-01 0:38:21 - PHP Notice:  Undefined variable: action_print_bill in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 59
+2025-12-01 0:38:21 - PHP Notice:  Undefined index: print_bill in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 61
+2025-12-01 0:38:21 - PHP Notice:  Undefined variable: action in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 115
+2025-12-01 0:38:21 - PHP Notice:  Undefined variable: customer_no in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 205
+2025-12-01 0:38:21 - PHP Notice:  Undefined variable: last_rate in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 286
+2025-12-01 0:38:21 - PHP Notice:  Undefined index: href in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 329
+2025-12-01 0:38:21 - PHP Notice:  Undefined variable: products in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 350
+2025-12-01 0:38:21 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 350
+2025-12-01 0:38:21 - PHP Notice:  Undefined index: href in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 329
+2025-12-01 0:38:21 - PHP Notice:  Undefined variable: products in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 350
+2025-12-01 0:38:21 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 350
+2025-12-01 0:38:21 - PHP Notice:  Undefined variable: total_qty in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 453
+2025-12-01 0:38:21 - PHP Notice:  Undefined variable: tax_per in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 511
+2025-12-01 0:38:21 - PHP Notice:  Undefined variable: action_cash_receipt in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 539
+2025-12-01 0:38:21 - PHP Notice:  Undefined variable: action_print_bill in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 557
+2025-12-01 0:38:21 - PHP Notice:  Undefined index: print_bill in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 559
+2025-12-01 0:38:21 - PHP Notice:  Undefined variable: products in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 623
+2025-12-01 0:38:21 - PHP Notice:  Undefined variable: customer_no in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 625
+2025-12-01 0:38:21 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 765
+2025-12-01 0:38:43 - PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 295
+2025-12-01 0:38:44 - PHP Notice:  Undefined index: manual_ref_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 313
+2025-12-01 0:38:44 - PHP Notice:  Undefined index: announcement_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 340
+2025-12-01 0:38:44 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\pos\admin\view\template\common\column_left.tpl on line 68
+2025-12-01 0:38:44 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\pos\admin\view\template\common\column_left.tpl on line 68
+2025-12-01 0:38:44 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\pos\admin\view\template\common\column_left.tpl on line 231
+2025-12-01 0:38:44 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 31
+2025-12-01 0:38:44 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 31
+2025-12-01 0:38:44 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 31
+2025-12-01 0:38:44 - PHP Notice:  Undefined variable: action_cash_receipt in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 41
+2025-12-01 0:38:44 - PHP Notice:  Undefined variable: action_print_bill in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 59
+2025-12-01 0:38:44 - PHP Notice:  Undefined index: print_bill in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 61
+2025-12-01 0:38:44 - PHP Notice:  Undefined variable: action in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 115
+2025-12-01 0:38:44 - PHP Notice:  Undefined variable: customer_no in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 205
+2025-12-01 0:38:44 - PHP Notice:  Undefined variable: last_rate in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 286
+2025-12-01 0:38:44 - PHP Notice:  Undefined index: href in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 329
+2025-12-01 0:38:44 - PHP Notice:  Undefined variable: products in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 350
+2025-12-01 0:38:44 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 350
+2025-12-01 0:38:44 - PHP Notice:  Undefined index: href in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 329
+2025-12-01 0:38:44 - PHP Notice:  Undefined variable: products in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 350
+2025-12-01 0:38:44 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 350
+2025-12-01 0:38:44 - PHP Notice:  Undefined variable: total_qty in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 453
+2025-12-01 0:38:44 - PHP Notice:  Undefined variable: tax_per in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 511
+2025-12-01 0:38:44 - PHP Notice:  Undefined variable: action_cash_receipt in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 539
+2025-12-01 0:38:44 - PHP Notice:  Undefined variable: action_print_bill in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 557
+2025-12-01 0:38:44 - PHP Notice:  Undefined index: print_bill in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 559
+2025-12-01 0:38:44 - PHP Notice:  Undefined variable: products in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 623
+2025-12-01 0:38:44 - PHP Notice:  Undefined variable: customer_no in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 625
+2025-12-01 0:38:44 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 765
+2025-12-01 0:39:11 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 2917
+2025-12-01 0:39:11 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:39:11 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4907
+2025-12-01 0:39:11 - PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\pos\system\helper\utility.php on line 420
+2025-12-01 0:39:11 - PHP Notice:  Undefined index: customer_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 3068
+2025-12-01 0:39:16 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4236
+2025-12-01 0:39:16 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:39:16 - PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\pos\system\helper\utility.php on line 420
+2025-12-01 0:39:16 - PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\pos\system\helper\utility.php on line 420
+2025-12-01 0:40:21 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4236
+2025-12-01 0:40:21 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:40:22 - PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\pos\system\helper\utility.php on line 420
+2025-12-01 0:40:22 - PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\pos\system\helper\utility.php on line 420
+2025-12-01 0:40:40 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4236
+2025-12-01 0:40:40 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:40:40 - PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\pos\system\helper\utility.php on line 420
+2025-12-01 0:40:40 - PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\pos\system\helper\utility.php on line 420
+2025-12-01 0:41:00 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:41:00 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4887
+2025-12-01 0:41:00 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4907
+2025-12-01 0:41:18 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 2917
+2025-12-01 0:41:18 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:41:18 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4907
+2025-12-01 0:41:18 - PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\pos\system\helper\utility.php on line 420
+2025-12-01 0:41:18 - PHP Notice:  Undefined index: customer_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 3068
+2025-12-01 0:41:21 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:41:21 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4887
+2025-12-01 0:41:21 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4907
+2025-12-01 0:41:29 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:41:29 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4887
+2025-12-01 0:41:29 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4907
+2025-12-01 0:42:07 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:42:07 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4887
+2025-12-01 0:42:07 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4907
+2025-12-01 0:42:40 - PHP Notice:  Undefined index: po_date in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1428
+2025-12-01 0:42:40 - PHP Notice:  Undefined index: bilty_date in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1435
+2025-12-01 0:42:40 - PHP Notice:  Undefined index: exempted in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1444
+2025-12-01 0:42:40 - PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in C:\xampp\htdocs\pos\system\database\dbmysqli.php on line 93
+2025-12-01 0:42:40 - PHP Notice:  Undefined index: total_amount in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1580
+2025-12-01 0:42:40 - PHP Notice:  Undefined index: is_auto_increment in C:\xampp\htdocs\pos\system\engine\hmodel.php on line 225
+2025-12-01 0:42:40 - PHP Notice:  Undefined index: column in C:\xampp\htdocs\pos\system\engine\hmodel.php on line 227
+2025-12-01 0:42:40 - PHP Notice:  Undefined index: column in C:\xampp\htdocs\pos\system\engine\hmodel.php on line 228
+2025-12-01 0:42:40 - PHP Notice:  Undefined index: is_auto_increment in C:\xampp\htdocs\pos\system\engine\hmodel.php on line 246
+2025-12-01 0:42:40 - PHP Notice:  Undefined index: column in C:\xampp\htdocs\pos\system\engine\hmodel.php on line 249
+2025-12-01 0:42:40 - PHP Notice:  Undefined index: container_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1644
+2025-12-01 0:42:40 - PHP Notice:  Undefined index: batch_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1645
+2025-12-01 0:42:40 - PHP Notice:  Undefined index: ref_document_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1686
+2025-12-01 0:42:40 - PHP Notice:  Undefined index: ref_document_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1706
+2025-12-01 0:42:40 - PHP Notice:  Undefined index: total_amount in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1580
+2025-12-01 0:42:40 - PHP Notice:  Undefined index: is_auto_increment in C:\xampp\htdocs\pos\system\engine\hmodel.php on line 225
+2025-12-01 0:42:40 - PHP Notice:  Undefined index: column in C:\xampp\htdocs\pos\system\engine\hmodel.php on line 227
+2025-12-01 0:42:40 - PHP Notice:  Undefined index: column in C:\xampp\htdocs\pos\system\engine\hmodel.php on line 228
+2025-12-01 0:42:40 - PHP Notice:  Undefined index: is_auto_increment in C:\xampp\htdocs\pos\system\engine\hmodel.php on line 246
+2025-12-01 0:42:40 - PHP Notice:  Undefined index: column in C:\xampp\htdocs\pos\system\engine\hmodel.php on line 249
+2025-12-01 0:42:40 - PHP Notice:  Undefined index: container_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1644
+2025-12-01 0:42:40 - PHP Notice:  Undefined index: batch_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1645
+2025-12-01 0:42:40 - PHP Notice:  Undefined index: ref_document_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1686
+2025-12-01 0:42:40 - PHP Notice:  Undefined index: ref_document_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1706
+2025-12-01 0:42:40 - PHP Notice:  Undefined index: labour_charges in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1787
+2025-12-01 0:42:40 - PHP Notice:  Undefined index: misc_charges in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1800
+2025-12-01 0:42:40 - PHP Notice:  Undefined index: rent_charges in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1813
+2025-12-01 0:42:40 - PHP Notice:  Undefined index: cartage in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1826
+2025-12-01 0:42:40 - PHP Notice:  Undefined index: po_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1903
+2025-12-01 0:42:40 - PHP Notice:  Undefined index: dc_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1904
+2025-12-01 0:42:40 - PHP Notice:  Undefined index: customer_unit_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1905
+2025-12-01 0:42:40 - PHP Notice:  Undefined index: po_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1903
+2025-12-01 0:42:40 - PHP Notice:  Undefined index: dc_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1904
+2025-12-01 0:42:40 - PHP Notice:  Undefined index: customer_unit_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1905
+2025-12-01 0:42:40 - PHP Notice:  Undefined index: po_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1903
+2025-12-01 0:42:40 - PHP Notice:  Undefined index: dc_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1904
+2025-12-01 0:42:40 - PHP Notice:  Undefined index: customer_unit_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1905
+2025-12-01 0:42:40 - PHP Notice:  Undefined index: po_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1903
+2025-12-01 0:42:40 - PHP Notice:  Undefined index: dc_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1904
+2025-12-01 0:42:40 - PHP Notice:  Undefined index: customer_unit_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1905
+2025-12-01 0:42:40 - PHP Notice:  Undefined index: po_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1903
+2025-12-01 0:42:40 - PHP Notice:  Undefined index: dc_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1904
+2025-12-01 0:42:40 - PHP Notice:  Undefined index: customer_unit_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1905
+2025-12-01 0:42:40 - PHP Notice:  Undefined index: po_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1903
+2025-12-01 0:42:40 - PHP Notice:  Undefined index: dc_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1904
+2025-12-01 0:42:40 - PHP Notice:  Undefined index: customer_unit_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1905
+2025-12-01 0:42:40 - PHP Notice:  Undefined index: po_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1903
+2025-12-01 0:42:40 - PHP Notice:  Undefined index: dc_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1904
+2025-12-01 0:42:40 - PHP Notice:  Undefined index: customer_unit_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1905
+2025-12-01 0:42:40 - PHP Notice:  Undefined index: po_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1903
+2025-12-01 0:42:40 - PHP Notice:  Undefined index: dc_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1904
+2025-12-01 0:42:40 - PHP Notice:  Undefined index: customer_unit_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1905
+2025-12-01 0:42:40 - PHP Notice:  Undefined index: po_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1903
+2025-12-01 0:42:40 - PHP Notice:  Undefined index: dc_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1904
+2025-12-01 0:42:40 - PHP Notice:  Undefined index: customer_unit_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1905
+2025-12-01 0:42:40 - PHP Notice:  Undefined index: po_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1903
+2025-12-01 0:42:40 - PHP Notice:  Undefined index: dc_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1904
+2025-12-01 0:42:40 - PHP Notice:  Undefined index: customer_unit_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1905
+2025-12-01 0:42:41 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\pos\admin\view\template\common\column_left.tpl on line 68
+2025-12-01 0:42:41 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\pos\admin\view\template\common\column_left.tpl on line 68
+2025-12-01 0:42:41 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\pos\admin\view\template\common\column_left.tpl on line 231
+2025-12-01 0:42:41 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_list.tpl on line 19
+2025-12-01 0:42:41 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_list.tpl on line 19
+2025-12-01 0:42:41 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_list.tpl on line 19
+2025-12-01 0:42:41 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_list.tpl on line 76
+2025-12-01 0:42:42 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:42:42 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4887
+2025-12-01 0:42:42 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4907
+2025-12-01 0:42:48 - PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 295
+2025-12-01 0:42:48 - PHP Notice:  Undefined index: manual_ref_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 313
+2025-12-01 0:42:48 - PHP Notice:  Undefined index: announcement_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 340
+2025-12-01 0:42:48 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\pos\admin\view\template\common\column_left.tpl on line 68
+2025-12-01 0:42:48 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\pos\admin\view\template\common\column_left.tpl on line 68
+2025-12-01 0:42:48 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\pos\admin\view\template\common\column_left.tpl on line 231
+2025-12-01 0:42:48 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 31
+2025-12-01 0:42:48 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 31
+2025-12-01 0:42:48 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 31
+2025-12-01 0:42:48 - PHP Notice:  Undefined variable: action_cash_receipt in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 41
+2025-12-01 0:42:48 - PHP Notice:  Undefined variable: action_print_bill in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 59
+2025-12-01 0:42:48 - PHP Notice:  Undefined index: print_bill in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 61
+2025-12-01 0:42:48 - PHP Notice:  Undefined variable: action in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 115
+2025-12-01 0:42:48 - PHP Notice:  Undefined variable: customer_no in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 205
+2025-12-01 0:42:48 - PHP Notice:  Undefined variable: last_rate in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 286
+2025-12-01 0:42:48 - PHP Notice:  Undefined index: href in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 329
+2025-12-01 0:42:48 - PHP Notice:  Undefined variable: products in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 350
+2025-12-01 0:42:48 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 350
+2025-12-01 0:42:48 - PHP Notice:  Undefined index: href in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 329
+2025-12-01 0:42:48 - PHP Notice:  Undefined variable: products in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 350
+2025-12-01 0:42:48 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 350
+2025-12-01 0:42:48 - PHP Notice:  Undefined variable: total_qty in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 453
+2025-12-01 0:42:48 - PHP Notice:  Undefined variable: tax_per in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 511
+2025-12-01 0:42:48 - PHP Notice:  Undefined variable: action_cash_receipt in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 539
+2025-12-01 0:42:48 - PHP Notice:  Undefined variable: action_print_bill in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 557
+2025-12-01 0:42:48 - PHP Notice:  Undefined index: print_bill in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 559
+2025-12-01 0:42:48 - PHP Notice:  Undefined variable: products in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 623
+2025-12-01 0:42:48 - PHP Notice:  Undefined variable: customer_no in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 625
+2025-12-01 0:42:48 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 765
+2025-12-01 0:42:54 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:42:54 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4887
+2025-12-01 0:42:54 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4907
+2025-12-01 0:43:18 - PHP Notice:  Undefined index: po_date in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1428
+2025-12-01 0:43:18 - PHP Notice:  Undefined index: bilty_date in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1435
+2025-12-01 0:43:18 - PHP Notice:  Undefined index: exempted in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1444
+2025-12-01 0:43:18 - PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in C:\xampp\htdocs\pos\system\database\dbmysqli.php on line 93
+2025-12-01 0:43:19 - PHP Notice:  Undefined index: total_amount in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1580
+2025-12-01 0:43:19 - PHP Notice:  Undefined index: is_auto_increment in C:\xampp\htdocs\pos\system\engine\hmodel.php on line 225
+2025-12-01 0:43:19 - PHP Notice:  Undefined index: column in C:\xampp\htdocs\pos\system\engine\hmodel.php on line 227
+2025-12-01 0:43:19 - PHP Notice:  Undefined index: column in C:\xampp\htdocs\pos\system\engine\hmodel.php on line 228
+2025-12-01 0:43:19 - PHP Notice:  Undefined index: is_auto_increment in C:\xampp\htdocs\pos\system\engine\hmodel.php on line 246
+2025-12-01 0:43:19 - PHP Notice:  Undefined index: column in C:\xampp\htdocs\pos\system\engine\hmodel.php on line 249
+2025-12-01 0:43:19 - PHP Notice:  Undefined index: container_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1644
+2025-12-01 0:43:19 - PHP Notice:  Undefined index: batch_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1645
+2025-12-01 0:43:19 - PHP Notice:  Undefined index: ref_document_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1686
+2025-12-01 0:43:19 - PHP Notice:  Undefined index: ref_document_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1706
+2025-12-01 0:43:19 - PHP Notice:  Undefined index: total_amount in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1580
+2025-12-01 0:43:19 - PHP Notice:  Undefined index: is_auto_increment in C:\xampp\htdocs\pos\system\engine\hmodel.php on line 225
+2025-12-01 0:43:19 - PHP Notice:  Undefined index: column in C:\xampp\htdocs\pos\system\engine\hmodel.php on line 227
+2025-12-01 0:43:19 - PHP Notice:  Undefined index: column in C:\xampp\htdocs\pos\system\engine\hmodel.php on line 228
+2025-12-01 0:43:19 - PHP Notice:  Undefined index: is_auto_increment in C:\xampp\htdocs\pos\system\engine\hmodel.php on line 246
+2025-12-01 0:43:19 - PHP Notice:  Undefined index: column in C:\xampp\htdocs\pos\system\engine\hmodel.php on line 249
+2025-12-01 0:43:19 - PHP Notice:  Undefined index: container_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1644
+2025-12-01 0:43:19 - PHP Notice:  Undefined index: batch_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1645
+2025-12-01 0:43:19 - PHP Notice:  Undefined index: ref_document_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1686
+2025-12-01 0:43:19 - PHP Notice:  Undefined index: ref_document_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1706
+2025-12-01 0:43:19 - PHP Notice:  Undefined index: labour_charges in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1787
+2025-12-01 0:43:19 - PHP Notice:  Undefined index: misc_charges in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1800
+2025-12-01 0:43:19 - PHP Notice:  Undefined index: rent_charges in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1813
+2025-12-01 0:43:19 - PHP Notice:  Undefined index: cartage in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1826
+2025-12-01 0:43:19 - PHP Notice:  Undefined index: po_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1903
+2025-12-01 0:43:19 - PHP Notice:  Undefined index: dc_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1904
+2025-12-01 0:43:19 - PHP Notice:  Undefined index: customer_unit_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1905
+2025-12-01 0:43:19 - PHP Notice:  Undefined index: po_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1903
+2025-12-01 0:43:19 - PHP Notice:  Undefined index: dc_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1904
+2025-12-01 0:43:19 - PHP Notice:  Undefined index: customer_unit_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1905
+2025-12-01 0:43:19 - PHP Notice:  Undefined index: po_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1903
+2025-12-01 0:43:19 - PHP Notice:  Undefined index: dc_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1904
+2025-12-01 0:43:19 - PHP Notice:  Undefined index: customer_unit_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1905
+2025-12-01 0:43:19 - PHP Notice:  Undefined index: po_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1903
+2025-12-01 0:43:19 - PHP Notice:  Undefined index: dc_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1904
+2025-12-01 0:43:19 - PHP Notice:  Undefined index: customer_unit_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1905
+2025-12-01 0:43:19 - PHP Notice:  Undefined index: po_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1903
+2025-12-01 0:43:19 - PHP Notice:  Undefined index: dc_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1904
+2025-12-01 0:43:19 - PHP Notice:  Undefined index: customer_unit_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1905
+2025-12-01 0:43:19 - PHP Notice:  Undefined index: po_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1903
+2025-12-01 0:43:19 - PHP Notice:  Undefined index: dc_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1904
+2025-12-01 0:43:19 - PHP Notice:  Undefined index: customer_unit_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1905
+2025-12-01 0:43:19 - PHP Notice:  Undefined index: po_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1903
+2025-12-01 0:43:19 - PHP Notice:  Undefined index: dc_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1904
+2025-12-01 0:43:19 - PHP Notice:  Undefined index: customer_unit_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1905
+2025-12-01 0:43:19 - PHP Notice:  Undefined index: po_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1903
+2025-12-01 0:43:19 - PHP Notice:  Undefined index: dc_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1904
+2025-12-01 0:43:19 - PHP Notice:  Undefined index: customer_unit_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1905
+2025-12-01 0:43:19 - PHP Notice:  Undefined index: po_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1903
+2025-12-01 0:43:19 - PHP Notice:  Undefined index: dc_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1904
+2025-12-01 0:43:19 - PHP Notice:  Undefined index: customer_unit_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1905
+2025-12-01 0:43:19 - PHP Notice:  Undefined index: po_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1903
+2025-12-01 0:43:19 - PHP Notice:  Undefined index: dc_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1904
+2025-12-01 0:43:19 - PHP Notice:  Undefined index: customer_unit_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1905
+2025-12-01 0:43:19 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\pos\admin\view\template\common\column_left.tpl on line 68
+2025-12-01 0:43:19 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\pos\admin\view\template\common\column_left.tpl on line 68
+2025-12-01 0:43:19 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\pos\admin\view\template\common\column_left.tpl on line 231
+2025-12-01 0:43:19 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_list.tpl on line 19
+2025-12-01 0:43:19 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_list.tpl on line 19
+2025-12-01 0:43:19 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_list.tpl on line 19
+2025-12-01 0:43:19 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_list.tpl on line 76
+2025-12-01 0:43:21 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:43:21 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4887
+2025-12-01 0:43:21 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4907
+2025-12-01 0:43:31 - PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 295
+2025-12-01 0:43:31 - PHP Notice:  Undefined index: manual_ref_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 313
+2025-12-01 0:43:31 - PHP Notice:  Undefined index: announcement_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 340
+2025-12-01 0:43:31 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\pos\admin\view\template\common\column_left.tpl on line 68
+2025-12-01 0:43:31 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\pos\admin\view\template\common\column_left.tpl on line 68
+2025-12-01 0:43:31 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\pos\admin\view\template\common\column_left.tpl on line 231
+2025-12-01 0:43:31 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 31
+2025-12-01 0:43:31 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 31
+2025-12-01 0:43:31 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 31
+2025-12-01 0:43:31 - PHP Notice:  Undefined variable: action_cash_receipt in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 41
+2025-12-01 0:43:31 - PHP Notice:  Undefined variable: action_print_bill in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 59
+2025-12-01 0:43:31 - PHP Notice:  Undefined index: print_bill in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 61
+2025-12-01 0:43:31 - PHP Notice:  Undefined variable: action in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 115
+2025-12-01 0:43:31 - PHP Notice:  Undefined variable: customer_no in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 205
+2025-12-01 0:43:31 - PHP Notice:  Undefined variable: last_rate in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 286
+2025-12-01 0:43:31 - PHP Notice:  Undefined index: href in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 329
+2025-12-01 0:43:31 - PHP Notice:  Undefined variable: products in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 350
+2025-12-01 0:43:31 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 350
+2025-12-01 0:43:31 - PHP Notice:  Undefined variable: total_qty in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 453
+2025-12-01 0:43:31 - PHP Notice:  Undefined variable: tax_per in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 511
+2025-12-01 0:43:31 - PHP Notice:  Undefined variable: action_cash_receipt in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 539
+2025-12-01 0:43:31 - PHP Notice:  Undefined variable: action_print_bill in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 557
+2025-12-01 0:43:31 - PHP Notice:  Undefined index: print_bill in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 559
+2025-12-01 0:43:31 - PHP Notice:  Undefined variable: products in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 623
+2025-12-01 0:43:31 - PHP Notice:  Undefined variable: customer_no in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 625
+2025-12-01 0:43:31 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 765
+2025-12-01 0:43:48 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\pos\admin\view\template\common\column_left.tpl on line 68
+2025-12-01 0:43:48 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\pos\admin\view\template\common\column_left.tpl on line 68
+2025-12-01 0:43:48 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\pos\admin\view\template\common\column_left.tpl on line 231
+2025-12-01 0:43:48 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_list.tpl on line 19
+2025-12-01 0:43:48 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_list.tpl on line 19
+2025-12-01 0:43:48 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_list.tpl on line 19
+2025-12-01 0:43:48 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_list.tpl on line 76
+2025-12-01 0:43:53 - PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 295
+2025-12-01 0:43:53 - PHP Notice:  Undefined index: manual_ref_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 313
+2025-12-01 0:43:53 - PHP Notice:  Undefined index: announcement_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 340
+2025-12-01 0:43:53 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\pos\admin\view\template\common\column_left.tpl on line 68
+2025-12-01 0:43:53 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\pos\admin\view\template\common\column_left.tpl on line 68
+2025-12-01 0:43:53 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\pos\admin\view\template\common\column_left.tpl on line 231
+2025-12-01 0:43:53 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 31
+2025-12-01 0:43:53 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 31
+2025-12-01 0:43:53 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 31
+2025-12-01 0:43:53 - PHP Notice:  Undefined variable: action_cash_receipt in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 41
+2025-12-01 0:43:53 - PHP Notice:  Undefined variable: action_print_bill in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 59
+2025-12-01 0:43:53 - PHP Notice:  Undefined index: print_bill in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 61
+2025-12-01 0:43:53 - PHP Notice:  Undefined variable: action in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 115
+2025-12-01 0:43:53 - PHP Notice:  Undefined variable: customer_no in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 205
+2025-12-01 0:43:53 - PHP Notice:  Undefined variable: last_rate in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 286
+2025-12-01 0:43:53 - PHP Notice:  Undefined index: href in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 329
+2025-12-01 0:43:53 - PHP Notice:  Undefined variable: products in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 350
+2025-12-01 0:43:53 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 350
+2025-12-01 0:43:53 - PHP Notice:  Undefined variable: total_qty in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 453
+2025-12-01 0:43:53 - PHP Notice:  Undefined variable: tax_per in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 511
+2025-12-01 0:43:53 - PHP Notice:  Undefined variable: action_cash_receipt in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 539
+2025-12-01 0:43:53 - PHP Notice:  Undefined variable: action_print_bill in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 557
+2025-12-01 0:43:53 - PHP Notice:  Undefined index: print_bill in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 559
+2025-12-01 0:43:53 - PHP Notice:  Undefined variable: products in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 623
+2025-12-01 0:43:53 - PHP Notice:  Undefined variable: customer_no in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 625
+2025-12-01 0:43:53 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 765
+2025-12-01 0:44:01 - PHP Notice:  Undefined index: po_date in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1428
+2025-12-01 0:44:01 - PHP Notice:  Undefined index: bilty_date in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1435
+2025-12-01 0:44:01 - PHP Notice:  Undefined index: exempted in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1444
+2025-12-01 0:44:01 - PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in C:\xampp\htdocs\pos\system\database\dbmysqli.php on line 93
+2025-12-01 0:44:01 - PHP Notice:  Undefined index: total_amount in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1580
+2025-12-01 0:44:01 - PHP Notice:  Undefined index: is_auto_increment in C:\xampp\htdocs\pos\system\engine\hmodel.php on line 225
+2025-12-01 0:44:01 - PHP Notice:  Undefined index: column in C:\xampp\htdocs\pos\system\engine\hmodel.php on line 227
+2025-12-01 0:44:01 - PHP Notice:  Undefined index: column in C:\xampp\htdocs\pos\system\engine\hmodel.php on line 228
+2025-12-01 0:44:01 - PHP Notice:  Undefined index: is_auto_increment in C:\xampp\htdocs\pos\system\engine\hmodel.php on line 246
+2025-12-01 0:44:01 - PHP Notice:  Undefined index: column in C:\xampp\htdocs\pos\system\engine\hmodel.php on line 249
+2025-12-01 0:44:01 - PHP Notice:  Undefined index: container_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1644
+2025-12-01 0:44:01 - PHP Notice:  Undefined index: batch_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1645
+2025-12-01 0:44:01 - PHP Notice:  Undefined index: ref_document_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1686
+2025-12-01 0:44:01 - PHP Notice:  Undefined index: ref_document_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1706
+2025-12-01 0:44:01 - PHP Notice:  Undefined index: labour_charges in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1787
+2025-12-01 0:44:01 - PHP Notice:  Undefined index: misc_charges in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1800
+2025-12-01 0:44:01 - PHP Notice:  Undefined index: rent_charges in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1813
+2025-12-01 0:44:01 - PHP Notice:  Undefined index: cartage in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1826
+2025-12-01 0:44:01 - PHP Notice:  Undefined index: po_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1903
+2025-12-01 0:44:01 - PHP Notice:  Undefined index: dc_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1904
+2025-12-01 0:44:01 - PHP Notice:  Undefined index: customer_unit_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1905
+2025-12-01 0:44:01 - PHP Notice:  Undefined index: po_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1903
+2025-12-01 0:44:01 - PHP Notice:  Undefined index: dc_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1904
+2025-12-01 0:44:01 - PHP Notice:  Undefined index: customer_unit_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1905
+2025-12-01 0:44:01 - PHP Notice:  Undefined index: po_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1903
+2025-12-01 0:44:01 - PHP Notice:  Undefined index: dc_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1904
+2025-12-01 0:44:01 - PHP Notice:  Undefined index: customer_unit_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1905
+2025-12-01 0:44:01 - PHP Notice:  Undefined index: po_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1903
+2025-12-01 0:44:01 - PHP Notice:  Undefined index: dc_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1904
+2025-12-01 0:44:01 - PHP Notice:  Undefined index: customer_unit_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1905
+2025-12-01 0:44:01 - PHP Notice:  Undefined index: po_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1903
+2025-12-01 0:44:01 - PHP Notice:  Undefined index: dc_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1904
+2025-12-01 0:44:01 - PHP Notice:  Undefined index: customer_unit_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1905
+2025-12-01 0:44:01 - PHP Notice:  Undefined index: po_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1903
+2025-12-01 0:44:01 - PHP Notice:  Undefined index: dc_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1904
+2025-12-01 0:44:01 - PHP Notice:  Undefined index: customer_unit_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1905
+2025-12-01 0:44:01 - PHP Notice:  Undefined index: po_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1903
+2025-12-01 0:44:01 - PHP Notice:  Undefined index: dc_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1904
+2025-12-01 0:44:01 - PHP Notice:  Undefined index: customer_unit_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1905
+2025-12-01 0:44:01 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\pos\admin\view\template\common\column_left.tpl on line 68
+2025-12-01 0:44:01 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\pos\admin\view\template\common\column_left.tpl on line 68
+2025-12-01 0:44:01 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\pos\admin\view\template\common\column_left.tpl on line 231
+2025-12-01 0:44:01 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_list.tpl on line 19
+2025-12-01 0:44:01 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_list.tpl on line 19
+2025-12-01 0:44:01 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_list.tpl on line 19
+2025-12-01 0:44:01 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_list.tpl on line 76
+2025-12-01 0:44:05 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:44:05 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4887
+2025-12-01 0:44:05 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4907
+2025-12-01 0:44:17 - PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 295
+2025-12-01 0:44:17 - PHP Notice:  Undefined index: manual_ref_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 313
+2025-12-01 0:44:17 - PHP Notice:  Undefined index: announcement_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 340
+2025-12-01 0:44:17 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\pos\admin\view\template\common\column_left.tpl on line 68
+2025-12-01 0:44:17 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\pos\admin\view\template\common\column_left.tpl on line 68
+2025-12-01 0:44:17 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\pos\admin\view\template\common\column_left.tpl on line 231
+2025-12-01 0:44:17 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 31
+2025-12-01 0:44:17 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 31
+2025-12-01 0:44:17 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 31
+2025-12-01 0:44:17 - PHP Notice:  Undefined variable: action_cash_receipt in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 41
+2025-12-01 0:44:17 - PHP Notice:  Undefined variable: action_print_bill in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 59
+2025-12-01 0:44:17 - PHP Notice:  Undefined index: print_bill in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 61
+2025-12-01 0:44:17 - PHP Notice:  Undefined variable: action in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 115
+2025-12-01 0:44:17 - PHP Notice:  Undefined variable: customer_no in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 205
+2025-12-01 0:44:17 - PHP Notice:  Undefined variable: last_rate in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 286
+2025-12-01 0:44:17 - PHP Notice:  Undefined index: href in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 329
+2025-12-01 0:44:17 - PHP Notice:  Undefined variable: products in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 350
+2025-12-01 0:44:17 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 350
+2025-12-01 0:44:17 - PHP Notice:  Undefined index: href in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 329
+2025-12-01 0:44:17 - PHP Notice:  Undefined variable: products in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 350
+2025-12-01 0:44:17 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 350
+2025-12-01 0:44:17 - PHP Notice:  Undefined variable: total_qty in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 453
+2025-12-01 0:44:17 - PHP Notice:  Undefined variable: tax_per in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 511
+2025-12-01 0:44:17 - PHP Notice:  Undefined variable: action_cash_receipt in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 539
+2025-12-01 0:44:17 - PHP Notice:  Undefined variable: action_print_bill in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 557
+2025-12-01 0:44:17 - PHP Notice:  Undefined index: print_bill in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 559
+2025-12-01 0:44:17 - PHP Notice:  Undefined variable: products in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 623
+2025-12-01 0:44:17 - PHP Notice:  Undefined variable: customer_no in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 625
+2025-12-01 0:44:17 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 765
+2025-12-01 0:44:45 - PHP Notice:  Undefined index: po_date in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1428
+2025-12-01 0:44:45 - PHP Notice:  Undefined index: bilty_date in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1435
+2025-12-01 0:44:45 - PHP Notice:  Undefined index: exempted in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1444
+2025-12-01 0:44:45 - PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in C:\xampp\htdocs\pos\system\database\dbmysqli.php on line 93
+2025-12-01 0:44:45 - PHP Notice:  Undefined index: total_amount in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1580
+2025-12-01 0:44:45 - PHP Notice:  Undefined index: is_auto_increment in C:\xampp\htdocs\pos\system\engine\hmodel.php on line 225
+2025-12-01 0:44:45 - PHP Notice:  Undefined index: column in C:\xampp\htdocs\pos\system\engine\hmodel.php on line 227
+2025-12-01 0:44:45 - PHP Notice:  Undefined index: column in C:\xampp\htdocs\pos\system\engine\hmodel.php on line 228
+2025-12-01 0:44:45 - PHP Notice:  Undefined index: is_auto_increment in C:\xampp\htdocs\pos\system\engine\hmodel.php on line 246
+2025-12-01 0:44:45 - PHP Notice:  Undefined index: column in C:\xampp\htdocs\pos\system\engine\hmodel.php on line 249
+2025-12-01 0:44:45 - PHP Notice:  Undefined index: container_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1644
+2025-12-01 0:44:45 - PHP Notice:  Undefined index: batch_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1645
+2025-12-01 0:44:45 - PHP Notice:  Undefined index: ref_document_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1686
+2025-12-01 0:44:45 - PHP Notice:  Undefined index: ref_document_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1706
+2025-12-01 0:44:45 - PHP Notice:  Undefined index: total_amount in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1580
+2025-12-01 0:44:45 - PHP Notice:  Undefined index: is_auto_increment in C:\xampp\htdocs\pos\system\engine\hmodel.php on line 225
+2025-12-01 0:44:45 - PHP Notice:  Undefined index: column in C:\xampp\htdocs\pos\system\engine\hmodel.php on line 227
+2025-12-01 0:44:45 - PHP Notice:  Undefined index: column in C:\xampp\htdocs\pos\system\engine\hmodel.php on line 228
+2025-12-01 0:44:45 - PHP Notice:  Undefined index: is_auto_increment in C:\xampp\htdocs\pos\system\engine\hmodel.php on line 246
+2025-12-01 0:44:45 - PHP Notice:  Undefined index: column in C:\xampp\htdocs\pos\system\engine\hmodel.php on line 249
+2025-12-01 0:44:45 - PHP Notice:  Undefined index: container_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1644
+2025-12-01 0:44:45 - PHP Notice:  Undefined index: batch_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1645
+2025-12-01 0:44:45 - PHP Notice:  Undefined index: ref_document_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1686
+2025-12-01 0:44:45 - PHP Notice:  Undefined index: ref_document_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1706
+2025-12-01 0:44:45 - PHP Notice:  Undefined index: labour_charges in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1787
+2025-12-01 0:44:45 - PHP Notice:  Undefined index: misc_charges in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1800
+2025-12-01 0:44:45 - PHP Notice:  Undefined index: rent_charges in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1813
+2025-12-01 0:44:45 - PHP Notice:  Undefined index: cartage in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1826
+2025-12-01 0:44:45 - PHP Notice:  Undefined index: po_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1903
+2025-12-01 0:44:45 - PHP Notice:  Undefined index: dc_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1904
+2025-12-01 0:44:45 - PHP Notice:  Undefined index: customer_unit_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1905
+2025-12-01 0:44:45 - PHP Notice:  Undefined index: po_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1903
+2025-12-01 0:44:45 - PHP Notice:  Undefined index: dc_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1904
+2025-12-01 0:44:45 - PHP Notice:  Undefined index: customer_unit_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1905
+2025-12-01 0:44:45 - PHP Notice:  Undefined index: po_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1903
+2025-12-01 0:44:45 - PHP Notice:  Undefined index: dc_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1904
+2025-12-01 0:44:45 - PHP Notice:  Undefined index: customer_unit_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1905
+2025-12-01 0:44:45 - PHP Notice:  Undefined index: po_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1903
+2025-12-01 0:44:45 - PHP Notice:  Undefined index: dc_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1904
+2025-12-01 0:44:45 - PHP Notice:  Undefined index: customer_unit_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1905
+2025-12-01 0:44:45 - PHP Notice:  Undefined index: po_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1903
+2025-12-01 0:44:45 - PHP Notice:  Undefined index: dc_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1904
+2025-12-01 0:44:45 - PHP Notice:  Undefined index: customer_unit_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1905
+2025-12-01 0:44:45 - PHP Notice:  Undefined index: po_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1903
+2025-12-01 0:44:45 - PHP Notice:  Undefined index: dc_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1904
+2025-12-01 0:44:45 - PHP Notice:  Undefined index: customer_unit_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1905
+2025-12-01 0:44:45 - PHP Notice:  Undefined index: po_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1903
+2025-12-01 0:44:45 - PHP Notice:  Undefined index: dc_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1904
+2025-12-01 0:44:45 - PHP Notice:  Undefined index: customer_unit_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1905
+2025-12-01 0:44:45 - PHP Notice:  Undefined index: po_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1903
+2025-12-01 0:44:45 - PHP Notice:  Undefined index: dc_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1904
+2025-12-01 0:44:45 - PHP Notice:  Undefined index: customer_unit_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1905
+2025-12-01 0:44:45 - PHP Notice:  Undefined index: po_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1903
+2025-12-01 0:44:45 - PHP Notice:  Undefined index: dc_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1904
+2025-12-01 0:44:45 - PHP Notice:  Undefined index: customer_unit_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1905
+2025-12-01 0:44:45 - PHP Notice:  Undefined index: po_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1903
+2025-12-01 0:44:45 - PHP Notice:  Undefined index: dc_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1904
+2025-12-01 0:44:45 - PHP Notice:  Undefined index: customer_unit_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 1905
+2025-12-01 0:44:46 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\pos\admin\view\template\common\column_left.tpl on line 68
+2025-12-01 0:44:46 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\pos\admin\view\template\common\column_left.tpl on line 68
+2025-12-01 0:44:46 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\pos\admin\view\template\common\column_left.tpl on line 231
+2025-12-01 0:44:46 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_list.tpl on line 19
+2025-12-01 0:44:46 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_list.tpl on line 19
+2025-12-01 0:44:46 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_list.tpl on line 19
+2025-12-01 0:44:46 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_list.tpl on line 76
+2025-12-01 0:44:48 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:44:48 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4887
+2025-12-01 0:44:48 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4907
+2025-12-01 0:45:05 - PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 295
+2025-12-01 0:45:05 - PHP Notice:  Undefined index: manual_ref_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 313
+2025-12-01 0:45:05 - PHP Notice:  Undefined index: announcement_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 340
+2025-12-01 0:45:05 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\pos\admin\view\template\common\column_left.tpl on line 68
+2025-12-01 0:45:05 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\pos\admin\view\template\common\column_left.tpl on line 68
+2025-12-01 0:45:05 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\pos\admin\view\template\common\column_left.tpl on line 231
+2025-12-01 0:45:05 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 31
+2025-12-01 0:45:05 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 31
+2025-12-01 0:45:05 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 31
+2025-12-01 0:45:05 - PHP Notice:  Undefined variable: action_cash_receipt in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 41
+2025-12-01 0:45:05 - PHP Notice:  Undefined variable: action_print_bill in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 59
+2025-12-01 0:45:05 - PHP Notice:  Undefined index: print_bill in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 61
+2025-12-01 0:45:05 - PHP Notice:  Undefined variable: action in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 115
+2025-12-01 0:45:05 - PHP Notice:  Undefined variable: customer_no in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 205
+2025-12-01 0:45:05 - PHP Notice:  Undefined variable: last_rate in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 286
+2025-12-01 0:45:05 - PHP Notice:  Undefined index: href in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 329
+2025-12-01 0:45:05 - PHP Notice:  Undefined variable: products in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 350
+2025-12-01 0:45:05 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 350
+2025-12-01 0:45:05 - PHP Notice:  Undefined variable: total_qty in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 453
+2025-12-01 0:45:05 - PHP Notice:  Undefined variable: tax_per in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 511
+2025-12-01 0:45:05 - PHP Notice:  Undefined variable: action_cash_receipt in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 539
+2025-12-01 0:45:05 - PHP Notice:  Undefined variable: action_print_bill in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 557
+2025-12-01 0:45:05 - PHP Notice:  Undefined index: print_bill in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 559
+2025-12-01 0:45:05 - PHP Notice:  Undefined variable: products in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 623
+2025-12-01 0:45:05 - PHP Notice:  Undefined variable: customer_no in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 625
+2025-12-01 0:45:05 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 765
+2025-12-01 0:49:17 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\pos\admin\view\template\common\column_left.tpl on line 68
+2025-12-01 0:49:17 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\pos\admin\view\template\common\column_left.tpl on line 68
+2025-12-01 0:49:17 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\pos\admin\view\template\common\column_left.tpl on line 231
+2025-12-01 0:49:17 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_list.tpl on line 19
+2025-12-01 0:49:17 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_list.tpl on line 19
+2025-12-01 0:49:17 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_list.tpl on line 19
+2025-12-01 0:49:17 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_list.tpl on line 76
+2025-12-01 0:49:19 - PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 295
+2025-12-01 0:49:19 - PHP Notice:  Undefined index: manual_ref_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 313
+2025-12-01 0:49:19 - PHP Notice:  Undefined index: announcement_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 340
+2025-12-01 0:49:19 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\pos\admin\view\template\common\column_left.tpl on line 68
+2025-12-01 0:49:19 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\pos\admin\view\template\common\column_left.tpl on line 68
+2025-12-01 0:49:19 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\pos\admin\view\template\common\column_left.tpl on line 231
+2025-12-01 0:49:19 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 31
+2025-12-01 0:49:19 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 31
+2025-12-01 0:49:19 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 31
+2025-12-01 0:49:19 - PHP Notice:  Undefined variable: action_cash_receipt in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 41
+2025-12-01 0:49:19 - PHP Notice:  Undefined variable: action_print_bill in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 59
+2025-12-01 0:49:19 - PHP Notice:  Undefined index: print_bill in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 61
+2025-12-01 0:49:19 - PHP Notice:  Undefined variable: action in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 115
+2025-12-01 0:49:19 - PHP Notice:  Undefined variable: customer_no in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 205
+2025-12-01 0:49:19 - PHP Notice:  Undefined variable: last_rate in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 286
+2025-12-01 0:49:19 - PHP Notice:  Undefined index: href in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 329
+2025-12-01 0:49:19 - PHP Notice:  Undefined variable: products in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 350
+2025-12-01 0:49:19 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 350
+2025-12-01 0:49:19 - PHP Notice:  Undefined index: href in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 329
+2025-12-01 0:49:19 - PHP Notice:  Undefined variable: products in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 350
+2025-12-01 0:49:19 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 350
+2025-12-01 0:49:19 - PHP Notice:  Undefined variable: total_qty in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 453
+2025-12-01 0:49:19 - PHP Notice:  Undefined variable: tax_per in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 511
+2025-12-01 0:49:19 - PHP Notice:  Undefined variable: action_cash_receipt in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 539
+2025-12-01 0:49:19 - PHP Notice:  Undefined variable: action_print_bill in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 557
+2025-12-01 0:49:19 - PHP Notice:  Undefined index: print_bill in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 559
+2025-12-01 0:49:19 - PHP Notice:  Undefined variable: products in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 623
+2025-12-01 0:49:19 - PHP Notice:  Undefined variable: customer_no in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 625
+2025-12-01 0:49:19 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 765
+2025-12-01 0:50:24 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:50:24 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4887
+2025-12-01 0:50:24 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4907
+2025-12-01 0:52:06 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:52:06 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4890
+2025-12-01 0:52:06 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4910
+2025-12-01 0:53:22 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:53:22 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4894
+2025-12-01 0:53:22 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4914
+2025-12-01 0:53:32 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:53:32 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4894
+2025-12-01 0:53:32 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4914
+2025-12-01 0:53:44 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:53:44 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4894
+2025-12-01 0:53:44 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4914
+2025-12-01 0:54:40 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:54:40 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4891
+2025-12-01 0:54:40 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4911
+2025-12-01 0:56:23 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:56:23 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4895
+2025-12-01 0:56:23 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4915
+2025-12-01 0:57:07 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:57:07 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4895
+2025-12-01 0:57:07 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4915
+2025-12-01 0:57:41 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\pos\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2025-12-01 0:57:41 - PHP Notice:  Undefined index: company_header_print in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4896
+2025-12-01 0:57:41 - PHP Notice:  Undefined index: type in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 4916
+2025-12-01 0:58:06 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\pos\admin\view\template\common\column_left.tpl on line 68
+2025-12-01 0:58:06 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\pos\admin\view\template\common\column_left.tpl on line 68
+2025-12-01 0:58:06 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\pos\admin\view\template\common\column_left.tpl on line 231
+2025-12-01 0:58:06 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_list.tpl on line 19
+2025-12-01 0:58:06 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_list.tpl on line 19
+2025-12-01 0:58:06 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_list.tpl on line 19
+2025-12-01 0:58:06 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_list.tpl on line 76
+2025-12-01 0:58:08 - PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 295
+2025-12-01 0:58:08 - PHP Notice:  Undefined index: manual_ref_no in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 313
+2025-12-01 0:58:08 - PHP Notice:  Undefined index: announcement_id in C:\xampp\htdocs\pos\admin\controller\inventory\sale_tax_invoice.php on line 340
+2025-12-01 0:58:08 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\pos\admin\view\template\common\column_left.tpl on line 68
+2025-12-01 0:58:08 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\pos\admin\view\template\common\column_left.tpl on line 68
+2025-12-01 0:58:08 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\pos\admin\view\template\common\column_left.tpl on line 231
+2025-12-01 0:58:08 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 31
+2025-12-01 0:58:08 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 31
+2025-12-01 0:58:08 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 31
+2025-12-01 0:58:08 - PHP Notice:  Undefined variable: action_cash_receipt in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 41
+2025-12-01 0:58:08 - PHP Notice:  Undefined variable: action_print_bill in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 59
+2025-12-01 0:58:08 - PHP Notice:  Undefined index: print_bill in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 61
+2025-12-01 0:58:08 - PHP Notice:  Undefined variable: action in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 115
+2025-12-01 0:58:08 - PHP Notice:  Undefined variable: customer_no in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 205
+2025-12-01 0:58:08 - PHP Notice:  Undefined variable: last_rate in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 286
+2025-12-01 0:58:08 - PHP Notice:  Undefined index: href in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 329
+2025-12-01 0:58:08 - PHP Notice:  Undefined variable: products in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 350
+2025-12-01 0:58:08 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 350
+2025-12-01 0:58:08 - PHP Notice:  Undefined variable: total_qty in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 453
+2025-12-01 0:58:08 - PHP Notice:  Undefined variable: tax_per in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 511
+2025-12-01 0:58:08 - PHP Notice:  Undefined variable: action_cash_receipt in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 539
+2025-12-01 0:58:08 - PHP Notice:  Undefined variable: action_print_bill in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 557
+2025-12-01 0:58:08 - PHP Notice:  Undefined index: print_bill in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 559
+2025-12-01 0:58:08 - PHP Notice:  Undefined variable: products in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 623
+2025-12-01 0:58:08 - PHP Notice:  Undefined variable: customer_no in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 625
+2025-12-01 0:58:08 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\pos\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 765

@@ -1,0 +1,981 @@
+2024-12-13 10:13:04 - PHP Warning:  session_start(): session.name cannot contain any of the following '=,; \t\r\n\013\014' in C:\xampp\htdocs\boot_store\system\library\session.php on line 9
+2024-12-13 10:13:04 - PHP Warning:  session_start(): session.name cannot contain any of the following '=,; \t\r\n\013\014' in C:\xampp\htdocs\boot_store\system\library\session.php on line 9
+2024-12-13 10:13:16 - PHP Warning:  session_start(): session.name cannot contain any of the following '=,; \t\r\n\013\014' in C:\xampp\htdocs\boot_store\system\library\session.php on line 9
+2024-12-13 10:13:16 - PHP Notice:  Undefined index: from_time in C:\xampp\htdocs\boot_store\admin\controller\common\login.php on line 102
+2024-12-13 10:13:16 - PHP Notice:  Undefined index: to_time in C:\xampp\htdocs\boot_store\admin\controller\common\login.php on line 103
+2024-12-13 10:13:21 - PHP Warning:  session_start(): session.name cannot contain any of the following '=,; \t\r\n\013\014' in C:\xampp\htdocs\boot_store\system\library\session.php on line 9
+2024-12-13 10:13:21 - PHP Notice:  Undefined index: from_time in C:\xampp\htdocs\boot_store\admin\controller\common\login.php on line 102
+2024-12-13 10:13:21 - PHP Notice:  Undefined index: to_time in C:\xampp\htdocs\boot_store\admin\controller\common\login.php on line 103
+2024-12-13 10:14:01 - PHP Warning:  session_start(): session.name cannot contain any of the following '=,; \t\r\n\013\014' in C:\xampp\htdocs\boot_store\system\library\session.php on line 9
+2024-12-13 10:14:01 - PHP Notice:  Undefined index: from_time in C:\xampp\htdocs\boot_store\admin\controller\common\login.php on line 102
+2024-12-13 10:14:01 - PHP Notice:  Undefined index: to_time in C:\xampp\htdocs\boot_store\admin\controller\common\login.php on line 103
+2024-12-13 10:14:56 - PHP Warning:  session_start(): session.name cannot contain any of the following '=,; \t\r\n\013\014' in C:\xampp\htdocs\boot_store\system\library\session.php on line 9
+2024-12-13 10:14:56 - PHP Warning:  session_start(): session.name cannot contain any of the following '=,; \t\r\n\013\014' in C:\xampp\htdocs\boot_store\system\library\session.php on line 9
+2024-12-13 10:14:56 - PHP Notice:  Undefined index: db_name in C:\xampp\htdocs\boot_store\system\engine\hmodel.php on line 12
+2024-12-13 10:14:56 - PHP Notice:  Undefined index: token in C:\xampp\htdocs\boot_store\admin\controller\common\preset.php on line 106
+2024-12-13 10:14:56 - PHP Notice:  Undefined index: user_id in C:\xampp\htdocs\boot_store\admin\controller\common\preset.php on line 115
+2024-12-13 10:14:56 - PHP Notice:  Undefined index: token in C:\xampp\htdocs\boot_store\admin\controller\common\preset.php on line 149
+2024-12-13 10:14:56 - PHP Notice:  Undefined index: token in C:\xampp\htdocs\boot_store\admin\controller\common\preset.php on line 150
+2024-12-13 10:14:56 - PHP Notice:  Undefined index: token in C:\xampp\htdocs\boot_store\admin\controller\common\preset.php on line 151
+2024-12-13 10:14:56 - PHP Notice:  Undefined index: token in C:\xampp\htdocs\boot_store\admin\controller\common\preset.php on line 152
+2024-12-13 10:14:57 - PHP Notice:  Undefined variable: companys in C:\xampp\htdocs\boot_store\admin\view\template\common\preset.tpl on line 42
+2024-12-13 10:14:57 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\boot_store\admin\view\template\common\preset.tpl on line 42
+2024-12-13 10:14:57 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\boot_store\admin\view\template\common\preset.tpl on line 52
+2024-12-13 10:14:57 - PHP Warning:  session_start(): session.name cannot contain any of the following '=,; \t\r\n\013\014' in C:\xampp\htdocs\boot_store\system\library\session.php on line 9
+2024-12-13 10:14:57 - PHP Warning:  session_start(): session.name cannot contain any of the following '=,; \t\r\n\013\014' in C:\xampp\htdocs\boot_store\system\library\session.php on line 9
+2024-12-13 10:15:30 - PHP Warning:  session_start(): session.name cannot contain any of the following '=,; \t\r\n\013\014' in C:\xampp\htdocs\boot_store\system\library\session.php on line 9
+2024-12-13 10:15:30 - PHP Warning:  session_start(): session.name cannot contain any of the following '=,; \t\r\n\013\014' in C:\xampp\htdocs\boot_store\system\library\session.php on line 9
+2024-12-13 10:15:33 - PHP Warning:  session_start(): session.name cannot contain any of the following '=,; \t\r\n\013\014' in C:\xampp\htdocs\boot_store\system\library\session.php on line 9
+2024-12-13 10:15:33 - PHP Warning:  session_start(): session.name cannot contain any of the following '=,; \t\r\n\013\014' in C:\xampp\htdocs\boot_store\system\library\session.php on line 9
+2024-12-13 10:15:33 - PHP Notice:  Undefined index: db_name in C:\xampp\htdocs\boot_store\system\engine\hmodel.php on line 12
+2024-12-13 10:15:33 - PHP Notice:  Undefined index: token in C:\xampp\htdocs\boot_store\admin\controller\common\preset.php on line 106
+2024-12-13 10:15:33 - PHP Notice:  Undefined index: user_id in C:\xampp\htdocs\boot_store\admin\controller\common\preset.php on line 115
+2024-12-13 10:15:33 - PHP Notice:  Undefined index: token in C:\xampp\htdocs\boot_store\admin\controller\common\preset.php on line 149
+2024-12-13 10:15:33 - PHP Notice:  Undefined index: token in C:\xampp\htdocs\boot_store\admin\controller\common\preset.php on line 150
+2024-12-13 10:15:33 - PHP Notice:  Undefined index: token in C:\xampp\htdocs\boot_store\admin\controller\common\preset.php on line 151
+2024-12-13 10:15:33 - PHP Notice:  Undefined index: token in C:\xampp\htdocs\boot_store\admin\controller\common\preset.php on line 152
+2024-12-13 10:15:33 - PHP Notice:  Undefined variable: companys in C:\xampp\htdocs\boot_store\admin\view\template\common\preset.tpl on line 42
+2024-12-13 10:15:33 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\boot_store\admin\view\template\common\preset.tpl on line 42
+2024-12-13 10:15:33 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\boot_store\admin\view\template\common\preset.tpl on line 52
+2024-12-13 10:15:33 - PHP Warning:  session_start(): session.name cannot contain any of the following '=,; \t\r\n\013\014' in C:\xampp\htdocs\boot_store\system\library\session.php on line 9
+2024-12-13 10:15:33 - PHP Warning:  session_start(): session.name cannot contain any of the following '=,; \t\r\n\013\014' in C:\xampp\htdocs\boot_store\system\library\session.php on line 9
+2024-12-13 10:15:54 - PHP Warning:  session_start(): session.name cannot contain any of the following '=,; \t\r\n\013\014' in C:\xampp\htdocs\boot_store\system\library\session.php on line 9
+2024-12-13 10:15:54 - PHP Notice:  Undefined index: db_name in C:\xampp\htdocs\boot_store\system\engine\hmodel.php on line 12
+2024-12-13 10:15:54 - PHP Notice:  Undefined index: token in C:\xampp\htdocs\boot_store\admin\controller\common\preset.php on line 106
+2024-12-13 10:15:54 - PHP Notice:  Undefined index: user_id in C:\xampp\htdocs\boot_store\admin\controller\common\preset.php on line 115
+2024-12-13 10:15:54 - PHP Notice:  Undefined index: token in C:\xampp\htdocs\boot_store\admin\controller\common\preset.php on line 149
+2024-12-13 10:15:54 - PHP Notice:  Undefined index: token in C:\xampp\htdocs\boot_store\admin\controller\common\preset.php on line 150
+2024-12-13 10:15:54 - PHP Notice:  Undefined index: token in C:\xampp\htdocs\boot_store\admin\controller\common\preset.php on line 151
+2024-12-13 10:15:54 - PHP Notice:  Undefined index: token in C:\xampp\htdocs\boot_store\admin\controller\common\preset.php on line 152
+2024-12-13 10:15:54 - PHP Notice:  Undefined variable: companys in C:\xampp\htdocs\boot_store\admin\view\template\common\preset.tpl on line 42
+2024-12-13 10:15:54 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\boot_store\admin\view\template\common\preset.tpl on line 42
+2024-12-13 10:15:54 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\boot_store\admin\view\template\common\preset.tpl on line 52
+2024-12-13 10:15:54 - PHP Warning:  session_start(): session.name cannot contain any of the following '=,; \t\r\n\013\014' in C:\xampp\htdocs\boot_store\system\library\session.php on line 9
+2024-12-13 10:15:54 - PHP Warning:  session_start(): session.name cannot contain any of the following '=,; \t\r\n\013\014' in C:\xampp\htdocs\boot_store\system\library\session.php on line 9
+2024-12-13 10:16:14 - PHP Warning:  session_start(): session.name cannot contain any of the following '=,; \t\r\n\013\014' in C:\xampp\htdocs\boot_store\system\library\session.php on line 9
+2024-12-13 10:16:14 - PHP Warning:  session_start(): session.name cannot contain any of the following '=,; \t\r\n\013\014' in C:\xampp\htdocs\boot_store\system\library\session.php on line 9
+2024-12-13 10:16:17 - PHP Warning:  session_start(): session.name cannot contain any of the following '=,; \t\r\n\013\014' in C:\xampp\htdocs\boot_store\system\library\session.php on line 9
+2024-12-13 10:16:18 - PHP Warning:  session_start(): session.name cannot contain any of the following '=,; \t\r\n\013\014' in C:\xampp\htdocs\boot_store\system\library\session.php on line 9
+2024-12-13 10:16:18 - PHP Notice:  Undefined index: db_name in C:\xampp\htdocs\boot_store\system\engine\hmodel.php on line 12
+2024-12-13 10:16:18 - PHP Notice:  Undefined index: token in C:\xampp\htdocs\boot_store\admin\controller\common\preset.php on line 106
+2024-12-13 10:16:18 - PHP Notice:  Undefined index: user_id in C:\xampp\htdocs\boot_store\admin\controller\common\preset.php on line 115
+2024-12-13 10:16:18 - PHP Notice:  Undefined index: token in C:\xampp\htdocs\boot_store\admin\controller\common\preset.php on line 149
+2024-12-13 10:16:18 - PHP Notice:  Undefined index: token in C:\xampp\htdocs\boot_store\admin\controller\common\preset.php on line 150
+2024-12-13 10:16:18 - PHP Notice:  Undefined index: token in C:\xampp\htdocs\boot_store\admin\controller\common\preset.php on line 151
+2024-12-13 10:16:18 - PHP Notice:  Undefined index: token in C:\xampp\htdocs\boot_store\admin\controller\common\preset.php on line 152
+2024-12-13 10:16:18 - PHP Notice:  Undefined variable: companys in C:\xampp\htdocs\boot_store\admin\view\template\common\preset.tpl on line 42
+2024-12-13 10:16:18 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\boot_store\admin\view\template\common\preset.tpl on line 42
+2024-12-13 10:16:18 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\boot_store\admin\view\template\common\preset.tpl on line 52
+2024-12-13 10:16:18 - PHP Warning:  session_start(): session.name cannot contain any of the following '=,; \t\r\n\013\014' in C:\xampp\htdocs\boot_store\system\library\session.php on line 9
+2024-12-13 10:16:18 - PHP Warning:  session_start(): session.name cannot contain any of the following '=,; \t\r\n\013\014' in C:\xampp\htdocs\boot_store\system\library\session.php on line 9
+2024-12-13 10:16:37 - PHP Notice:  Undefined index: db_name in C:\xampp\htdocs\boot_store\system\engine\hmodel.php on line 12
+2024-12-13 10:16:37 - PHP Notice:  Undefined index: token in C:\xampp\htdocs\boot_store\admin\controller\common\preset.php on line 106
+2024-12-13 10:16:37 - PHP Notice:  Undefined index: user_id in C:\xampp\htdocs\boot_store\admin\controller\common\preset.php on line 115
+2024-12-13 10:16:37 - PHP Notice:  Undefined index: token in C:\xampp\htdocs\boot_store\admin\controller\common\preset.php on line 149
+2024-12-13 10:16:37 - PHP Notice:  Undefined index: token in C:\xampp\htdocs\boot_store\admin\controller\common\preset.php on line 150
+2024-12-13 10:16:37 - PHP Notice:  Undefined index: token in C:\xampp\htdocs\boot_store\admin\controller\common\preset.php on line 151
+2024-12-13 10:16:37 - PHP Notice:  Undefined index: token in C:\xampp\htdocs\boot_store\admin\controller\common\preset.php on line 152
+2024-12-13 10:16:37 - PHP Notice:  Undefined variable: companys in C:\xampp\htdocs\boot_store\admin\view\template\common\preset.tpl on line 42
+2024-12-13 10:16:37 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\boot_store\admin\view\template\common\preset.tpl on line 42
+2024-12-13 10:16:37 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\boot_store\admin\view\template\common\preset.tpl on line 52
+2024-12-13 10:17:14 - PHP Notice:  Undefined index: db_name in C:\xampp\htdocs\boot_store\system\engine\hmodel.php on line 12
+2024-12-13 10:17:14 - PHP Notice:  Undefined index: token in C:\xampp\htdocs\boot_store\admin\controller\common\preset.php on line 106
+2024-12-13 10:17:14 - PHP Notice:  Undefined index: user_id in C:\xampp\htdocs\boot_store\admin\controller\common\preset.php on line 115
+2024-12-13 10:17:14 - PHP Notice:  Undefined index: token in C:\xampp\htdocs\boot_store\admin\controller\common\preset.php on line 149
+2024-12-13 10:17:14 - PHP Notice:  Undefined index: token in C:\xampp\htdocs\boot_store\admin\controller\common\preset.php on line 150
+2024-12-13 10:17:14 - PHP Notice:  Undefined index: token in C:\xampp\htdocs\boot_store\admin\controller\common\preset.php on line 151
+2024-12-13 10:17:14 - PHP Notice:  Undefined index: token in C:\xampp\htdocs\boot_store\admin\controller\common\preset.php on line 152
+2024-12-13 10:17:14 - PHP Notice:  Undefined variable: companys in C:\xampp\htdocs\boot_store\admin\view\template\common\preset.tpl on line 42
+2024-12-13 10:17:14 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\boot_store\admin\view\template\common\preset.tpl on line 42
+2024-12-13 10:17:14 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\boot_store\admin\view\template\common\preset.tpl on line 52
+2024-12-13 10:18:06 - PHP Notice:  Undefined index: db_name in C:\xampp\htdocs\boot_store\system\engine\hmodel.php on line 12
+2024-12-13 10:18:06 - PHP Notice:  Undefined index: token in C:\xampp\htdocs\boot_store\admin\controller\common\preset.php on line 106
+2024-12-13 10:18:06 - PHP Notice:  Undefined index: user_id in C:\xampp\htdocs\boot_store\admin\controller\common\preset.php on line 115
+2024-12-13 10:18:06 - PHP Notice:  Undefined index: token in C:\xampp\htdocs\boot_store\admin\controller\common\preset.php on line 149
+2024-12-13 10:18:06 - PHP Notice:  Undefined index: token in C:\xampp\htdocs\boot_store\admin\controller\common\preset.php on line 150
+2024-12-13 10:18:06 - PHP Notice:  Undefined index: token in C:\xampp\htdocs\boot_store\admin\controller\common\preset.php on line 151
+2024-12-13 10:18:06 - PHP Notice:  Undefined index: token in C:\xampp\htdocs\boot_store\admin\controller\common\preset.php on line 152
+2024-12-13 10:18:06 - PHP Notice:  Undefined variable: companys in C:\xampp\htdocs\boot_store\admin\view\template\common\preset.tpl on line 42
+2024-12-13 10:18:06 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\boot_store\admin\view\template\common\preset.tpl on line 42
+2024-12-13 10:18:06 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\boot_store\admin\view\template\common\preset.tpl on line 52
+2024-12-13 10:18:23 - PHP Notice:  Undefined index: db_name in C:\xampp\htdocs\boot_store\system\engine\hmodel.php on line 12
+2024-12-13 10:18:23 - PHP Notice:  Undefined index: token in C:\xampp\htdocs\boot_store\admin\controller\common\preset.php on line 106
+2024-12-13 10:18:23 - PHP Notice:  Undefined index: user_id in C:\xampp\htdocs\boot_store\admin\controller\common\preset.php on line 115
+2024-12-13 10:18:23 - PHP Notice:  Undefined index: token in C:\xampp\htdocs\boot_store\admin\controller\common\preset.php on line 149
+2024-12-13 10:18:23 - PHP Notice:  Undefined index: token in C:\xampp\htdocs\boot_store\admin\controller\common\preset.php on line 150
+2024-12-13 10:18:23 - PHP Notice:  Undefined index: token in C:\xampp\htdocs\boot_store\admin\controller\common\preset.php on line 151
+2024-12-13 10:18:23 - PHP Notice:  Undefined index: token in C:\xampp\htdocs\boot_store\admin\controller\common\preset.php on line 152
+2024-12-13 10:18:23 - PHP Notice:  Undefined variable: companys in C:\xampp\htdocs\boot_store\admin\view\template\common\preset.tpl on line 42
+2024-12-13 10:18:23 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\boot_store\admin\view\template\common\preset.tpl on line 42
+2024-12-13 10:18:23 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\boot_store\admin\view\template\common\preset.tpl on line 52
+2024-12-13 10:18:34 - PHP Notice:  Undefined index: db_name in C:\xampp\htdocs\boot_store\system\engine\hmodel.php on line 12
+2024-12-13 10:18:34 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\boot_store\admin\view\template\common\preset.tpl on line 52
+2024-12-13 10:19:11 - PHP Notice:  Undefined index: company_name in C:\xampp\htdocs\boot_store\admin\controller\common\header.php on line 7
+2024-12-13 10:19:11 - PHP Notice:  Undefined offset: 1 in C:\xampp\htdocs\boot_store\admin\controller\common\column_left.php on line 162
+2024-12-13 10:19:11 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 68
+2024-12-13 10:19:12 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 68
+2024-12-13 10:19:12 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 231
+2024-12-13 10:19:12 - PHP Notice:  Undefined index: db_name in C:\xampp\htdocs\boot_store\system\engine\hmodel.php on line 12
+2024-12-13 10:19:12 - PHP Notice:  Undefined index: company_name in C:\xampp\htdocs\boot_store\admin\controller\common\page_header.php on line 10
+2024-12-13 10:19:12 - PHP Notice:  Undefined index: company_branch_name in C:\xampp\htdocs\boot_store\admin\controller\common\page_header.php on line 11
+2024-12-13 10:19:12 - PHP Notice:  Undefined index: fiscal_title in C:\xampp\htdocs\boot_store\admin\controller\common\page_header.php on line 12
+2024-12-13 10:19:12 - PHP Notice:  Undefined index: company_id in C:\xampp\htdocs\boot_store\admin\controller\common\page_header.php on line 16
+2024-12-13 10:19:12 - PHP Notice:  Undefined index: company_branch_id in C:\xampp\htdocs\boot_store\admin\controller\common\page_header.php on line 17
+2024-12-13 10:19:12 - PHP Notice:  Undefined index: fiscal_year_id in C:\xampp\htdocs\boot_store\admin\controller\common\page_header.php on line 18
+2024-12-13 10:19:18 - PHP Notice:  Undefined index: company_name in C:\xampp\htdocs\boot_store\admin\controller\common\header.php on line 7
+2024-12-13 10:19:18 - PHP Notice:  Undefined offset: 1 in C:\xampp\htdocs\boot_store\admin\controller\common\column_left.php on line 162
+2024-12-13 10:19:18 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 68
+2024-12-13 10:19:18 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 68
+2024-12-13 10:19:18 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 231
+2024-12-13 10:19:18 - PHP Notice:  Undefined index: db_name in C:\xampp\htdocs\boot_store\system\engine\hmodel.php on line 12
+2024-12-13 10:19:18 - PHP Notice:  Undefined index: company_name in C:\xampp\htdocs\boot_store\admin\controller\common\page_header.php on line 10
+2024-12-13 10:19:18 - PHP Notice:  Undefined index: company_branch_name in C:\xampp\htdocs\boot_store\admin\controller\common\page_header.php on line 11
+2024-12-13 10:19:18 - PHP Notice:  Undefined index: fiscal_title in C:\xampp\htdocs\boot_store\admin\controller\common\page_header.php on line 12
+2024-12-13 10:19:18 - PHP Notice:  Undefined index: company_id in C:\xampp\htdocs\boot_store\admin\controller\common\page_header.php on line 16
+2024-12-13 10:19:18 - PHP Notice:  Undefined index: company_branch_id in C:\xampp\htdocs\boot_store\admin\controller\common\page_header.php on line 17
+2024-12-13 10:19:18 - PHP Notice:  Undefined index: fiscal_year_id in C:\xampp\htdocs\boot_store\admin\controller\common\page_header.php on line 18
+2024-12-13 10:20:08 - PHP Notice:  Undefined index: db_name in C:\xampp\htdocs\boot_store\system\engine\hmodel.php on line 12
+2024-12-13 10:20:08 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\boot_store\admin\view\template\common\preset.tpl on line 52
+2024-12-13 10:20:17 - PHP Notice:  Undefined index: db_name in C:\xampp\htdocs\boot_store\system\engine\hmodel.php on line 12
+2024-12-13 10:20:17 - PHP Notice:  Undefined index: case_id in C:\xampp\htdocs\boot_store\admin\controller\common\home.php on line 55
+2024-12-13 10:20:17 - PHP Notice:  Undefined index: case_id in C:\xampp\htdocs\boot_store\admin\controller\common\home.php on line 56
+2024-12-13 10:20:17 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 68
+2024-12-13 10:20:17 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 68
+2024-12-13 10:20:17 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 231
+2024-12-13 10:20:17 - PHP Notice:  Undefined index: inventory_sale_invoice in C:\xampp\htdocs\boot_store\admin\view\template\common\home.tpl on line 36
+2024-12-13 10:27:43 - PHP Notice:  Undefined index: case_id in C:\xampp\htdocs\boot_store\admin\controller\common\home.php on line 55
+2024-12-13 10:27:43 - PHP Notice:  Undefined index: case_id in C:\xampp\htdocs\boot_store\admin\controller\common\home.php on line 56
+2024-12-13 10:27:43 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 68
+2024-12-13 10:27:43 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 68
+2024-12-13 10:27:43 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 231
+2024-12-13 10:27:52 - PHP Notice:  Undefined index: case_id in C:\xampp\htdocs\boot_store\admin\controller\common\home.php on line 55
+2024-12-13 10:27:52 - PHP Notice:  Undefined index: case_id in C:\xampp\htdocs\boot_store\admin\controller\common\home.php on line 56
+2024-12-13 10:27:52 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 68
+2024-12-13 10:27:52 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 68
+2024-12-13 10:27:52 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 231
+2024-12-13 10:27:52 - PHP Notice:  Undefined index: inventory_sale_invoice in C:\xampp\htdocs\boot_store\admin\view\template\common\home.tpl on line 36
+2024-12-13 10:29:07 - PHP Notice:  Undefined index: case_id in C:\xampp\htdocs\boot_store\admin\controller\common\home.php on line 55
+2024-12-13 10:29:07 - PHP Notice:  Undefined index: case_id in C:\xampp\htdocs\boot_store\admin\controller\common\home.php on line 56
+2024-12-13 10:29:07 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 68
+2024-12-13 10:29:07 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 68
+2024-12-13 10:29:07 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 231
+2024-12-13 10:29:07 - PHP Notice:  Undefined index: inventory_sale_invoice in C:\xampp\htdocs\boot_store\admin\view\template\common\home.tpl on line 36
+2024-12-13 10:29:26 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 68
+2024-12-13 10:29:26 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 68
+2024-12-13 10:29:26 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 231
+2024-12-13 10:29:26 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_list.tpl on line 19
+2024-12-13 10:29:26 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_list.tpl on line 19
+2024-12-13 10:29:26 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_list.tpl on line 19
+2024-12-13 10:29:26 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_list.tpl on line 78
+2024-12-13 10:29:34 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\boot_store\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2024-12-13 10:29:34 - PHP Notice:  Undefined index: print_name in C:\xampp\htdocs\boot_store\admin\controller\inventory\purchase_invoice.php on line 1569
+2024-12-13 10:29:34 - PHP Notice:  Undefined index: amount_received in C:\xampp\htdocs\boot_store\admin\controller\inventory\purchase_invoice.php on line 1726
+2024-12-13 10:29:34 - PHP Notice:  Undefined index: freight_master in C:\xampp\htdocs\boot_store\admin\controller\inventory\purchase_invoice.php on line 1741
+2024-12-13 10:49:03 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 68
+2024-12-13 10:49:03 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 68
+2024-12-13 10:49:03 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 231
+2024-12-13 10:49:03 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_list.tpl on line 19
+2024-12-13 10:49:03 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_list.tpl on line 19
+2024-12-13 10:49:03 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_list.tpl on line 19
+2024-12-13 10:49:03 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_list.tpl on line 78
+2024-12-13 10:49:47 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 68
+2024-12-13 10:49:47 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 68
+2024-12-13 10:49:47 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 231
+2024-12-13 10:49:47 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_list.tpl on line 19
+2024-12-13 10:49:47 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_list.tpl on line 19
+2024-12-13 10:49:47 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_list.tpl on line 19
+2024-12-13 10:49:47 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_list.tpl on line 78
+2024-12-13 10:50:17 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 68
+2024-12-13 10:50:17 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 68
+2024-12-13 10:50:17 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 231
+2024-12-13 10:50:17 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_list.tpl on line 19
+2024-12-13 10:50:17 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_list.tpl on line 19
+2024-12-13 10:50:17 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_list.tpl on line 19
+2024-12-13 10:50:17 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_list.tpl on line 78
+2024-12-13 10:50:36 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 68
+2024-12-13 10:50:36 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 68
+2024-12-13 10:50:36 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 231
+2024-12-13 10:50:36 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_list.tpl on line 19
+2024-12-13 10:50:36 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_list.tpl on line 19
+2024-12-13 10:50:36 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_list.tpl on line 19
+2024-12-13 10:50:36 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_list.tpl on line 78
+2024-12-13 10:50:58 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 68
+2024-12-13 10:50:58 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 68
+2024-12-13 10:50:58 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 231
+2024-12-13 10:50:58 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_list.tpl on line 19
+2024-12-13 10:50:58 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_list.tpl on line 19
+2024-12-13 10:50:58 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_list.tpl on line 19
+2024-12-13 10:50:58 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_list.tpl on line 78
+2024-12-13 10:51:12 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 68
+2024-12-13 10:51:12 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 68
+2024-12-13 10:51:12 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 231
+2024-12-13 10:51:12 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_list.tpl on line 19
+2024-12-13 10:51:12 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_list.tpl on line 19
+2024-12-13 10:51:12 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_list.tpl on line 19
+2024-12-13 10:51:12 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_list.tpl on line 78
+2024-12-13 12:15:02 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 68
+2024-12-13 12:15:02 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 68
+2024-12-13 12:15:02 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 231
+2024-12-13 12:15:02 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_list.tpl on line 19
+2024-12-13 12:15:02 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_list.tpl on line 19
+2024-12-13 12:15:02 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_list.tpl on line 19
+2024-12-13 12:15:02 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_list.tpl on line 78
+2024-12-13 12:15:18 - PHP Warning:  Declaration of ControllerInventoryProduct::validateDelete($id) should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\boot_store\admin\controller\inventory\product.php on line 1215
+2024-12-13 12:15:18 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 68
+2024-12-13 12:15:18 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 68
+2024-12-13 12:15:18 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 231
+2024-12-13 12:15:18 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 19
+2024-12-13 12:15:18 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 19
+2024-12-13 12:15:18 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 19
+2024-12-13 12:15:18 - PHP Notice:  Undefined variable: product_category_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 46
+2024-12-13 12:15:18 - PHP Notice:  Undefined variable: product_category_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 46
+2024-12-13 12:15:18 - PHP Notice:  Undefined variable: product_category_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 46
+2024-12-13 12:15:18 - PHP Notice:  Undefined variable: product_category_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 46
+2024-12-13 12:15:18 - PHP Notice:  Undefined variable: product_category_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 46
+2024-12-13 12:15:18 - PHP Notice:  Undefined variable: product_category_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 46
+2024-12-13 12:15:18 - PHP Notice:  Undefined variable: product_sub_category_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 57
+2024-12-13 12:15:18 - PHP Notice:  Undefined variable: brand_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 67
+2024-12-13 12:15:18 - PHP Notice:  Undefined variable: brand_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 67
+2024-12-13 12:15:18 - PHP Notice:  Undefined variable: brand_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 67
+2024-12-13 12:15:18 - PHP Notice:  Undefined variable: brand_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 67
+2024-12-13 12:15:18 - PHP Notice:  Undefined variable: brand_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 67
+2024-12-13 12:15:18 - PHP Notice:  Undefined variable: brand_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 67
+2024-12-13 12:15:18 - PHP Notice:  Undefined variable: brand_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 67
+2024-12-13 12:15:18 - PHP Notice:  Undefined variable: brand_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 67
+2024-12-13 12:15:18 - PHP Notice:  Undefined variable: brand_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 67
+2024-12-13 12:15:18 - PHP Notice:  Undefined variable: brand_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 67
+2024-12-13 12:15:18 - PHP Notice:  Undefined variable: brand_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 67
+2024-12-13 12:15:18 - PHP Notice:  Undefined variable: brand_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 67
+2024-12-13 12:15:18 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 128
+2024-12-13 12:15:18 - PHP Warning:  Declaration of ControllerInventoryProduct::validateDelete($id) should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\boot_store\admin\controller\inventory\product.php on line 1215
+2024-12-13 12:15:22 - PHP Warning:  Declaration of ControllerInventoryProduct::validateDelete($id) should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\boot_store\admin\controller\inventory\product.php on line 1215
+2024-12-13 12:15:22 - PHP Notice:  Undefined index: print_type in C:\xampp\htdocs\boot_store\admin\controller\inventory\product.php on line 579
+2024-12-13 12:15:22 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\boot_store\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2024-12-13 12:15:22 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 456
+2024-12-13 12:15:22 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 467
+2024-12-13 12:15:22 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 523
+2024-12-13 12:15:22 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 526
+2024-12-13 12:15:22 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 546
+2024-12-13 12:15:22 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 646
+2024-12-13 12:15:22 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 649
+2024-12-13 12:15:22 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 659
+2024-12-13 12:15:22 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 670
+2024-12-13 12:15:22 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 702
+2024-12-13 12:15:22 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 716
+2024-12-13 12:15:22 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 741
+2024-12-13 12:15:22 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 745
+2024-12-13 12:15:22 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 786
+2024-12-13 12:15:22 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 801
+2024-12-13 12:15:22 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 844
+2024-12-13 12:15:22 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 870
+2024-12-13 12:15:22 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 870
+2024-12-13 12:15:22 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 871
+2024-12-13 12:15:22 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 922
+2024-12-13 12:15:22 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 923
+2024-12-13 12:15:22 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 932
+2024-12-13 12:15:22 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 932
+2024-12-13 12:15:22 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 941
+2024-12-13 12:15:22 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1088
+2024-12-13 12:15:22 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1103
+2024-12-13 12:15:22 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1127
+2024-12-13 12:15:22 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1127
+2024-12-13 12:15:22 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1183
+2024-12-13 12:15:22 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1226
+2024-12-13 12:15:22 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1243
+2024-12-13 12:15:22 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1243
+2024-12-13 12:15:22 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1274
+2024-12-13 12:15:22 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1340
+2024-12-13 12:15:22 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1347
+2024-12-13 12:15:22 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1359
+2024-12-13 12:15:22 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1470
+2024-12-13 12:15:22 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1478
+2024-12-13 12:15:22 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1483
+2024-12-13 12:15:22 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1488
+2024-12-13 12:15:22 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1496
+2024-12-13 12:15:22 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1496
+2024-12-13 12:15:22 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1497
+2024-12-13 12:15:22 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1581
+2024-12-13 12:15:22 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1632
+2024-12-13 12:15:22 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1646
+2024-12-13 12:15:22 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1759
+2024-12-13 12:15:22 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1760
+2024-12-13 12:15:22 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1777
+2024-12-13 12:15:22 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1849
+2024-12-13 12:15:22 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1852
+2024-12-13 12:15:22 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1859
+2024-12-13 12:15:22 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1899
+2024-12-13 12:15:22 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1921
+2024-12-13 12:15:22 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1940
+2024-12-13 12:15:22 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1943
+2024-12-13 12:15:22 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1950
+2024-12-13 12:15:22 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 2019
+2024-12-13 12:15:22 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 2258
+2024-12-13 12:15:28 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 68
+2024-12-13 12:15:28 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 68
+2024-12-13 12:15:28 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 231
+2024-12-13 12:15:28 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_list.tpl on line 19
+2024-12-13 12:15:28 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_list.tpl on line 19
+2024-12-13 12:15:28 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_list.tpl on line 19
+2024-12-13 12:15:28 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_list.tpl on line 78
+2024-12-13 12:15:35 - PHP Notice:  Undefined index: purchase_invoice_id in C:\xampp\htdocs\boot_store\system\engine\hcontroller.php on line 223
+2024-12-13 12:15:35 - PHP Notice:  Undefined index: purchase_invoice_id in C:\xampp\htdocs\boot_store\system\engine\hcontroller.php on line 224
+2024-12-13 12:15:35 - PHP Notice:  Undefined index: purchase_invoice_id in C:\xampp\htdocs\boot_store\admin\controller\inventory\purchase_invoice.php on line 259
+2024-12-13 12:15:35 - PHP Notice:  Undefined index: purchase_invoice_id in C:\xampp\htdocs\boot_store\admin\controller\inventory\purchase_invoice.php on line 261
+2024-12-13 12:15:35 - PHP Notice:  Undefined index: purchase_invoice_id in C:\xampp\htdocs\boot_store\admin\controller\inventory\purchase_invoice.php on line 263
+2024-12-13 12:15:35 - PHP Notice:  Undefined index: purchase_invoice_id in C:\xampp\htdocs\boot_store\admin\controller\inventory\purchase_invoice.php on line 264
+2024-12-13 12:15:35 - PHP Notice:  Undefined index: purchase_invoice_id in C:\xampp\htdocs\boot_store\admin\controller\inventory\purchase_invoice.php on line 265
+2024-12-13 12:15:35 - PHP Notice:  Undefined index: purchase_invoice_id in C:\xampp\htdocs\boot_store\admin\controller\inventory\purchase_invoice.php on line 266
+2024-12-13 12:15:35 - PHP Notice:  Undefined index: purchase_invoice_id in C:\xampp\htdocs\boot_store\admin\controller\inventory\purchase_invoice.php on line 267
+2024-12-13 12:15:35 - PHP Notice:  Undefined index: purchase_invoice_id in C:\xampp\htdocs\boot_store\admin\controller\inventory\purchase_invoice.php on line 270
+2024-12-13 12:15:35 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 68
+2024-12-13 12:15:35 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 68
+2024-12-13 12:15:35 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 231
+2024-12-13 12:15:35 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_form.tpl on line 18
+2024-12-13 12:15:35 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_form.tpl on line 18
+2024-12-13 12:15:35 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_form.tpl on line 18
+2024-12-13 12:15:35 - PHP Notice:  Undefined variable: is_post in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_form.tpl on line 57
+2024-12-13 12:15:35 - PHP Notice:  Undefined variable: action in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_form.tpl on line 85
+2024-12-13 12:15:35 - PHP Notice:  Undefined variable: document_type_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_form.tpl on line 86
+2024-12-13 12:15:35 - PHP Notice:  Undefined variable: purchase_invoice_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_form.tpl on line 87
+2024-12-13 12:15:35 - PHP Notice:  Undefined variable: invoice_type in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_form.tpl on line 96
+2024-12-13 12:15:35 - PHP Notice:  Undefined variable: invoice_type in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_form.tpl on line 104
+2024-12-13 12:15:35 - PHP Notice:  Undefined variable: document_identity in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_form.tpl on line 115
+2024-12-13 12:15:35 - PHP Notice:  Undefined variable: suppliers in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_form.tpl on line 173
+2024-12-13 12:15:35 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_form.tpl on line 173
+2024-12-13 12:15:35 - PHP Notice:  Undefined variable: remarks in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_form.tpl on line 206
+2024-12-13 12:15:35 - PHP Notice:  Undefined variable: purchase_invoice_details in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_form.tpl on line 238
+2024-12-13 12:15:35 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_form.tpl on line 238
+2024-12-13 12:15:35 - PHP Notice:  Undefined variable: purchase_invoice_details in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_form.tpl on line 322
+2024-12-13 12:15:35 - PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_form.tpl on line 322
+2024-12-13 12:15:35 - PHP Notice:  Undefined variable: total_quantity in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_form.tpl on line 335
+2024-12-13 12:15:35 - PHP Notice:  Undefined variable: item_amount in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_form.tpl on line 341
+2024-12-13 12:15:35 - PHP Notice:  Undefined variable: item_discount in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_form.tpl on line 347
+2024-12-13 12:15:36 - PHP Notice:  Undefined variable: item_tax in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_form.tpl on line 353
+2024-12-13 12:15:36 - PHP Notice:  Undefined variable: freight_master in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_form.tpl on line 360
+2024-12-13 12:15:36 - PHP Notice:  Undefined variable: item_total in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_form.tpl on line 367
+2024-12-13 12:15:36 - PHP Notice:  Undefined variable: discount in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_form.tpl on line 375
+2024-12-13 12:15:36 - PHP Notice:  Undefined variable: net_amount in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_form.tpl on line 382
+2024-12-13 12:15:36 - PHP Notice:  Undefined variable: is_post in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_form.tpl on line 420
+2024-12-13 12:15:36 - PHP Notice:  Undefined variable: partner_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_form.tpl on line 439
+2024-12-13 12:15:36 - PHP Notice:  Undefined variable: products in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_form.tpl on line 449
+2024-12-13 12:15:36 - PHP Notice:  Undefined index: purchase_invoice_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_form.tpl on line 475
+2024-12-13 12:15:36 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_form.tpl on line 559
+2024-12-13 12:15:43 - PHP Warning:  Declaration of ControllerInventoryStockIn::validateDelete() should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\boot_store\admin\controller\inventory\stock_in.php on line 536
+2024-12-13 12:15:43 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 68
+2024-12-13 12:15:43 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 68
+2024-12-13 12:15:43 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 231
+2024-12-13 12:15:43 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\inventory\stock_in_list.tpl on line 19
+2024-12-13 12:15:43 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\inventory\stock_in_list.tpl on line 19
+2024-12-13 12:15:43 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\inventory\stock_in_list.tpl on line 19
+2024-12-13 12:15:43 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\boot_store\admin\view\template\inventory\stock_in_list.tpl on line 77
+2024-12-13 12:15:43 - PHP Warning:  Declaration of ControllerInventoryStockIn::validateDelete() should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\boot_store\admin\controller\inventory\stock_in.php on line 536
+2024-12-13 12:15:44 - PHP Warning:  Declaration of ControllerInventoryStockIn::validateDelete() should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\boot_store\admin\controller\inventory\stock_in.php on line 536
+2024-12-13 12:15:44 - PHP Notice:  Undefined index: stock_in_id in C:\xampp\htdocs\boot_store\system\engine\hcontroller.php on line 223
+2024-12-13 12:15:44 - PHP Notice:  Undefined index: stock_in_id in C:\xampp\htdocs\boot_store\system\engine\hcontroller.php on line 224
+2024-12-13 12:15:44 - PHP Notice:  Undefined index: stock_in_id in C:\xampp\htdocs\boot_store\admin\controller\inventory\stock_in.php on line 212
+2024-12-13 12:15:44 - PHP Notice:  Undefined index: stock_in_id in C:\xampp\htdocs\boot_store\admin\controller\inventory\stock_in.php on line 213
+2024-12-13 12:15:44 - PHP Notice:  Undefined index: stock_in_id in C:\xampp\htdocs\boot_store\admin\controller\inventory\stock_in.php on line 214
+2024-12-13 12:15:44 - PHP Notice:  Undefined index: stock_in_id in C:\xampp\htdocs\boot_store\admin\controller\inventory\stock_in.php on line 215
+2024-12-13 12:15:44 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 68
+2024-12-13 12:15:44 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 68
+2024-12-13 12:15:44 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 231
+2024-12-13 12:15:45 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\inventory\stock_in_form.tpl on line 18
+2024-12-13 12:15:45 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\inventory\stock_in_form.tpl on line 18
+2024-12-13 12:15:45 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\inventory\stock_in_form.tpl on line 18
+2024-12-13 12:15:45 - PHP Notice:  Undefined variable: is_post in C:\xampp\htdocs\boot_store\admin\view\template\inventory\stock_in_form.tpl on line 47
+2024-12-13 12:15:45 - PHP Notice:  Undefined variable: action in C:\xampp\htdocs\boot_store\admin\view\template\inventory\stock_in_form.tpl on line 75
+2024-12-13 12:15:45 - PHP Notice:  Undefined variable: document_type_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\stock_in_form.tpl on line 76
+2024-12-13 12:15:45 - PHP Notice:  Undefined variable: stock_in_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\stock_in_form.tpl on line 77
+2024-12-13 12:15:45 - PHP Notice:  Undefined variable: document_identity in C:\xampp\htdocs\boot_store\admin\view\template\inventory\stock_in_form.tpl on line 82
+2024-12-13 12:15:45 - PHP Notice:  Undefined variable: warehouse_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\stock_in_form.tpl on line 97
+2024-12-13 12:15:45 - PHP Notice:  Undefined variable: remarks in C:\xampp\htdocs\boot_store\admin\view\template\inventory\stock_in_form.tpl on line 133
+2024-12-13 12:15:45 - PHP Notice:  Undefined variable: stock_in_details in C:\xampp\htdocs\boot_store\admin\view\template\inventory\stock_in_form.tpl on line 184
+2024-12-13 12:15:45 - PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp\htdocs\boot_store\admin\view\template\inventory\stock_in_form.tpl on line 184
+2024-12-13 12:15:45 - PHP Notice:  Undefined variable: stock_in_details in C:\xampp\htdocs\boot_store\admin\view\template\inventory\stock_in_form.tpl on line 184
+2024-12-13 12:15:45 - PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp\htdocs\boot_store\admin\view\template\inventory\stock_in_form.tpl on line 184
+2024-12-13 12:15:45 - PHP Notice:  Undefined variable: stock_in_details in C:\xampp\htdocs\boot_store\admin\view\template\inventory\stock_in_form.tpl on line 185
+2024-12-13 12:15:45 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\boot_store\admin\view\template\inventory\stock_in_form.tpl on line 185
+2024-12-13 12:15:45 - PHP Notice:  Undefined variable: total_qty in C:\xampp\htdocs\boot_store\admin\view\template\inventory\stock_in_form.tpl on line 222
+2024-12-13 12:15:45 - PHP Notice:  Undefined variable: total_amount in C:\xampp\htdocs\boot_store\admin\view\template\inventory\stock_in_form.tpl on line 228
+2024-12-13 12:15:45 - PHP Notice:  Undefined variable: is_post in C:\xampp\htdocs\boot_store\admin\view\template\inventory\stock_in_form.tpl on line 256
+2024-12-13 12:15:45 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\boot_store\admin\view\template\inventory\stock_in_form.tpl on line 310
+2024-12-13 12:15:51 - PHP Warning:  Declaration of ControllerInventoryProduct::validateDelete($id) should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\boot_store\admin\controller\inventory\product.php on line 1215
+2024-12-13 12:15:51 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 68
+2024-12-13 12:15:51 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 68
+2024-12-13 12:15:51 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 231
+2024-12-13 12:15:51 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 19
+2024-12-13 12:15:51 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 19
+2024-12-13 12:15:51 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 19
+2024-12-13 12:15:51 - PHP Notice:  Undefined variable: product_category_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 46
+2024-12-13 12:15:51 - PHP Notice:  Undefined variable: product_category_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 46
+2024-12-13 12:15:51 - PHP Notice:  Undefined variable: product_category_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 46
+2024-12-13 12:15:51 - PHP Notice:  Undefined variable: product_category_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 46
+2024-12-13 12:15:51 - PHP Notice:  Undefined variable: product_category_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 46
+2024-12-13 12:15:51 - PHP Notice:  Undefined variable: product_category_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 46
+2024-12-13 12:15:51 - PHP Notice:  Undefined variable: product_sub_category_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 57
+2024-12-13 12:15:51 - PHP Notice:  Undefined variable: brand_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 67
+2024-12-13 12:15:51 - PHP Notice:  Undefined variable: brand_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 67
+2024-12-13 12:15:51 - PHP Notice:  Undefined variable: brand_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 67
+2024-12-13 12:15:51 - PHP Notice:  Undefined variable: brand_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 67
+2024-12-13 12:15:51 - PHP Notice:  Undefined variable: brand_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 67
+2024-12-13 12:15:51 - PHP Notice:  Undefined variable: brand_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 67
+2024-12-13 12:15:51 - PHP Notice:  Undefined variable: brand_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 67
+2024-12-13 12:15:51 - PHP Notice:  Undefined variable: brand_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 67
+2024-12-13 12:15:51 - PHP Notice:  Undefined variable: brand_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 67
+2024-12-13 12:15:51 - PHP Notice:  Undefined variable: brand_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 67
+2024-12-13 12:15:51 - PHP Notice:  Undefined variable: brand_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 67
+2024-12-13 12:15:51 - PHP Notice:  Undefined variable: brand_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 67
+2024-12-13 12:15:51 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 128
+2024-12-13 12:15:52 - PHP Warning:  Declaration of ControllerInventoryProduct::validateDelete($id) should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\boot_store\admin\controller\inventory\product.php on line 1215
+2024-12-13 12:15:53 - PHP Warning:  Declaration of ControllerInventoryProduct::validateDelete($id) should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\boot_store\admin\controller\inventory\product.php on line 1215
+2024-12-13 12:15:53 - PHP Notice:  Undefined index: product_id in C:\xampp\htdocs\boot_store\system\engine\hcontroller.php on line 223
+2024-12-13 12:15:53 - PHP Notice:  Undefined index: product_id in C:\xampp\htdocs\boot_store\system\engine\hcontroller.php on line 224
+2024-12-13 12:15:53 - PHP Notice:  Undefined index: product_id in C:\xampp\htdocs\boot_store\admin\controller\inventory\product.php on line 312
+2024-12-13 12:15:53 - PHP Notice:  Undefined index: auto_generate_product_code in C:\xampp\htdocs\boot_store\admin\controller\inventory\product.php on line 340
+2024-12-13 12:15:53 - PHP Notice:  Undefined variable: result in C:\xampp\htdocs\boot_store\admin\controller\inventory\product.php on line 360
+2024-12-13 12:15:53 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\boot_store\admin\controller\inventory\product.php on line 360
+2024-12-13 12:15:53 - PHP Notice:  Undefined index: product_image in C:\xampp\htdocs\boot_store\admin\controller\inventory\product.php on line 365
+2024-12-13 12:15:53 - PHP Notice:  Undefined index: product_id in C:\xampp\htdocs\boot_store\admin\controller\inventory\product.php on line 389
+2024-12-13 12:15:53 - PHP Notice:  Undefined index: duplicate in C:\xampp\htdocs\boot_store\admin\controller\inventory\product.php on line 391
+2024-12-13 12:15:53 - PHP Notice:  Undefined index: product_id in C:\xampp\htdocs\boot_store\admin\controller\inventory\product.php on line 392
+2024-12-13 12:15:53 - PHP Notice:  Undefined index: product_id in C:\xampp\htdocs\boot_store\admin\controller\inventory\product.php on line 393
+2024-12-13 12:15:53 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 68
+2024-12-13 12:15:53 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 68
+2024-12-13 12:15:53 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 231
+2024-12-13 12:15:53 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 18
+2024-12-13 12:15:53 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 18
+2024-12-13 12:15:53 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 18
+2024-12-13 12:15:53 - PHP Notice:  Undefined variable: action in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 65
+2024-12-13 12:15:53 - PHP Notice:  Undefined variable: product_category_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 73
+2024-12-13 12:15:53 - PHP Notice:  Undefined variable: product_category_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 73
+2024-12-13 12:15:53 - PHP Notice:  Undefined variable: product_category_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 73
+2024-12-13 12:15:53 - PHP Notice:  Undefined variable: product_category_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 73
+2024-12-13 12:15:53 - PHP Notice:  Undefined variable: product_category_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 73
+2024-12-13 12:15:53 - PHP Notice:  Undefined variable: product_category_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 73
+2024-12-13 12:15:53 - PHP Notice:  Undefined variable: auto_generate_product_code in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 89
+2024-12-13 12:15:53 - PHP Notice:  Undefined variable: product_sub_categories in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 98
+2024-12-13 12:15:53 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 98
+2024-12-13 12:15:53 - PHP Notice:  Undefined variable: brand_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 118
+2024-12-13 12:15:53 - PHP Notice:  Undefined variable: brand_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 118
+2024-12-13 12:15:53 - PHP Notice:  Undefined variable: brand_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 118
+2024-12-13 12:15:53 - PHP Notice:  Undefined variable: brand_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 118
+2024-12-13 12:15:53 - PHP Notice:  Undefined variable: brand_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 118
+2024-12-13 12:15:53 - PHP Notice:  Undefined variable: brand_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 118
+2024-12-13 12:15:53 - PHP Notice:  Undefined variable: brand_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 118
+2024-12-13 12:15:53 - PHP Notice:  Undefined variable: brand_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 118
+2024-12-13 12:15:53 - PHP Notice:  Undefined variable: brand_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 118
+2024-12-13 12:15:53 - PHP Notice:  Undefined variable: brand_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 118
+2024-12-13 12:15:53 - PHP Notice:  Undefined variable: brand_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 118
+2024-12-13 12:15:53 - PHP Notice:  Undefined variable: brand_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 118
+2024-12-13 12:15:53 - PHP Notice:  Undefined variable: model_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 154
+2024-12-13 12:15:53 - PHP Notice:  Undefined variable: model_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 154
+2024-12-13 12:15:53 - PHP Notice:  Undefined variable: model_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 154
+2024-12-13 12:15:53 - PHP Notice:  Undefined variable: model_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 154
+2024-12-13 12:15:53 - PHP Notice:  Undefined variable: unit_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 187
+2024-12-13 12:15:53 - PHP Notice:  Undefined variable: unit_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 187
+2024-12-13 12:15:53 - PHP Notice:  Undefined variable: unit_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 187
+2024-12-13 12:15:53 - PHP Notice:  Undefined index: unit_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 190
+2024-12-13 12:15:53 - PHP Notice:  Undefined variable: cogs_account_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 229
+2024-12-13 12:15:53 - PHP Notice:  Undefined variable: inventory_account_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 239
+2024-12-13 12:15:53 - PHP Notice:  Undefined variable: revenue_account_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 249
+2024-12-13 12:15:53 - PHP Notice:  Undefined variable: adjustment_account_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 259
+2024-12-13 12:15:53 - PHP Notice:  Undefined variable: product_image in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 270
+2024-12-13 12:15:53 - PHP Notice:  Undefined variable: product_sub_category_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 356
+2024-12-13 12:15:53 - PHP Notice:  Undefined variable: url_add_make in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 361
+2024-12-13 12:15:53 - PHP Notice:  Undefined variable: url_add_make in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 368
+2024-12-13 12:15:53 - PHP Notice:  Undefined index: product_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 433
+2024-12-13 12:15:53 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 442
+2024-12-13 12:16:01 - PHP Warning:  Declaration of ControllerInventoryProduct::validateDelete($id) should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\boot_store\admin\controller\inventory\product.php on line 1215
+2024-12-13 12:16:01 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 68
+2024-12-13 12:16:01 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 68
+2024-12-13 12:16:01 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 231
+2024-12-13 12:16:01 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 19
+2024-12-13 12:16:01 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 19
+2024-12-13 12:16:01 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 19
+2024-12-13 12:16:01 - PHP Notice:  Undefined variable: product_category_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 46
+2024-12-13 12:16:01 - PHP Notice:  Undefined variable: product_category_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 46
+2024-12-13 12:16:01 - PHP Notice:  Undefined variable: product_category_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 46
+2024-12-13 12:16:01 - PHP Notice:  Undefined variable: product_category_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 46
+2024-12-13 12:16:01 - PHP Notice:  Undefined variable: product_category_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 46
+2024-12-13 12:16:01 - PHP Notice:  Undefined variable: product_category_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 46
+2024-12-13 12:16:01 - PHP Notice:  Undefined variable: product_sub_category_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 57
+2024-12-13 12:16:01 - PHP Notice:  Undefined variable: brand_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 67
+2024-12-13 12:16:01 - PHP Notice:  Undefined variable: brand_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 67
+2024-12-13 12:16:01 - PHP Notice:  Undefined variable: brand_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 67
+2024-12-13 12:16:01 - PHP Notice:  Undefined variable: brand_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 67
+2024-12-13 12:16:01 - PHP Notice:  Undefined variable: brand_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 67
+2024-12-13 12:16:01 - PHP Notice:  Undefined variable: brand_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 67
+2024-12-13 12:16:01 - PHP Notice:  Undefined variable: brand_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 67
+2024-12-13 12:16:01 - PHP Notice:  Undefined variable: brand_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 67
+2024-12-13 12:16:01 - PHP Notice:  Undefined variable: brand_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 67
+2024-12-13 12:16:01 - PHP Notice:  Undefined variable: brand_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 67
+2024-12-13 12:16:01 - PHP Notice:  Undefined variable: brand_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 67
+2024-12-13 12:16:01 - PHP Notice:  Undefined variable: brand_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 67
+2024-12-13 12:16:01 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 128
+2024-12-13 12:16:02 - PHP Warning:  Declaration of ControllerInventoryProduct::validateDelete($id) should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\boot_store\admin\controller\inventory\product.php on line 1215
+2024-12-13 12:16:03 - PHP Warning:  Declaration of ControllerInventoryProduct::validateDelete($id) should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\boot_store\admin\controller\inventory\product.php on line 1215
+2024-12-13 12:16:03 - PHP Notice:  Undefined index: auto_generate_product_code in C:\xampp\htdocs\boot_store\admin\controller\inventory\product.php on line 340
+2024-12-13 12:16:03 - PHP Notice:  Undefined index: duplicate in C:\xampp\htdocs\boot_store\admin\controller\inventory\product.php on line 391
+2024-12-13 12:16:03 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 68
+2024-12-13 12:16:03 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 68
+2024-12-13 12:16:03 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 231
+2024-12-13 12:16:03 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 18
+2024-12-13 12:16:03 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 18
+2024-12-13 12:16:03 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 18
+2024-12-13 12:16:03 - PHP Notice:  Undefined variable: action in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 65
+2024-12-13 12:16:03 - PHP Notice:  Undefined variable: auto_generate_product_code in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 89
+2024-12-13 12:16:03 - PHP Notice:  Undefined variable: product_sub_categories in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 98
+2024-12-13 12:16:03 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 98
+2024-12-13 12:16:03 - PHP Notice:  Undefined index: unit_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 190
+2024-12-13 12:16:03 - PHP Notice:  Undefined variable: url_add_make in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 361
+2024-12-13 12:16:03 - PHP Notice:  Undefined variable: url_add_make in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 368
+2024-12-13 12:16:03 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 442
+2024-12-13 12:16:14 - PHP Warning:  Declaration of ControllerInventoryProduct::validateDelete($id) should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\boot_store\admin\controller\inventory\product.php on line 1215
+2024-12-13 12:16:14 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\boot_store\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2024-12-13 12:16:14 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 456
+2024-12-13 12:16:14 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 467
+2024-12-13 12:16:14 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 523
+2024-12-13 12:16:14 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 526
+2024-12-13 12:16:14 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 546
+2024-12-13 12:16:14 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 646
+2024-12-13 12:16:14 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 649
+2024-12-13 12:16:14 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 659
+2024-12-13 12:16:14 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 670
+2024-12-13 12:16:14 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 702
+2024-12-13 12:16:14 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 716
+2024-12-13 12:16:14 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 741
+2024-12-13 12:16:14 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 745
+2024-12-13 12:16:14 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 786
+2024-12-13 12:16:14 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 801
+2024-12-13 12:16:14 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 844
+2024-12-13 12:16:14 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 870
+2024-12-13 12:16:14 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 870
+2024-12-13 12:16:14 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 871
+2024-12-13 12:16:14 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 922
+2024-12-13 12:16:14 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 923
+2024-12-13 12:16:14 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 932
+2024-12-13 12:16:14 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 932
+2024-12-13 12:16:14 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 941
+2024-12-13 12:16:14 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1088
+2024-12-13 12:16:14 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1103
+2024-12-13 12:16:14 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1127
+2024-12-13 12:16:14 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1127
+2024-12-13 12:16:14 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1183
+2024-12-13 12:16:14 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1226
+2024-12-13 12:16:14 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1243
+2024-12-13 12:16:14 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1243
+2024-12-13 12:16:14 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1274
+2024-12-13 12:16:14 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1340
+2024-12-13 12:16:14 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1347
+2024-12-13 12:16:14 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1359
+2024-12-13 12:16:14 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1470
+2024-12-13 12:16:14 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1478
+2024-12-13 12:16:14 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1483
+2024-12-13 12:16:14 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1488
+2024-12-13 12:16:14 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1496
+2024-12-13 12:16:14 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1496
+2024-12-13 12:16:14 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1497
+2024-12-13 12:16:14 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1581
+2024-12-13 12:16:14 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1632
+2024-12-13 12:16:14 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1646
+2024-12-13 12:16:14 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1759
+2024-12-13 12:16:14 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1760
+2024-12-13 12:16:14 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1777
+2024-12-13 12:16:14 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1849
+2024-12-13 12:16:14 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1852
+2024-12-13 12:16:14 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1859
+2024-12-13 12:16:14 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1899
+2024-12-13 12:16:14 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1921
+2024-12-13 12:16:14 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1940
+2024-12-13 12:16:14 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1943
+2024-12-13 12:16:14 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1950
+2024-12-13 12:16:14 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 2019
+2024-12-13 12:16:14 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 2258
+2024-12-13 14:47:09 - PHP Warning:  Declaration of ControllerInventoryProduct::validateDelete($id) should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\boot_store\admin\controller\inventory\product.php on line 1215
+2024-12-13 14:47:09 - PHP Notice:  Undefined index: auto_generate_product_code in C:\xampp\htdocs\boot_store\admin\controller\inventory\product.php on line 340
+2024-12-13 14:47:09 - PHP Notice:  Undefined index: duplicate in C:\xampp\htdocs\boot_store\admin\controller\inventory\product.php on line 391
+2024-12-13 14:47:09 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 68
+2024-12-13 14:47:09 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 68
+2024-12-13 14:47:09 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 231
+2024-12-13 14:47:09 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 18
+2024-12-13 14:47:09 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 18
+2024-12-13 14:47:09 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 18
+2024-12-13 14:47:09 - PHP Notice:  Undefined variable: action in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 65
+2024-12-13 14:47:09 - PHP Notice:  Undefined variable: auto_generate_product_code in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 89
+2024-12-13 14:47:09 - PHP Notice:  Undefined variable: product_sub_categories in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 98
+2024-12-13 14:47:09 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 98
+2024-12-13 14:47:09 - PHP Notice:  Undefined index: unit_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 190
+2024-12-13 14:47:09 - PHP Notice:  Undefined variable: url_add_make in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 361
+2024-12-13 14:47:09 - PHP Notice:  Undefined variable: url_add_make in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 368
+2024-12-13 14:47:09 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 442
+2024-12-13 14:47:11 - PHP Warning:  Declaration of ControllerInventoryProduct::validateDelete($id) should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\boot_store\admin\controller\inventory\product.php on line 1215
+2024-12-13 14:47:11 - PHP Notice:  Undefined index: print_type in C:\xampp\htdocs\boot_store\admin\controller\inventory\product.php on line 579
+2024-12-13 14:47:11 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\boot_store\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2024-12-13 14:47:11 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 456
+2024-12-13 14:47:11 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 467
+2024-12-13 14:47:11 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 523
+2024-12-13 14:47:11 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 526
+2024-12-13 14:47:11 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 546
+2024-12-13 14:47:11 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 646
+2024-12-13 14:47:11 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 649
+2024-12-13 14:47:11 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 659
+2024-12-13 14:47:11 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 670
+2024-12-13 14:47:11 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 702
+2024-12-13 14:47:11 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 716
+2024-12-13 14:47:11 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 741
+2024-12-13 14:47:11 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 745
+2024-12-13 14:47:11 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 786
+2024-12-13 14:47:11 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 801
+2024-12-13 14:47:11 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 844
+2024-12-13 14:47:11 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 870
+2024-12-13 14:47:11 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 870
+2024-12-13 14:47:11 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 871
+2024-12-13 14:47:11 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 922
+2024-12-13 14:47:11 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 923
+2024-12-13 14:47:11 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 932
+2024-12-13 14:47:11 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 932
+2024-12-13 14:47:11 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 941
+2024-12-13 14:47:11 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1088
+2024-12-13 14:47:11 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1103
+2024-12-13 14:47:11 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1127
+2024-12-13 14:47:11 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1127
+2024-12-13 14:47:11 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1183
+2024-12-13 14:47:11 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1226
+2024-12-13 14:47:11 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1243
+2024-12-13 14:47:11 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1243
+2024-12-13 14:47:11 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1274
+2024-12-13 14:47:11 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1340
+2024-12-13 14:47:11 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1347
+2024-12-13 14:47:11 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1359
+2024-12-13 14:47:11 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1470
+2024-12-13 14:47:11 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1478
+2024-12-13 14:47:11 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1483
+2024-12-13 14:47:11 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1488
+2024-12-13 14:47:11 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1496
+2024-12-13 14:47:11 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1496
+2024-12-13 14:47:11 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1497
+2024-12-13 14:47:11 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1581
+2024-12-13 14:47:11 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1632
+2024-12-13 14:47:11 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1646
+2024-12-13 14:47:11 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1759
+2024-12-13 14:47:11 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1760
+2024-12-13 14:47:11 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1777
+2024-12-13 14:47:11 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1849
+2024-12-13 14:47:11 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1852
+2024-12-13 14:47:11 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1859
+2024-12-13 14:47:11 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1899
+2024-12-13 14:47:11 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1921
+2024-12-13 14:47:11 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1940
+2024-12-13 14:47:11 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1943
+2024-12-13 14:47:11 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1950
+2024-12-13 14:47:11 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 2019
+2024-12-13 14:47:11 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 2258
+2024-12-13 14:47:17 - PHP Warning:  Declaration of ControllerInventoryProduct::validateDelete($id) should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\boot_store\admin\controller\inventory\product.php on line 1215
+2024-12-13 14:47:17 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 68
+2024-12-13 14:47:17 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 68
+2024-12-13 14:47:17 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 231
+2024-12-13 14:47:17 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 19
+2024-12-13 14:47:17 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 19
+2024-12-13 14:47:17 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 19
+2024-12-13 14:47:17 - PHP Notice:  Undefined variable: product_category_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 46
+2024-12-13 14:47:17 - PHP Notice:  Undefined variable: product_category_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 46
+2024-12-13 14:47:17 - PHP Notice:  Undefined variable: product_category_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 46
+2024-12-13 14:47:17 - PHP Notice:  Undefined variable: product_category_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 46
+2024-12-13 14:47:17 - PHP Notice:  Undefined variable: product_category_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 46
+2024-12-13 14:47:17 - PHP Notice:  Undefined variable: product_category_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 46
+2024-12-13 14:47:17 - PHP Notice:  Undefined variable: product_sub_category_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 57
+2024-12-13 14:47:17 - PHP Notice:  Undefined variable: brand_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 67
+2024-12-13 14:47:17 - PHP Notice:  Undefined variable: brand_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 67
+2024-12-13 14:47:17 - PHP Notice:  Undefined variable: brand_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 67
+2024-12-13 14:47:17 - PHP Notice:  Undefined variable: brand_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 67
+2024-12-13 14:47:17 - PHP Notice:  Undefined variable: brand_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 67
+2024-12-13 14:47:18 - PHP Notice:  Undefined variable: brand_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 67
+2024-12-13 14:47:18 - PHP Notice:  Undefined variable: brand_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 67
+2024-12-13 14:47:18 - PHP Notice:  Undefined variable: brand_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 67
+2024-12-13 14:47:18 - PHP Notice:  Undefined variable: brand_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 67
+2024-12-13 14:47:18 - PHP Notice:  Undefined variable: brand_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 67
+2024-12-13 14:47:18 - PHP Notice:  Undefined variable: brand_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 67
+2024-12-13 14:47:18 - PHP Notice:  Undefined variable: brand_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 67
+2024-12-13 14:47:18 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_list.tpl on line 128
+2024-12-13 14:47:18 - PHP Warning:  Declaration of ControllerInventoryProduct::validateDelete($id) should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\boot_store\admin\controller\inventory\product.php on line 1215
+2024-12-13 14:47:23 - PHP Warning:  Declaration of ControllerInventoryProduct::validateDelete($id) should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\boot_store\admin\controller\inventory\product.php on line 1215
+2024-12-13 14:47:23 - PHP Notice:  Undefined index: auto_generate_product_code in C:\xampp\htdocs\boot_store\admin\controller\inventory\product.php on line 340
+2024-12-13 14:47:23 - PHP Notice:  Undefined index: duplicate in C:\xampp\htdocs\boot_store\admin\controller\inventory\product.php on line 391
+2024-12-13 14:47:23 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 68
+2024-12-13 14:47:23 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 68
+2024-12-13 14:47:23 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 231
+2024-12-13 14:47:23 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 18
+2024-12-13 14:47:23 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 18
+2024-12-13 14:47:23 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 18
+2024-12-13 14:47:23 - PHP Notice:  Undefined variable: action in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 65
+2024-12-13 14:47:23 - PHP Notice:  Undefined variable: auto_generate_product_code in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 89
+2024-12-13 14:47:23 - PHP Notice:  Undefined variable: product_sub_categories in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 98
+2024-12-13 14:47:23 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 98
+2024-12-13 14:47:23 - PHP Notice:  Undefined index: unit_id in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 190
+2024-12-13 14:47:23 - PHP Notice:  Undefined variable: url_add_make in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 361
+2024-12-13 14:47:23 - PHP Notice:  Undefined variable: url_add_make in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 368
+2024-12-13 14:47:23 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\boot_store\admin\view\template\inventory\product_form.tpl on line 442
+2024-12-13 16:03:41 - PHP Notice:  Undefined offset: 1 in C:\xampp\htdocs\boot_store\admin\controller\common\column_left.php on line 162
+2024-12-13 16:03:41 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 68
+2024-12-13 16:03:41 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 68
+2024-12-13 16:03:41 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 231
+2024-12-13 16:03:46 - PHP Notice:  Undefined index: db_name in C:\xampp\htdocs\boot_store\system\engine\hmodel.php on line 12
+2024-12-13 16:03:46 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\boot_store\admin\view\template\common\preset.tpl on line 52
+2024-12-13 16:03:48 - PHP Notice:  Undefined index: db_name in C:\xampp\htdocs\boot_store\system\engine\hmodel.php on line 12
+2024-12-13 16:03:48 - PHP Notice:  Undefined index: case_id in C:\xampp\htdocs\boot_store\admin\controller\common\home.php on line 55
+2024-12-13 16:03:48 - PHP Notice:  Undefined index: case_id in C:\xampp\htdocs\boot_store\admin\controller\common\home.php on line 56
+2024-12-13 16:03:48 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 68
+2024-12-13 16:03:48 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 68
+2024-12-13 16:03:48 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 231
+2024-12-13 16:03:48 - PHP Notice:  Undefined index: inventory_sale_invoice in C:\xampp\htdocs\boot_store\admin\view\template\common\home.tpl on line 36
+2024-12-13 16:05:12 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 68
+2024-12-13 16:05:12 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 68
+2024-12-13 16:05:12 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 231
+2024-12-13 16:05:12 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_list.tpl on line 19
+2024-12-13 16:05:12 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_list.tpl on line 19
+2024-12-13 16:05:12 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_list.tpl on line 19
+2024-12-13 16:05:12 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_list.tpl on line 78
+2024-12-13 16:05:17 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 68
+2024-12-13 16:05:17 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 68
+2024-12-13 16:05:17 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 231
+2024-12-13 16:05:17 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_form.tpl on line 18
+2024-12-13 16:05:17 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_form.tpl on line 18
+2024-12-13 16:05:17 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_form.tpl on line 18
+2024-12-13 16:05:17 - PHP Notice:  Undefined variable: action in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_form.tpl on line 85
+2024-12-13 16:05:17 - PHP Notice:  Undefined variable: invoice_type in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_form.tpl on line 96
+2024-12-13 16:05:17 - PHP Notice:  Undefined variable: invoice_type in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_form.tpl on line 104
+2024-12-13 16:05:17 - PHP Notice:  Undefined variable: suppliers in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_form.tpl on line 173
+2024-12-13 16:05:17 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_form.tpl on line 173
+2024-12-13 16:05:17 - PHP Notice:  Undefined index: sale_rate in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_form.tpl on line 288
+2024-12-13 16:05:17 - PHP Notice:  Undefined variable: total_quantity in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_form.tpl on line 335
+2024-12-13 16:05:17 - PHP Notice:  Undefined variable: freight_master in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_form.tpl on line 360
+2024-12-13 16:05:17 - PHP Notice:  Undefined variable: products in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_form.tpl on line 449
+2024-12-13 16:05:17 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\boot_store\admin\view\template\inventory\purchase_invoice_form.tpl on line 559
+2024-12-13 16:05:23 - PHP Notice:  Undefined index: partner_category_id in C:\xampp\htdocs\boot_store\admin\controller\inventory\purchase_invoice.php on line 2397
+2024-12-13 16:05:23 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\boot_store\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2024-12-13 16:05:23 - PHP Notice:  Undefined index: product_code in C:\xampp\htdocs\boot_store\admin\controller\inventory\purchase_invoice.php on line 2463
+2024-12-13 16:05:23 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 456
+2024-12-13 16:05:23 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 467
+2024-12-13 16:05:23 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 523
+2024-12-13 16:05:23 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 526
+2024-12-13 16:05:23 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 546
+2024-12-13 16:05:23 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 646
+2024-12-13 16:05:23 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 649
+2024-12-13 16:05:23 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 659
+2024-12-13 16:05:23 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 670
+2024-12-13 16:05:23 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 702
+2024-12-13 16:05:23 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 716
+2024-12-13 16:05:23 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 741
+2024-12-13 16:05:23 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 745
+2024-12-13 16:05:23 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 786
+2024-12-13 16:05:23 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 801
+2024-12-13 16:05:23 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 844
+2024-12-13 16:05:23 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 870
+2024-12-13 16:05:23 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 870
+2024-12-13 16:05:23 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 871
+2024-12-13 16:05:23 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 922
+2024-12-13 16:05:23 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 923
+2024-12-13 16:05:23 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 932
+2024-12-13 16:05:23 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 932
+2024-12-13 16:05:23 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 941
+2024-12-13 16:05:23 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1088
+2024-12-13 16:05:23 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1103
+2024-12-13 16:05:23 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1127
+2024-12-13 16:05:23 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1127
+2024-12-13 16:05:23 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1183
+2024-12-13 16:05:23 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1226
+2024-12-13 16:05:23 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1243
+2024-12-13 16:05:23 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1243
+2024-12-13 16:05:23 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1274
+2024-12-13 16:05:23 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1340
+2024-12-13 16:05:23 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1347
+2024-12-13 16:05:23 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1359
+2024-12-13 16:05:23 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1470
+2024-12-13 16:05:23 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1478
+2024-12-13 16:05:23 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1483
+2024-12-13 16:05:23 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1488
+2024-12-13 16:05:23 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1496
+2024-12-13 16:05:23 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1496
+2024-12-13 16:05:23 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1497
+2024-12-13 16:05:23 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1581
+2024-12-13 16:05:23 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1632
+2024-12-13 16:05:23 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1646
+2024-12-13 16:05:23 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1759
+2024-12-13 16:05:23 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1760
+2024-12-13 16:05:23 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1777
+2024-12-13 16:05:23 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1849
+2024-12-13 16:05:23 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1852
+2024-12-13 16:05:23 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1859
+2024-12-13 16:05:23 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1899
+2024-12-13 16:05:23 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1921
+2024-12-13 16:05:23 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1940
+2024-12-13 16:05:23 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1943
+2024-12-13 16:05:23 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 1950
+2024-12-13 16:05:23 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 2019
+2024-12-13 16:05:23 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\boot_store\system\library\tcpdf\tcpdf_barcodes_1d.php on line 2258
+2024-12-13 16:05:23 - PHP Notice:  Undefined index: product_code in C:\xampp\htdocs\boot_store\admin\controller\inventory\purchase_invoice.php on line 2463
+2024-12-13 16:05:23 - PHP Notice:  Undefined index: product_code in C:\xampp\htdocs\boot_store\admin\controller\inventory\purchase_invoice.php on line 2463
+2024-12-13 16:05:23 - PHP Notice:  Undefined index: product_code in C:\xampp\htdocs\boot_store\admin\controller\inventory\purchase_invoice.php on line 2463
+2024-12-13 16:05:23 - PHP Notice:  Undefined index: product_code in C:\xampp\htdocs\boot_store\admin\controller\inventory\purchase_invoice.php on line 2463
+2024-12-13 16:05:23 - PHP Notice:  Undefined index: product_code in C:\xampp\htdocs\boot_store\admin\controller\inventory\purchase_invoice.php on line 2463
+2024-12-13 16:05:23 - PHP Notice:  Undefined index: product_code in C:\xampp\htdocs\boot_store\admin\controller\inventory\purchase_invoice.php on line 2463
+2024-12-13 16:05:23 - PHP Notice:  Undefined index: product_code in C:\xampp\htdocs\boot_store\admin\controller\inventory\purchase_invoice.php on line 2463
+2024-12-13 16:05:23 - PHP Notice:  Undefined index: product_code in C:\xampp\htdocs\boot_store\admin\controller\inventory\purchase_invoice.php on line 2463
+2024-12-13 16:05:23 - PHP Notice:  Undefined index: product_code in C:\xampp\htdocs\boot_store\admin\controller\inventory\purchase_invoice.php on line 2463
+2024-12-13 16:05:23 - PHP Notice:  Undefined index: product_code in C:\xampp\htdocs\boot_store\admin\controller\inventory\purchase_invoice.php on line 2463
+2024-12-13 16:05:23 - PHP Notice:  Undefined index: product_code in C:\xampp\htdocs\boot_store\admin\controller\inventory\purchase_invoice.php on line 2463
+2024-12-13 16:06:07 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 68
+2024-12-13 16:06:07 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 68
+2024-12-13 16:06:07 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 231
+2024-12-13 16:06:07 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\report\purchase_invoice_report.tpl on line 18
+2024-12-13 16:06:07 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\report\purchase_invoice_report.tpl on line 18
+2024-12-13 16:06:07 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\report\purchase_invoice_report.tpl on line 18
+2024-12-13 16:06:07 - PHP Warning:  Use of undefined constant from_date - assumed 'from_date' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\boot_store\admin\view\template\report\purchase_invoice_report.tpl on line 61
+2024-12-13 16:06:07 - PHP Warning:  Use of undefined constant to_date - assumed 'to_date' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\boot_store\admin\view\template\report\purchase_invoice_report.tpl on line 67
+2024-12-13 16:06:07 - PHP Notice:  Undefined variable: partner_type_id in C:\xampp\htdocs\boot_store\admin\view\template\report\purchase_invoice_report.tpl on line 79
+2024-12-13 16:06:07 - PHP Notice:  Undefined variable: partner_type_id in C:\xampp\htdocs\boot_store\admin\view\template\report\purchase_invoice_report.tpl on line 79
+2024-12-13 16:06:07 - PHP Notice:  Undefined variable: container_no in C:\xampp\htdocs\boot_store\admin\view\template\report\purchase_invoice_report.tpl on line 128
+2024-12-13 16:06:07 - PHP Warning:  Use of undefined constant group_by - assumed 'group_by' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\boot_store\admin\view\template\report\purchase_invoice_report.tpl on line 133
+2024-12-13 16:06:07 - PHP Warning:  Use of undefined constant text_document - assumed 'text_document' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\boot_store\admin\view\template\report\purchase_invoice_report.tpl on line 135
+2024-12-13 16:06:07 - PHP Warning:  Use of undefined constant text_partner - assumed 'text_partner' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\boot_store\admin\view\template\report\purchase_invoice_report.tpl on line 136
+2024-12-13 16:06:07 - PHP Warning:  Use of undefined constant text_warehouse - assumed 'text_warehouse' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\boot_store\admin\view\template\report\purchase_invoice_report.tpl on line 137
+2024-12-13 16:06:07 - PHP Warning:  Use of undefined constant text_product - assumed 'text_product' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\boot_store\admin\view\template\report\purchase_invoice_report.tpl on line 138
+2024-12-13 16:06:07 - PHP Warning:  Use of undefined constant text_container - assumed 'text_container' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\boot_store\admin\view\template\report\purchase_invoice_report.tpl on line 139
+2024-12-13 16:06:07 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\boot_store\admin\view\template\report\purchase_invoice_report.tpl on line 278
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 68
+2024-12-13 16:06:55 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 68
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\boot_store\admin\view\template\common\column_left.tpl on line 231
+2024-12-13 16:06:55 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 18
+2024-12-13 16:06:55 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 18
+2024-12-13 16:06:55 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 18
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_levels1 in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 66
+2024-12-13 16:06:55 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 66
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: coa_level3_id in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 90
+2024-12-13 16:06:55 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\boot_store\admin\view\template\report\ledger_report.tpl on line 156

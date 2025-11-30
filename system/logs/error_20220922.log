@@ -1,0 +1,433 @@
+2022-09-22 10:32:05 - PHP Notice:  Undefined index: db_name in C:\xampp\htdocs\php_milwa_trading\system\engine\hmodel.php on line 12
+2022-09-22 10:32:05 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\preset.tpl on line 52
+2022-09-22 10:32:07 - PHP Notice:  Undefined index: db_name in C:\xampp\htdocs\php_milwa_trading\system\engine\hmodel.php on line 12
+2022-09-22 10:32:07 - PHP Notice:  Undefined index: case_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\home.php on line 55
+2022-09-22 10:32:07 - PHP Notice:  Undefined index: case_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\home.php on line 56
+2022-09-22 10:32:08 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-09-22 10:32:08 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-09-22 10:32:08 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 229
+2022-09-22 10:32:08 - PHP Notice:  Undefined variable: bank_receipts in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\home.tpl on line 258
+2022-09-22 10:32:08 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\home.tpl on line 258
+2022-09-22 10:32:12 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-09-22 10:32:12 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-09-22 10:32:12 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 229
+2022-09-22 10:32:12 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_list.tpl on line 19
+2022-09-22 10:32:12 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_list.tpl on line 19
+2022-09-22 10:32:12 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_list.tpl on line 19
+2022-09-22 10:32:12 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_list.tpl on line 79
+2022-09-22 10:32:14 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-09-22 10:32:14 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-09-22 10:32:14 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 229
+2022-09-22 10:32:15 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 18
+2022-09-22 10:32:15 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 18
+2022-09-22 10:32:15 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 18
+2022-09-22 10:32:15 - PHP Notice:  Undefined variable: action in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 82
+2022-09-22 10:32:15 - PHP Notice:  Undefined variable: partner_categorys in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 133
+2022-09-22 10:32:15 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 133
+2022-09-22 10:32:15 - PHP Notice:  Undefined variable: job_carts in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 188
+2022-09-22 10:32:15 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 188
+2022-09-22 10:32:15 - PHP Notice:  Undefined variable: wht_per in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 199
+2022-09-22 10:32:15 - PHP Notice:  Undefined variable: bank_name in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 207
+2022-09-22 10:32:15 - PHP Notice:  Undefined variable: cheque_date in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 213
+2022-09-22 10:32:15 - PHP Notice:  Undefined variable: cheque_no in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 219
+2022-09-22 10:32:15 - PHP Notice:  Undefined index: href in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 295
+2022-09-22 10:32:15 - PHP Notice:  Undefined variable: coa_l3 in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 306
+2022-09-22 10:32:15 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 306
+2022-09-22 10:32:15 - PHP Notice:  Undefined index: sale_tax_invoice_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 455
+2022-09-22 10:32:15 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 484
+2022-09-22 10:32:18 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-09-22 10:32:18 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-09-22 10:32:18 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 229
+2022-09-22 10:32:18 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_list.tpl on line 19
+2022-09-22 10:32:18 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_list.tpl on line 19
+2022-09-22 10:32:18 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_list.tpl on line 19
+2022-09-22 10:32:18 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_list.tpl on line 79
+2022-09-22 10:32:19 - PHP Notice:  Undefined index: receipt_id in C:\xampp\htdocs\php_milwa_trading\system\engine\hcontroller.php on line 223
+2022-09-22 10:32:19 - PHP Notice:  Undefined index: receipt_id in C:\xampp\htdocs\php_milwa_trading\system\engine\hcontroller.php on line 224
+2022-09-22 10:32:19 - PHP Notice:  Undefined index: receipt_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\gl\receipts.php on line 330
+2022-09-22 10:32:19 - PHP Notice:  Undefined index: receipt_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\gl\receipts.php on line 339
+2022-09-22 10:32:19 - PHP Notice:  Undefined index: receipt_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\gl\receipts.php on line 340
+2022-09-22 10:32:19 - PHP Notice:  Undefined index: receipt_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\gl\receipts.php on line 341
+2022-09-22 10:32:19 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-09-22 10:32:19 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-09-22 10:32:19 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 229
+2022-09-22 10:32:19 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 18
+2022-09-22 10:32:20 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 18
+2022-09-22 10:32:20 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 18
+2022-09-22 10:32:20 - PHP Notice:  Undefined variable: is_post in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 53
+2022-09-22 10:32:20 - PHP Notice:  Undefined variable: document_type_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 80
+2022-09-22 10:32:20 - PHP Notice:  Undefined variable: document_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 81
+2022-09-22 10:32:20 - PHP Notice:  Undefined variable: action in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 82
+2022-09-22 10:32:20 - PHP Notice:  Undefined variable: manual_ref_no in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 99
+2022-09-22 10:32:20 - PHP Notice:  Undefined variable: transaction_account_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 108
+2022-09-22 10:32:20 - PHP Notice:  Undefined variable: transaction_account_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 108
+2022-09-22 10:32:20 - PHP Notice:  Undefined variable: transaction_account_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 108
+2022-09-22 10:32:20 - PHP Notice:  Undefined variable: transaction_account_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 108
+2022-09-22 10:32:20 - PHP Notice:  Undefined variable: transaction_account_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 108
+2022-09-22 10:32:20 - PHP Notice:  Undefined variable: partner_type_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 122
+2022-09-22 10:32:20 - PHP Notice:  Undefined variable: partner_type_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 122
+2022-09-22 10:32:20 - PHP Notice:  Undefined variable: partner_categorys in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 133
+2022-09-22 10:32:20 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 133
+2022-09-22 10:32:20 - PHP Notice:  Undefined variable: job_carts in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 188
+2022-09-22 10:32:20 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 188
+2022-09-22 10:32:20 - PHP Notice:  Undefined variable: wht_per in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 199
+2022-09-22 10:32:20 - PHP Notice:  Undefined variable: bank_name in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 207
+2022-09-22 10:32:20 - PHP Notice:  Undefined variable: cheque_date in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 213
+2022-09-22 10:32:20 - PHP Notice:  Undefined variable: cheque_no in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 219
+2022-09-22 10:32:20 - PHP Notice:  Undefined variable: remarks in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 227
+2022-09-22 10:32:20 - PHP Notice:  Undefined variable: receipt_details in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 286
+2022-09-22 10:32:20 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 286
+2022-09-22 10:32:20 - PHP Notice:  Undefined variable: total_amount in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 370
+2022-09-22 10:32:20 - PHP Notice:  Undefined variable: wht_tax_per in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 376
+2022-09-22 10:32:20 - PHP Notice:  Undefined variable: total_wht_amount in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 382
+2022-09-22 10:32:20 - PHP Notice:  Undefined variable: ot_tax_per in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 388
+2022-09-22 10:32:20 - PHP Notice:  Undefined variable: total_other_tax_amount in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 394
+2022-09-22 10:32:20 - PHP Notice:  Undefined variable: total_net_amount in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 400
+2022-09-22 10:32:20 - PHP Notice:  Undefined variable: is_post in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 434
+2022-09-22 10:32:20 - PHP Notice:  Undefined variable: isEdit in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 454
+2022-09-22 10:32:20 - PHP Notice:  Undefined index: sale_tax_invoice_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 455
+2022-09-22 10:32:20 - PHP Notice:  Undefined variable: partner_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 457
+2022-09-22 10:32:20 - PHP Notice:  Undefined variable: sub_project_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 471
+2022-09-22 10:32:20 - PHP Notice:  Undefined index: receipt_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 474
+2022-09-22 10:32:20 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 484
+2022-09-22 10:32:35 - PHP Notice:  Undefined index: total_wht_amount in C:\xampp\htdocs\php_milwa_trading\admin\controller\gl\receipts.php on line 553
+2022-09-22 10:32:35 - PHP Notice:  Undefined index: total_other_tax_amount in C:\xampp\htdocs\php_milwa_trading\admin\controller\gl\receipts.php on line 554
+2022-09-22 10:32:35 - PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in C:\xampp\htdocs\php_milwa_trading\system\database\dbmysqli.php on line 93
+2022-09-22 10:32:35 - PHP Notice:  Undefined index: wht_amount in C:\xampp\htdocs\php_milwa_trading\admin\controller\gl\receipts.php on line 610
+2022-09-22 10:32:35 - PHP Notice:  Undefined index: other_tax_amount in C:\xampp\htdocs\php_milwa_trading\admin\controller\gl\receipts.php on line 611
+2022-09-22 10:32:35 - PHP Notice:  Undefined index: cheque_date in C:\xampp\htdocs\php_milwa_trading\admin\controller\gl\receipts.php on line 634
+2022-09-22 10:32:35 - PHP Notice:  Undefined index: wht_amount in C:\xampp\htdocs\php_milwa_trading\admin\controller\gl\receipts.php on line 641
+2022-09-22 10:32:35 - PHP Notice:  Undefined index: other_tax_amount in C:\xampp\htdocs\php_milwa_trading\admin\controller\gl\receipts.php on line 665
+2022-09-22 10:32:35 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-09-22 10:32:35 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-09-22 10:32:35 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 229
+2022-09-22 10:32:35 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_list.tpl on line 19
+2022-09-22 10:32:35 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_list.tpl on line 19
+2022-09-22 10:32:35 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_list.tpl on line 19
+2022-09-22 10:32:35 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_list.tpl on line 79
+2022-09-22 10:32:38 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-09-22 10:32:38 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-09-22 10:32:38 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 229
+2022-09-22 10:32:38 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 18
+2022-09-22 10:32:38 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 18
+2022-09-22 10:32:38 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 18
+2022-09-22 10:32:38 - PHP Notice:  Undefined variable: action in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 82
+2022-09-22 10:32:38 - PHP Notice:  Undefined variable: partner_categorys in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 133
+2022-09-22 10:32:38 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 133
+2022-09-22 10:32:38 - PHP Notice:  Undefined variable: job_carts in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 188
+2022-09-22 10:32:38 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 188
+2022-09-22 10:32:38 - PHP Notice:  Undefined variable: wht_per in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 199
+2022-09-22 10:32:38 - PHP Notice:  Undefined variable: bank_name in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 207
+2022-09-22 10:32:38 - PHP Notice:  Undefined variable: cheque_date in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 213
+2022-09-22 10:32:38 - PHP Notice:  Undefined variable: cheque_no in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 219
+2022-09-22 10:32:38 - PHP Notice:  Undefined index: href in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 295
+2022-09-22 10:32:38 - PHP Notice:  Undefined variable: coa_l3 in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 306
+2022-09-22 10:32:38 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 306
+2022-09-22 10:32:38 - PHP Notice:  Undefined index: sale_tax_invoice_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 455
+2022-09-22 10:32:38 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 484
+2022-09-22 10:32:42 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-09-22 10:32:42 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-09-22 10:32:42 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 229
+2022-09-22 10:32:42 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_list.tpl on line 19
+2022-09-22 10:32:42 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_list.tpl on line 19
+2022-09-22 10:32:42 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_list.tpl on line 19
+2022-09-22 10:32:42 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_list.tpl on line 79
+2022-09-22 10:32:55 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-09-22 10:32:55 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-09-22 10:32:55 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 229
+2022-09-22 10:32:55 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 18
+2022-09-22 10:32:56 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 18
+2022-09-22 10:32:56 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 18
+2022-09-22 10:32:56 - PHP Notice:  Undefined variable: action in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 82
+2022-09-22 10:32:56 - PHP Notice:  Undefined variable: partner_categorys in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 133
+2022-09-22 10:32:56 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 133
+2022-09-22 10:32:56 - PHP Notice:  Undefined variable: job_carts in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 188
+2022-09-22 10:32:56 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 188
+2022-09-22 10:32:56 - PHP Notice:  Undefined variable: wht_per in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 199
+2022-09-22 10:32:56 - PHP Notice:  Undefined variable: bank_name in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 207
+2022-09-22 10:32:56 - PHP Notice:  Undefined variable: cheque_date in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 213
+2022-09-22 10:32:56 - PHP Notice:  Undefined variable: cheque_no in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 219
+2022-09-22 10:32:56 - PHP Notice:  Undefined index: href in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 295
+2022-09-22 10:32:56 - PHP Notice:  Undefined variable: coa_l3 in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 306
+2022-09-22 10:32:56 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 306
+2022-09-22 10:32:56 - PHP Notice:  Undefined index: sale_tax_invoice_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 455
+2022-09-22 10:32:56 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 484
+2022-09-22 10:32:59 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-09-22 10:32:59 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-09-22 10:32:59 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 229
+2022-09-22 10:32:59 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_list.tpl on line 19
+2022-09-22 10:32:59 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_list.tpl on line 19
+2022-09-22 10:32:59 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_list.tpl on line 19
+2022-09-22 10:32:59 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_list.tpl on line 79
+2022-09-22 10:33:01 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-09-22 10:33:01 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-09-22 10:33:01 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 229
+2022-09-22 10:33:01 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 18
+2022-09-22 10:33:01 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 18
+2022-09-22 10:33:01 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 18
+2022-09-22 10:33:01 - PHP Notice:  Undefined variable: action in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 82
+2022-09-22 10:33:01 - PHP Notice:  Undefined variable: partner_categorys in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 133
+2022-09-22 10:33:01 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 133
+2022-09-22 10:33:01 - PHP Notice:  Undefined variable: job_carts in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 188
+2022-09-22 10:33:01 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 188
+2022-09-22 10:33:01 - PHP Notice:  Undefined variable: wht_per in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 199
+2022-09-22 10:33:01 - PHP Notice:  Undefined variable: bank_name in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 207
+2022-09-22 10:33:01 - PHP Notice:  Undefined variable: cheque_date in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 213
+2022-09-22 10:33:01 - PHP Notice:  Undefined variable: cheque_no in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 219
+2022-09-22 10:33:01 - PHP Notice:  Undefined index: href in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 295
+2022-09-22 10:33:01 - PHP Notice:  Undefined variable: coa_l3 in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 306
+2022-09-22 10:33:01 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 306
+2022-09-22 10:33:01 - PHP Notice:  Undefined index: sale_tax_invoice_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 455
+2022-09-22 10:33:01 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 484
+2022-09-22 10:33:04 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-09-22 10:33:04 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-09-22 10:33:04 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 229
+2022-09-22 10:33:04 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_list.tpl on line 19
+2022-09-22 10:33:04 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_list.tpl on line 19
+2022-09-22 10:33:04 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_list.tpl on line 19
+2022-09-22 10:33:04 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_list.tpl on line 79
+2022-09-22 10:33:06 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-09-22 10:33:06 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-09-22 10:33:06 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 229
+2022-09-22 10:33:06 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 18
+2022-09-22 10:33:06 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 18
+2022-09-22 10:33:06 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 18
+2022-09-22 10:33:06 - PHP Notice:  Undefined variable: action in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 82
+2022-09-22 10:33:06 - PHP Notice:  Undefined variable: partner_categorys in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 133
+2022-09-22 10:33:06 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 133
+2022-09-22 10:33:06 - PHP Notice:  Undefined variable: job_carts in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 188
+2022-09-22 10:33:06 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 188
+2022-09-22 10:33:06 - PHP Notice:  Undefined variable: wht_per in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 199
+2022-09-22 10:33:06 - PHP Notice:  Undefined variable: bank_name in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 207
+2022-09-22 10:33:06 - PHP Notice:  Undefined variable: cheque_date in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 213
+2022-09-22 10:33:06 - PHP Notice:  Undefined variable: cheque_no in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 219
+2022-09-22 10:33:06 - PHP Notice:  Undefined index: sale_tax_invoice_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 455
+2022-09-22 10:33:06 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 484
+2022-09-22 10:33:14 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-09-22 10:33:14 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-09-22 10:33:14 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 229
+2022-09-22 10:33:14 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_list.tpl on line 19
+2022-09-22 10:33:15 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_list.tpl on line 19
+2022-09-22 10:33:15 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_list.tpl on line 19
+2022-09-22 10:33:15 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_list.tpl on line 79
+2022-09-22 14:56:02 - PHP Notice:  Undefined index: from_time in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\login.php on line 102
+2022-09-22 14:56:02 - PHP Notice:  Undefined index: to_time in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\login.php on line 103
+2022-09-22 14:56:09 - PHP Notice:  Undefined index: from_time in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\login.php on line 102
+2022-09-22 14:56:09 - PHP Notice:  Undefined index: to_time in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\login.php on line 103
+2022-09-22 14:56:26 - PHP Notice:  Undefined index: db_name in C:\xampp\htdocs\php_milwa_trading\system\engine\hmodel.php on line 12
+2022-09-22 14:56:26 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\preset.tpl on line 52
+2022-09-22 14:56:30 - PHP Notice:  Undefined index: db_name in C:\xampp\htdocs\php_milwa_trading\system\engine\hmodel.php on line 12
+2022-09-22 14:56:47 - PHP Notice:  Undefined index: case_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\home.php on line 55
+2022-09-22 14:56:47 - PHP Notice:  Undefined index: case_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\home.php on line 56
+2022-09-22 14:56:48 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-09-22 14:56:48 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-09-22 14:56:48 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 229
+2022-09-22 14:56:49 - PHP Notice:  Undefined variable: sale_order_details in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\home.tpl on line 174
+2022-09-22 14:56:49 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\home.tpl on line 174
+2022-09-22 14:56:49 - PHP Notice:  Undefined variable: bank_receipts in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\home.tpl on line 258
+2022-09-22 14:56:49 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\home.tpl on line 258
+2022-09-22 14:56:52 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\preset.tpl on line 52
+2022-09-22 14:56:56 - PHP Notice:  Undefined index: case_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\home.php on line 55
+2022-09-22 14:56:56 - PHP Notice:  Undefined index: case_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\home.php on line 56
+2022-09-22 14:56:56 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-09-22 14:56:56 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-09-22 14:56:56 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 229
+2022-09-22 14:56:56 - PHP Notice:  Undefined variable: sale_order_details in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\home.tpl on line 174
+2022-09-22 14:56:56 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\home.tpl on line 174
+2022-09-22 14:56:56 - PHP Notice:  Undefined variable: bank_receipts in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\home.tpl on line 258
+2022-09-22 14:56:56 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\home.tpl on line 258
+2022-09-22 14:57:02 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-09-22 14:57:02 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-09-22 14:57:02 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 229
+2022-09-22 14:57:02 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\payments_list.tpl on line 19
+2022-09-22 14:57:02 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\payments_list.tpl on line 19
+2022-09-22 14:57:02 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\payments_list.tpl on line 19
+2022-09-22 14:57:02 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\payments_list.tpl on line 79
+2022-09-22 14:57:07 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-09-22 14:57:07 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-09-22 14:57:07 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 229
+2022-09-22 14:57:07 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_list.tpl on line 19
+2022-09-22 14:57:07 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_list.tpl on line 19
+2022-09-22 14:57:07 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_list.tpl on line 19
+2022-09-22 14:57:07 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_list.tpl on line 79
+2022-09-22 14:57:10 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-09-22 14:57:10 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-09-22 14:57:10 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 229
+2022-09-22 14:57:10 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\payments_form.tpl on line 18
+2022-09-22 14:57:10 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\payments_form.tpl on line 18
+2022-09-22 14:57:10 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\payments_form.tpl on line 18
+2022-09-22 14:57:10 - PHP Notice:  Undefined variable: action in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\payments_form.tpl on line 76
+2022-09-22 14:57:10 - PHP Notice:  Undefined variable: job_carts in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\payments_form.tpl on line 170
+2022-09-22 14:57:10 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\payments_form.tpl on line 170
+2022-09-22 14:57:10 - PHP Notice:  Undefined index: href in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\payments_form.tpl on line 248
+2022-09-22 14:57:10 - PHP Notice:  Undefined index: document_tax in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\payments_form.tpl on line 273
+2022-09-22 14:57:10 - PHP Notice:  Undefined index: discount_amount in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\payments_form.tpl on line 279
+2022-09-22 14:57:10 - PHP Notice:  Undefined variable: discount_amount in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\payments_form.tpl on line 314
+2022-09-22 14:57:10 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\payments_form.tpl on line 410
+2022-09-22 14:57:13 - PHP Notice:  Undefined index: receipt_id in C:\xampp\htdocs\php_milwa_trading\system\engine\hcontroller.php on line 223
+2022-09-22 14:57:13 - PHP Notice:  Undefined index: receipt_id in C:\xampp\htdocs\php_milwa_trading\system\engine\hcontroller.php on line 224
+2022-09-22 14:57:13 - PHP Notice:  Undefined index: receipt_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\gl\receipts.php on line 330
+2022-09-22 14:57:13 - PHP Notice:  Undefined index: receipt_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\gl\receipts.php on line 339
+2022-09-22 14:57:13 - PHP Notice:  Undefined index: receipt_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\gl\receipts.php on line 340
+2022-09-22 14:57:13 - PHP Notice:  Undefined index: receipt_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\gl\receipts.php on line 341
+2022-09-22 14:57:13 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-09-22 14:57:13 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-09-22 14:57:13 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 229
+2022-09-22 14:57:13 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 18
+2022-09-22 14:57:13 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 18
+2022-09-22 14:57:13 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 18
+2022-09-22 14:57:13 - PHP Notice:  Undefined variable: is_post in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 53
+2022-09-22 14:57:13 - PHP Notice:  Undefined variable: document_type_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 80
+2022-09-22 14:57:13 - PHP Notice:  Undefined variable: document_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 81
+2022-09-22 14:57:13 - PHP Notice:  Undefined variable: action in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 82
+2022-09-22 14:57:13 - PHP Notice:  Undefined variable: manual_ref_no in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 99
+2022-09-22 14:57:13 - PHP Notice:  Undefined variable: transaction_account_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 108
+2022-09-22 14:57:13 - PHP Notice:  Undefined variable: transaction_account_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 108
+2022-09-22 14:57:13 - PHP Notice:  Undefined variable: partner_type_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 122
+2022-09-22 14:57:13 - PHP Notice:  Undefined variable: partner_type_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 122
+2022-09-22 14:57:13 - PHP Notice:  Undefined variable: partner_categorys in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 133
+2022-09-22 14:57:13 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 133
+2022-09-22 14:57:13 - PHP Notice:  Undefined variable: job_carts in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 188
+2022-09-22 14:57:13 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 188
+2022-09-22 14:57:13 - PHP Notice:  Undefined variable: wht_per in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 199
+2022-09-22 14:57:13 - PHP Notice:  Undefined variable: bank_name in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 207
+2022-09-22 14:57:13 - PHP Notice:  Undefined variable: cheque_date in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 213
+2022-09-22 14:57:13 - PHP Notice:  Undefined variable: cheque_no in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 219
+2022-09-22 14:57:13 - PHP Notice:  Undefined variable: remarks in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 227
+2022-09-22 14:57:13 - PHP Notice:  Undefined variable: receipt_details in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 286
+2022-09-22 14:57:13 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 286
+2022-09-22 14:57:13 - PHP Notice:  Undefined variable: total_amount in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 370
+2022-09-22 14:57:13 - PHP Notice:  Undefined variable: wht_tax_per in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 376
+2022-09-22 14:57:14 - PHP Notice:  Undefined variable: total_wht_amount in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 382
+2022-09-22 14:57:14 - PHP Notice:  Undefined variable: ot_tax_per in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 388
+2022-09-22 14:57:14 - PHP Notice:  Undefined variable: total_other_tax_amount in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 394
+2022-09-22 14:57:14 - PHP Notice:  Undefined variable: total_net_amount in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 400
+2022-09-22 14:57:14 - PHP Notice:  Undefined variable: is_post in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 434
+2022-09-22 14:57:14 - PHP Notice:  Undefined variable: isEdit in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 454
+2022-09-22 14:57:14 - PHP Notice:  Undefined index: sale_tax_invoice_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 455
+2022-09-22 14:57:14 - PHP Notice:  Undefined variable: partner_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 457
+2022-09-22 14:57:14 - PHP Notice:  Undefined variable: sub_project_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 471
+2022-09-22 14:57:14 - PHP Notice:  Undefined index: receipt_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 474
+2022-09-22 14:57:14 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 484
+2022-09-22 14:57:39 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\preset.tpl on line 52
+2022-09-22 14:57:43 - PHP Notice:  Undefined index: case_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\home.php on line 55
+2022-09-22 14:57:43 - PHP Notice:  Undefined index: case_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\home.php on line 56
+2022-09-22 14:57:43 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-09-22 14:57:43 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-09-22 14:57:43 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 229
+2022-09-22 14:57:43 - PHP Notice:  Undefined variable: sale_order_details in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\home.tpl on line 174
+2022-09-22 14:57:43 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\home.tpl on line 174
+2022-09-22 14:57:43 - PHP Notice:  Undefined variable: bank_receipts in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\home.tpl on line 258
+2022-09-22 14:57:43 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\home.tpl on line 258
+2022-09-22 14:57:45 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-09-22 14:57:45 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-09-22 14:57:45 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 229
+2022-09-22 14:57:45 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\payments_list.tpl on line 19
+2022-09-22 14:57:45 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\payments_list.tpl on line 19
+2022-09-22 14:57:45 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\payments_list.tpl on line 19
+2022-09-22 14:57:45 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\payments_list.tpl on line 79
+2022-09-22 14:57:47 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-09-22 14:57:47 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-09-22 14:57:47 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 229
+2022-09-22 14:57:47 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_list.tpl on line 19
+2022-09-22 14:57:47 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_list.tpl on line 19
+2022-09-22 14:57:47 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_list.tpl on line 19
+2022-09-22 14:57:47 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_list.tpl on line 79
+2022-09-22 15:00:52 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\preset.tpl on line 52
+2022-09-22 15:00:54 - PHP Notice:  Undefined index: case_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\home.php on line 55
+2022-09-22 15:00:55 - PHP Notice:  Undefined index: case_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\home.php on line 56
+2022-09-22 15:00:55 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-09-22 15:00:55 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-09-22 15:00:55 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 229
+2022-09-22 15:00:55 - PHP Notice:  Undefined variable: sale_order_details in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\home.tpl on line 174
+2022-09-22 15:00:55 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\home.tpl on line 174
+2022-09-22 15:00:55 - PHP Notice:  Undefined variable: bank_receipts in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\home.tpl on line 258
+2022-09-22 15:00:55 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\home.tpl on line 258
+2022-09-22 15:00:58 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-09-22 15:00:58 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-09-22 15:00:58 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 229
+2022-09-22 15:00:58 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_list.tpl on line 19
+2022-09-22 15:00:58 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_list.tpl on line 19
+2022-09-22 15:00:58 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_list.tpl on line 19
+2022-09-22 15:00:58 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_list.tpl on line 79
+2022-09-22 15:00:59 - PHP Notice:  Undefined index: receipt_id in C:\xampp\htdocs\php_milwa_trading\system\engine\hcontroller.php on line 223
+2022-09-22 15:00:59 - PHP Notice:  Undefined index: receipt_id in C:\xampp\htdocs\php_milwa_trading\system\engine\hcontroller.php on line 224
+2022-09-22 15:00:59 - PHP Notice:  Undefined index: receipt_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\gl\receipts.php on line 330
+2022-09-22 15:00:59 - PHP Notice:  Undefined index: receipt_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\gl\receipts.php on line 339
+2022-09-22 15:00:59 - PHP Notice:  Undefined index: receipt_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\gl\receipts.php on line 340
+2022-09-22 15:00:59 - PHP Notice:  Undefined index: receipt_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\gl\receipts.php on line 341
+2022-09-22 15:00:59 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-09-22 15:00:59 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-09-22 15:00:59 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 229
+2022-09-22 15:00:59 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 18
+2022-09-22 15:00:59 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 18
+2022-09-22 15:00:59 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 18
+2022-09-22 15:00:59 - PHP Notice:  Undefined variable: is_post in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 53
+2022-09-22 15:00:59 - PHP Notice:  Undefined variable: document_type_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 80
+2022-09-22 15:00:59 - PHP Notice:  Undefined variable: document_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 81
+2022-09-22 15:00:59 - PHP Notice:  Undefined variable: action in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 82
+2022-09-22 15:01:00 - PHP Notice:  Undefined variable: manual_ref_no in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 99
+2022-09-22 15:01:00 - PHP Notice:  Undefined variable: transaction_account_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 108
+2022-09-22 15:01:00 - PHP Notice:  Undefined variable: transaction_account_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 108
+2022-09-22 15:01:00 - PHP Notice:  Undefined variable: partner_type_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 122
+2022-09-22 15:01:00 - PHP Notice:  Undefined variable: partner_type_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 122
+2022-09-22 15:01:00 - PHP Notice:  Undefined variable: partner_categorys in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 133
+2022-09-22 15:01:00 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 133
+2022-09-22 15:01:00 - PHP Notice:  Undefined variable: job_carts in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 188
+2022-09-22 15:01:00 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 188
+2022-09-22 15:01:00 - PHP Notice:  Undefined variable: wht_per in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 199
+2022-09-22 15:01:00 - PHP Notice:  Undefined variable: bank_name in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 207
+2022-09-22 15:01:00 - PHP Notice:  Undefined variable: cheque_date in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 213
+2022-09-22 15:01:00 - PHP Notice:  Undefined variable: cheque_no in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 219
+2022-09-22 15:01:00 - PHP Notice:  Undefined variable: remarks in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 227
+2022-09-22 15:01:00 - PHP Notice:  Undefined variable: receipt_details in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 286
+2022-09-22 15:01:00 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 286
+2022-09-22 15:01:00 - PHP Notice:  Undefined variable: total_amount in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 370
+2022-09-22 15:01:00 - PHP Notice:  Undefined variable: wht_tax_per in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 376
+2022-09-22 15:01:00 - PHP Notice:  Undefined variable: total_wht_amount in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 382
+2022-09-22 15:01:00 - PHP Notice:  Undefined variable: ot_tax_per in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 388
+2022-09-22 15:01:00 - PHP Notice:  Undefined variable: total_other_tax_amount in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 394
+2022-09-22 15:01:00 - PHP Notice:  Undefined variable: total_net_amount in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 400
+2022-09-22 15:01:00 - PHP Notice:  Undefined variable: is_post in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 434
+2022-09-22 15:01:00 - PHP Notice:  Undefined variable: isEdit in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 454
+2022-09-22 15:01:00 - PHP Notice:  Undefined index: sale_tax_invoice_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 455
+2022-09-22 15:01:00 - PHP Notice:  Undefined variable: partner_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 457
+2022-09-22 15:01:00 - PHP Notice:  Undefined variable: sub_project_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 471
+2022-09-22 15:01:00 - PHP Notice:  Undefined index: receipt_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 474
+2022-09-22 15:01:00 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 484
+2022-09-22 15:01:08 - PHP Warning:  Declaration of ControllerSetupCustomer::validateDelete() should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 433
+2022-09-22 15:01:08 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-09-22 15:01:08 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-09-22 15:01:08 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 229
+2022-09-22 15:01:08 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\customer_list.tpl on line 19
+2022-09-22 15:01:08 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\customer_list.tpl on line 19
+2022-09-22 15:01:08 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\customer_list.tpl on line 19
+2022-09-22 15:01:08 - PHP Notice:  Undefined variable: partner_category_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\customer_list.tpl on line 46
+2022-09-22 15:01:08 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\customer_list.tpl on line 107
+2022-09-22 15:01:09 - PHP Warning:  Declaration of ControllerSetupSupplier::validateDelete() should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\supplier.php on line 327
+2022-09-22 15:01:09 - PHP Notice:  Undefined variable: url in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\supplier.php on line 18
+2022-09-22 15:01:09 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-09-22 15:01:09 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-09-22 15:01:09 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 229
+2022-09-22 15:01:09 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\supplier_list.tpl on line 19
+2022-09-22 15:01:09 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\supplier_list.tpl on line 19
+2022-09-22 15:01:09 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\supplier_list.tpl on line 19
+2022-09-22 15:01:09 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\supplier_list.tpl on line 84
+2022-09-22 15:01:09 - PHP Warning:  Declaration of ControllerSetupCustomer::validateDelete() should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 433
+2022-09-22 15:01:09 - PHP Warning:  Declaration of ControllerSetupSupplier::validateDelete() should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\supplier.php on line 327
+2022-09-22 15:01:09 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\supplier.php on line 170
+2022-09-22 15:01:09 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\supplier.php on line 170
+2022-09-22 15:01:09 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\supplier.php on line 177
+2022-09-22 15:01:09 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\supplier.php on line 177
+2022-09-22 15:01:09 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\supplier.php on line 170
+2022-09-22 15:01:09 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\supplier.php on line 170
+2022-09-22 15:01:09 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\supplier.php on line 177
+2022-09-22 15:01:09 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\supplier.php on line 177
+2022-09-22 15:01:09 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\supplier.php on line 170
+2022-09-22 15:01:09 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\supplier.php on line 170
+2022-09-22 15:01:09 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\supplier.php on line 177
+2022-09-22 15:01:09 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\supplier.php on line 177
+2022-09-22 15:01:09 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\supplier.php on line 170
+2022-09-22 15:01:09 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\supplier.php on line 170
+2022-09-22 15:01:09 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\supplier.php on line 177
+2022-09-22 15:01:09 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\supplier.php on line 177

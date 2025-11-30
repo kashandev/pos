@@ -1,0 +1,15 @@
+-- 11/10/2023
+
+ALTER TABLE `inp_purchase_invoice`
+ADD COLUMN `freight_master` DECIMAL(20,4) DEFAULT 0.0000
+AFTER `item_tax`;
+
+
+ALTER TABLE `ins_sale_tax_invoice`
+ADD COLUMN `customer_no` VARCHAR(255) DEFAULT NULL
+AFTER `remarks`;
+
+
+ALTER TABLE `ins_sale_tax_invoice`
+ADD COLUMN `total_qty` DECIMAL(11,2) DEFAULT 0.00
+AFTER `document_currency_id`;

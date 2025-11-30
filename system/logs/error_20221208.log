@@ -1,0 +1,1097 @@
+2022-12-08 13:35:41 - PHP Notice:  Undefined index: db_name in C:\xampp\htdocs\php_milwa_trading\system\engine\hmodel.php on line 12
+2022-12-08 13:35:41 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\preset.tpl on line 52
+2022-12-08 13:35:42 - PHP Notice:  Undefined index: db_name in C:\xampp\htdocs\php_milwa_trading\system\engine\hmodel.php on line 12
+2022-12-08 13:35:42 - PHP Notice:  Undefined index: case_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\home.php on line 55
+2022-12-08 13:35:42 - PHP Notice:  Undefined index: case_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\home.php on line 56
+2022-12-08 13:35:43 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-12-08 13:35:43 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-12-08 13:35:43 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 229
+2022-12-08 13:35:43 - PHP Notice:  Undefined variable: bank_receipts in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\home.tpl on line 258
+2022-12-08 13:35:43 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\home.tpl on line 258
+2022-12-08 13:35:46 - PHP Warning:  Declaration of ControllerSetupCustomer::validateDelete() should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 433
+2022-12-08 13:35:46 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-12-08 13:35:46 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-12-08 13:35:46 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 229
+2022-12-08 13:35:46 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\customer_list.tpl on line 19
+2022-12-08 13:35:46 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\customer_list.tpl on line 19
+2022-12-08 13:35:46 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\customer_list.tpl on line 19
+2022-12-08 13:35:46 - PHP Notice:  Undefined variable: partner_category_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\customer_list.tpl on line 46
+2022-12-08 13:35:46 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\customer_list.tpl on line 107
+2022-12-08 13:35:46 - PHP Warning:  Declaration of ControllerSetupCustomer::validateDelete() should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 433
+2022-12-08 13:35:46 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:46 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:46 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:46 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:46 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:46 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:46 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:46 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:46 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:46 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:46 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:46 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:46 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:46 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:46 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:46 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:46 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:46 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:46 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:46 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:46 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:46 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:46 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:46 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:46 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:46 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:47 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:47 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:47 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:47 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:47 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:47 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:47 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:47 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:47 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:47 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:47 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:47 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:47 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:47 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:47 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:47 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:47 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:47 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:47 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:47 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:47 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:47 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:47 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:47 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:47 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:47 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:47 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:47 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:47 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:47 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:47 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:47 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:47 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:47 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:47 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:47 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:47 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:47 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:47 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:47 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:47 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:47 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:47 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:47 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:47 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:47 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:47 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:47 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:47 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:47 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:47 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:47 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:47 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:47 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:47 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:47 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:47 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:47 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:47 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:47 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:47 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:47 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:47 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:47 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:47 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:47 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:47 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:47 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:47 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:47 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:47 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:48 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:48 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:48 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:48 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:48 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:48 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:48 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:48 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:48 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:48 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:48 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:48 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:48 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:48 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:48 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:48 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:48 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:48 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:48 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:48 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:48 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:48 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:48 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:48 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:48 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:48 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:48 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:48 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:48 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:48 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:48 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:48 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:48 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:48 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:48 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:48 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:48 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:48 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:48 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:48 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:48 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:48 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:48 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:48 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:48 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:48 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:48 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:48 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:48 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:48 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:48 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:48 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:48 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:48 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:48 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:48 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:48 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:48 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:48 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:48 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:48 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:48 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:48 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:48 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:48 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:49 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:49 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:49 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:49 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:49 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:49 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:49 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:49 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:49 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:49 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:49 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:49 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:49 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:49 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:49 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:49 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:49 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:49 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:49 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:49 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:49 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:49 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:49 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:49 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:49 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:49 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:49 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:49 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:49 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:49 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:49 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:49 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:49 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:49 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:49 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:49 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:35:49 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:49 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:35:54 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\preset.tpl on line 52
+2022-12-08 13:35:58 - PHP Notice:  Undefined index: case_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\home.php on line 55
+2022-12-08 13:35:58 - PHP Notice:  Undefined index: case_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\home.php on line 56
+2022-12-08 13:35:58 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-12-08 13:35:58 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-12-08 13:35:58 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 229
+2022-12-08 13:35:58 - PHP Notice:  Undefined variable: bank_receipts in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\home.tpl on line 258
+2022-12-08 13:35:58 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\home.tpl on line 258
+2022-12-08 13:36:01 - PHP Warning:  Declaration of ControllerSetupCustomer::validateDelete() should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 433
+2022-12-08 13:36:01 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-12-08 13:36:01 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-12-08 13:36:01 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 229
+2022-12-08 13:36:01 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\customer_list.tpl on line 19
+2022-12-08 13:36:01 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\customer_list.tpl on line 19
+2022-12-08 13:36:01 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\customer_list.tpl on line 19
+2022-12-08 13:36:01 - PHP Notice:  Undefined variable: partner_category_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\customer_list.tpl on line 46
+2022-12-08 13:36:01 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\customer_list.tpl on line 107
+2022-12-08 13:36:01 - PHP Warning:  Declaration of ControllerSetupCustomer::validateDelete() should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 433
+2022-12-08 13:36:01 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:01 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:01 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:01 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:01 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:01 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:01 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:01 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:01 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:01 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:01 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:01 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:01 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:01 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:01 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:01 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:01 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:01 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:01 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:01 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:01 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:01 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:01 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:01 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:01 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:01 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:01 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:01 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:01 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:01 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:01 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:01 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:01 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:01 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:01 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:01 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:01 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:01 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:02 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:02 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:02 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:02 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:02 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:02 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:02 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:02 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:02 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:02 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:02 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:02 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:02 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:02 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:02 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:02 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:02 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:02 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:02 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:02 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:02 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:02 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:02 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:02 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:02 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:02 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:02 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:02 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:02 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:02 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:02 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:02 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:02 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:02 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:02 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:02 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:02 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:02 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:02 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:02 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:02 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:02 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:02 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:02 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:02 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:02 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:02 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:02 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:02 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:02 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:02 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:02 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:02 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:02 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:02 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:02 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:02 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:02 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:02 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:02 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:02 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:02 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:02 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:02 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:02 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:02 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:02 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:03 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:03 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:03 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:03 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:03 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:03 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:03 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:03 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:03 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:03 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:03 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:03 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:03 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:03 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:03 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:03 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:03 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:03 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:03 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:03 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:03 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:03 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:03 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:03 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:03 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:03 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:03 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:03 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:03 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:03 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:03 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:03 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:03 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:03 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:03 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:03 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:03 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:03 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:03 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:03 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:03 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:03 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:03 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:03 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:03 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:03 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:03 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:03 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:03 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:03 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:03 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:03 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:03 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:03 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:03 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:03 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:03 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:04 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:04 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:04 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:04 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:04 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:04 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:04 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:04 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:04 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:04 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:04 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:04 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:04 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:04 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:04 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:04 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:04 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:04 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:04 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:06 - PHP Warning:  Declaration of ControllerSetupCustomer::validateDelete() should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 433
+2022-12-08 13:36:10 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-12-08 13:36:10 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-12-08 13:36:10 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 229
+2022-12-08 13:36:10 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_list.tpl on line 19
+2022-12-08 13:36:10 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_list.tpl on line 19
+2022-12-08 13:36:10 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_list.tpl on line 19
+2022-12-08 13:36:10 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_list.tpl on line 79
+2022-12-08 13:36:12 - PHP Notice:  Undefined index: receipt_id in C:\xampp\htdocs\php_milwa_trading\system\engine\hcontroller.php on line 223
+2022-12-08 13:36:12 - PHP Notice:  Undefined index: receipt_id in C:\xampp\htdocs\php_milwa_trading\system\engine\hcontroller.php on line 224
+2022-12-08 13:36:12 - PHP Notice:  Undefined index: receipt_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\gl\receipts.php on line 331
+2022-12-08 13:36:12 - PHP Notice:  Undefined index: receipt_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\gl\receipts.php on line 340
+2022-12-08 13:36:12 - PHP Notice:  Undefined index: receipt_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\gl\receipts.php on line 341
+2022-12-08 13:36:12 - PHP Notice:  Undefined index: receipt_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\gl\receipts.php on line 342
+2022-12-08 13:36:12 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-12-08 13:36:12 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-12-08 13:36:12 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 229
+2022-12-08 13:36:12 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 18
+2022-12-08 13:36:12 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 18
+2022-12-08 13:36:12 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 18
+2022-12-08 13:36:12 - PHP Notice:  Undefined variable: is_post in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 53
+2022-12-08 13:36:12 - PHP Notice:  Undefined variable: document_type_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 80
+2022-12-08 13:36:12 - PHP Notice:  Undefined variable: document_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 81
+2022-12-08 13:36:12 - PHP Notice:  Undefined variable: action in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 82
+2022-12-08 13:36:12 - PHP Notice:  Undefined variable: manual_ref_no in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 99
+2022-12-08 13:36:12 - PHP Notice:  Undefined variable: transaction_account_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 108
+2022-12-08 13:36:12 - PHP Notice:  Undefined variable: transaction_account_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 108
+2022-12-08 13:36:12 - PHP Notice:  Undefined variable: partner_type_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 122
+2022-12-08 13:36:12 - PHP Notice:  Undefined variable: partner_type_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 122
+2022-12-08 13:36:12 - PHP Notice:  Undefined variable: partner_categorys in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 133
+2022-12-08 13:36:12 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 133
+2022-12-08 13:36:12 - PHP Notice:  Undefined variable: job_carts in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 188
+2022-12-08 13:36:12 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 188
+2022-12-08 13:36:12 - PHP Notice:  Undefined variable: wht_per in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 199
+2022-12-08 13:36:12 - PHP Notice:  Undefined variable: bank_name in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 207
+2022-12-08 13:36:12 - PHP Notice:  Undefined variable: cheque_date in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 213
+2022-12-08 13:36:12 - PHP Notice:  Undefined variable: cheque_no in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 219
+2022-12-08 13:36:12 - PHP Notice:  Undefined variable: remarks in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 227
+2022-12-08 13:36:12 - PHP Notice:  Undefined variable: receipt_details in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 286
+2022-12-08 13:36:12 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 286
+2022-12-08 13:36:12 - PHP Notice:  Undefined variable: total_amount in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 374
+2022-12-08 13:36:12 - PHP Notice:  Undefined variable: wht_tax_per in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 380
+2022-12-08 13:36:12 - PHP Notice:  Undefined variable: total_wht_amount in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 386
+2022-12-08 13:36:12 - PHP Notice:  Undefined variable: ot_tax_per in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 392
+2022-12-08 13:36:12 - PHP Notice:  Undefined variable: total_other_tax_amount in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 398
+2022-12-08 13:36:12 - PHP Notice:  Undefined variable: total_net_amount in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 404
+2022-12-08 13:36:12 - PHP Notice:  Undefined variable: total_other_deduction_amount in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 411
+2022-12-08 13:36:12 - PHP Notice:  Undefined variable: is_post in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 445
+2022-12-08 13:36:12 - PHP Notice:  Undefined variable: isEdit in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 465
+2022-12-08 13:36:12 - PHP Notice:  Undefined index: sale_tax_invoice_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 466
+2022-12-08 13:36:12 - PHP Notice:  Undefined variable: partner_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 468
+2022-12-08 13:36:13 - PHP Notice:  Undefined variable: sub_project_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 482
+2022-12-08 13:36:13 - PHP Notice:  Undefined index: receipt_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 485
+2022-12-08 13:36:13 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 495
+2022-12-08 13:36:26 - PHP Notice:  Undefined index: receipt_id in C:\xampp\htdocs\php_milwa_trading\system\engine\hcontroller.php on line 223
+2022-12-08 13:36:26 - PHP Notice:  Undefined index: receipt_id in C:\xampp\htdocs\php_milwa_trading\system\engine\hcontroller.php on line 224
+2022-12-08 13:36:26 - PHP Notice:  Undefined index: receipt_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\gl\receipts.php on line 331
+2022-12-08 13:36:26 - PHP Notice:  Undefined index: receipt_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\gl\receipts.php on line 340
+2022-12-08 13:36:26 - PHP Notice:  Undefined index: receipt_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\gl\receipts.php on line 341
+2022-12-08 13:36:26 - PHP Notice:  Undefined index: receipt_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\gl\receipts.php on line 342
+2022-12-08 13:36:26 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-12-08 13:36:26 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-12-08 13:36:26 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 229
+2022-12-08 13:36:26 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 18
+2022-12-08 13:36:26 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 18
+2022-12-08 13:36:26 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 18
+2022-12-08 13:36:26 - PHP Notice:  Undefined variable: is_post in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 53
+2022-12-08 13:36:26 - PHP Notice:  Undefined variable: document_type_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 80
+2022-12-08 13:36:26 - PHP Notice:  Undefined variable: document_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 81
+2022-12-08 13:36:26 - PHP Notice:  Undefined variable: action in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 82
+2022-12-08 13:36:26 - PHP Notice:  Undefined variable: manual_ref_no in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 99
+2022-12-08 13:36:26 - PHP Notice:  Undefined variable: transaction_account_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 108
+2022-12-08 13:36:26 - PHP Notice:  Undefined variable: transaction_account_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 108
+2022-12-08 13:36:26 - PHP Notice:  Undefined variable: partner_type_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 122
+2022-12-08 13:36:26 - PHP Notice:  Undefined variable: partner_type_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 122
+2022-12-08 13:36:26 - PHP Notice:  Undefined variable: partner_categorys in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 133
+2022-12-08 13:36:26 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 133
+2022-12-08 13:36:26 - PHP Notice:  Undefined variable: job_carts in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 188
+2022-12-08 13:36:26 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 188
+2022-12-08 13:36:26 - PHP Notice:  Undefined variable: wht_per in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 199
+2022-12-08 13:36:26 - PHP Notice:  Undefined variable: bank_name in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 207
+2022-12-08 13:36:26 - PHP Notice:  Undefined variable: cheque_date in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 213
+2022-12-08 13:36:26 - PHP Notice:  Undefined variable: cheque_no in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 219
+2022-12-08 13:36:26 - PHP Notice:  Undefined variable: remarks in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 227
+2022-12-08 13:36:26 - PHP Notice:  Undefined variable: receipt_details in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 286
+2022-12-08 13:36:26 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 286
+2022-12-08 13:36:26 - PHP Notice:  Undefined variable: total_amount in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 374
+2022-12-08 13:36:26 - PHP Notice:  Undefined variable: wht_tax_per in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 380
+2022-12-08 13:36:26 - PHP Notice:  Undefined variable: total_wht_amount in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 386
+2022-12-08 13:36:26 - PHP Notice:  Undefined variable: ot_tax_per in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 392
+2022-12-08 13:36:26 - PHP Notice:  Undefined variable: total_other_tax_amount in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 398
+2022-12-08 13:36:26 - PHP Notice:  Undefined variable: total_net_amount in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 404
+2022-12-08 13:36:26 - PHP Notice:  Undefined variable: total_other_deduction_amount in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 411
+2022-12-08 13:36:26 - PHP Notice:  Undefined variable: is_post in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 445
+2022-12-08 13:36:26 - PHP Notice:  Undefined variable: isEdit in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 465
+2022-12-08 13:36:26 - PHP Notice:  Undefined index: sale_tax_invoice_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 466
+2022-12-08 13:36:26 - PHP Notice:  Undefined variable: partner_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 468
+2022-12-08 13:36:26 - PHP Notice:  Undefined variable: sub_project_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 482
+2022-12-08 13:36:26 - PHP Notice:  Undefined index: receipt_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 485
+2022-12-08 13:36:26 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 495
+2022-12-08 13:36:41 - PHP Notice:  Undefined index: db_name in C:\xampp\htdocs\php_milwa_trading\system\engine\hmodel.php on line 12
+2022-12-08 13:36:41 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\preset.tpl on line 52
+2022-12-08 13:36:43 - PHP Notice:  Undefined index: db_name in C:\xampp\htdocs\php_milwa_trading\system\engine\hmodel.php on line 12
+2022-12-08 13:36:43 - PHP Notice:  Undefined index: case_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\home.php on line 55
+2022-12-08 13:36:43 - PHP Notice:  Undefined index: case_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\home.php on line 56
+2022-12-08 13:36:43 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-12-08 13:36:43 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-12-08 13:36:43 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 229
+2022-12-08 13:36:43 - PHP Notice:  Undefined variable: bank_receipts in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\home.tpl on line 258
+2022-12-08 13:36:43 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\home.tpl on line 258
+2022-12-08 13:36:48 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\preset.tpl on line 52
+2022-12-08 13:36:50 - PHP Notice:  Undefined index: case_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\home.php on line 55
+2022-12-08 13:36:50 - PHP Notice:  Undefined index: case_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\home.php on line 56
+2022-12-08 13:36:50 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-12-08 13:36:51 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-12-08 13:36:51 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 229
+2022-12-08 13:36:51 - PHP Notice:  Undefined variable: bank_receipts in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\home.tpl on line 258
+2022-12-08 13:36:51 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\home.tpl on line 258
+2022-12-08 13:36:53 - PHP Warning:  Declaration of ControllerSetupCustomer::validateDelete() should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 433
+2022-12-08 13:36:53 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-12-08 13:36:53 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-12-08 13:36:53 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 229
+2022-12-08 13:36:53 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\customer_list.tpl on line 19
+2022-12-08 13:36:53 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\customer_list.tpl on line 19
+2022-12-08 13:36:53 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\customer_list.tpl on line 19
+2022-12-08 13:36:53 - PHP Notice:  Undefined variable: partner_category_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\customer_list.tpl on line 46
+2022-12-08 13:36:53 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\customer_list.tpl on line 107
+2022-12-08 13:36:53 - PHP Warning:  Declaration of ControllerSetupCustomer::validateDelete() should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 433
+2022-12-08 13:36:53 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:53 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:53 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:53 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:53 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:53 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:53 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:53 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:53 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:53 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:53 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:53 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:53 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:53 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:53 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:53 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:53 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:53 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:53 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:53 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:53 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:53 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:53 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:53 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:53 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:53 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:53 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:53 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:53 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:54 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:54 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:54 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:54 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:54 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:54 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:54 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:54 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:54 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:54 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:54 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:54 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:54 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:54 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:54 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:54 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:54 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:54 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:54 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:54 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:54 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:54 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:54 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:54 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:54 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:54 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:54 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:54 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:54 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:54 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:54 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:54 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:54 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:54 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:54 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:54 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:54 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:54 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:54 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:54 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:54 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:54 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:54 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:54 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:54 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:54 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:54 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:54 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:54 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:54 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:54 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:54 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:54 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:54 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:54 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:55 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:55 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:55 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:55 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:55 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:55 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:55 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:55 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:55 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:55 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:55 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:55 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:55 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:55 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:55 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:55 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:55 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:55 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:55 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:55 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:55 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:55 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:55 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:55 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:55 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:55 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:55 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:55 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:55 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:55 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:55 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:55 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:55 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:55 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:55 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:55 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:55 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:55 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:55 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:55 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:55 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:55 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:55 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:55 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:55 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:55 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:55 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:55 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:55 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:55 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:55 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:55 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:55 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:56 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:56 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:56 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:56 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:56 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:56 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:56 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:56 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:56 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:56 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:56 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:56 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:56 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:56 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:56 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:56 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:56 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:56 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:56 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:56 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:56 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:56 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:56 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:56 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:56 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:56 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:56 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:56 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:56 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:56 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:56 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:56 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:56 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:56 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:56 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:56 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:56 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:56 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:56 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:56 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:56 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:56 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:56 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:56 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:56 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:56 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:56 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:56 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:56 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:56 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:56 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:56 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:57 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:57 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:57 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:57 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:57 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:57 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:57 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:57 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:57 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-12-08 13:36:57 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:57 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-12-08 13:36:57 - PHP Notice:  Undefined index: receipt_id in C:\xampp\htdocs\php_milwa_trading\system\engine\hcontroller.php on line 223
+2022-12-08 13:36:57 - PHP Notice:  Undefined index: receipt_id in C:\xampp\htdocs\php_milwa_trading\system\engine\hcontroller.php on line 224
+2022-12-08 13:36:57 - PHP Notice:  Undefined index: receipt_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\gl\receipts.php on line 331
+2022-12-08 13:36:57 - PHP Notice:  Undefined index: receipt_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\gl\receipts.php on line 340
+2022-12-08 13:36:57 - PHP Notice:  Undefined index: receipt_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\gl\receipts.php on line 341
+2022-12-08 13:36:57 - PHP Notice:  Undefined index: receipt_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\gl\receipts.php on line 342
+2022-12-08 13:36:57 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-12-08 13:36:57 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-12-08 13:36:57 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 229
+2022-12-08 13:36:57 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 18
+2022-12-08 13:36:57 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 18
+2022-12-08 13:36:57 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 18
+2022-12-08 13:36:57 - PHP Notice:  Undefined variable: is_post in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 53
+2022-12-08 13:36:57 - PHP Notice:  Undefined variable: document_type_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 80
+2022-12-08 13:36:57 - PHP Notice:  Undefined variable: document_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 81
+2022-12-08 13:36:57 - PHP Notice:  Undefined variable: action in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 82
+2022-12-08 13:36:57 - PHP Notice:  Undefined variable: manual_ref_no in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 99
+2022-12-08 13:36:57 - PHP Notice:  Undefined variable: transaction_account_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 108
+2022-12-08 13:36:57 - PHP Notice:  Undefined variable: transaction_account_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 108
+2022-12-08 13:36:57 - PHP Notice:  Undefined variable: partner_type_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 122
+2022-12-08 13:36:57 - PHP Notice:  Undefined variable: partner_type_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 122
+2022-12-08 13:36:57 - PHP Notice:  Undefined variable: partner_categorys in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 133
+2022-12-08 13:36:57 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 133
+2022-12-08 13:36:57 - PHP Notice:  Undefined variable: job_carts in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 188
+2022-12-08 13:36:57 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 188
+2022-12-08 13:36:57 - PHP Notice:  Undefined variable: wht_per in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 199
+2022-12-08 13:36:57 - PHP Notice:  Undefined variable: bank_name in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 207
+2022-12-08 13:36:57 - PHP Notice:  Undefined variable: cheque_date in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 213
+2022-12-08 13:36:57 - PHP Notice:  Undefined variable: cheque_no in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 219
+2022-12-08 13:36:57 - PHP Notice:  Undefined variable: remarks in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 227
+2022-12-08 13:36:57 - PHP Notice:  Undefined variable: receipt_details in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 286
+2022-12-08 13:36:57 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 286
+2022-12-08 13:36:57 - PHP Notice:  Undefined variable: total_amount in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 374
+2022-12-08 13:36:57 - PHP Notice:  Undefined variable: wht_tax_per in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 380
+2022-12-08 13:36:57 - PHP Notice:  Undefined variable: total_wht_amount in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 386
+2022-12-08 13:36:57 - PHP Notice:  Undefined variable: ot_tax_per in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 392
+2022-12-08 13:36:57 - PHP Notice:  Undefined variable: total_other_tax_amount in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 398
+2022-12-08 13:36:57 - PHP Notice:  Undefined variable: total_net_amount in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 404
+2022-12-08 13:36:57 - PHP Notice:  Undefined variable: total_other_deduction_amount in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 411
+2022-12-08 13:36:57 - PHP Notice:  Undefined variable: is_post in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 445
+2022-12-08 13:36:57 - PHP Notice:  Undefined variable: isEdit in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 465
+2022-12-08 13:36:57 - PHP Notice:  Undefined index: sale_tax_invoice_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 466
+2022-12-08 13:36:57 - PHP Notice:  Undefined variable: partner_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 468
+2022-12-08 13:36:58 - PHP Notice:  Undefined variable: sub_project_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 482
+2022-12-08 13:36:58 - PHP Notice:  Undefined index: receipt_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 485
+2022-12-08 13:36:58 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_form.tpl on line 495
+2022-12-08 13:42:43 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-12-08 13:42:43 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-12-08 13:42:43 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 229
+2022-12-08 13:42:43 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\party_ledger.tpl on line 18
+2022-12-08 13:42:43 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\party_ledger.tpl on line 18
+2022-12-08 13:42:43 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\party_ledger.tpl on line 18
+2022-12-08 13:42:43 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\report\party_ledger.tpl on line 172
+2022-12-08 13:42:46 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\php_milwa_trading\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2022-12-08 13:42:48 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\php_milwa_trading\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2022-12-08 13:44:35 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\php_milwa_trading\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2022-12-08 13:44:35 - PHP Notice:  Undefined index: company_name in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\party_ledger.php on line 889
+2022-12-08 13:45:03 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\php_milwa_trading\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2022-12-08 13:46:05 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 2561
+2022-12-08 13:46:05 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 2561
+2022-12-08 13:46:05 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 2682
+2022-12-08 13:46:05 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 2682
+2022-12-08 13:46:05 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 2686
+2022-12-08 13:46:05 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 2774
+2022-12-08 13:46:05 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 2778
+2022-12-08 13:46:05 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 2790
+2022-12-08 13:46:05 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 3044
+2022-12-08 13:46:05 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 3176
+2022-12-08 13:46:06 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 3178
+2022-12-08 13:46:06 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 3179
+2022-12-08 13:46:06 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 3467
+2022-12-08 13:46:06 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 3467
+2022-12-08 13:46:06 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 3470
+2022-12-08 13:46:06 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 3471
+2022-12-08 13:46:06 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 3901
+2022-12-08 13:46:06 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 3901
+2022-12-08 13:46:06 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 3946
+2022-12-08 13:46:06 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 3952
+2022-12-08 13:46:06 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 4008
+2022-12-08 13:46:06 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 4011
+2022-12-08 13:46:07 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Worksheet\AutoFilter.php on line 720
+2022-12-08 13:46:07 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Worksheet\AutoFilter.php on line 720
+2022-12-08 13:46:07 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell.php on line 812
+2022-12-08 13:46:07 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell.php on line 813
+2022-12-08 13:46:07 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell.php on line 816
+2022-12-08 13:46:07 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell.php on line 817
+2022-12-08 13:46:07 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell.php on line 817
+2022-12-08 13:46:07 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell.php on line 819
+2022-12-08 13:46:07 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell.php on line 820
+2022-12-08 13:46:07 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell.php on line 820
+2022-12-08 13:46:07 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell.php on line 820
+2022-12-08 13:46:07 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell.php on line 824
+2022-12-08 13:46:07 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell\DefaultValueBinder.php on line 82
+2022-12-08 13:46:07 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell\DefaultValueBinder.php on line 90
+2022-12-08 13:46:07 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell\DefaultValueBinder.php on line 90
+2022-12-08 13:46:07 - PHP Notice:  Undefined index: balance in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\party_ledger.php on line 524
+2022-12-08 13:46:07 - PHP Notice:  Undefined index: balance in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\party_ledger.php on line 524
+2022-12-08 13:46:07 - PHP Notice:  Undefined index: balance in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\party_ledger.php on line 524
+2022-12-08 13:46:07 - PHP Notice:  Trying to access array offset on value of type float in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell\DefaultValueBinder.php on line 82
+2022-12-08 13:46:07 - PHP Notice:  Trying to access array offset on value of type float in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell\DefaultValueBinder.php on line 82
+2022-12-08 13:46:08 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation\Functions.php on line 321
+2022-12-08 13:46:08 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation\Functions.php on line 324
+2022-12-08 13:46:08 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation\Functions.php on line 564
+2022-12-08 13:46:08 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation\Functions.php on line 614
+2022-12-08 13:46:29 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 2561
+2022-12-08 13:46:29 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 2561
+2022-12-08 13:46:29 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 2682
+2022-12-08 13:46:29 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 2682
+2022-12-08 13:46:29 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 2686
+2022-12-08 13:46:29 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 2774
+2022-12-08 13:46:29 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 2778
+2022-12-08 13:46:29 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 2790
+2022-12-08 13:46:29 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 3044
+2022-12-08 13:46:29 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 3176
+2022-12-08 13:46:29 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 3178
+2022-12-08 13:46:29 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 3179
+2022-12-08 13:46:29 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 3467
+2022-12-08 13:46:29 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 3467
+2022-12-08 13:46:29 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 3470
+2022-12-08 13:46:29 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 3471
+2022-12-08 13:46:29 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 3901
+2022-12-08 13:46:29 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 3901
+2022-12-08 13:46:29 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 3946
+2022-12-08 13:46:29 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 3952
+2022-12-08 13:46:29 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 4008
+2022-12-08 13:46:29 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 4011
+2022-12-08 13:46:29 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Worksheet\AutoFilter.php on line 720
+2022-12-08 13:46:29 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Worksheet\AutoFilter.php on line 720
+2022-12-08 13:46:29 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell.php on line 812
+2022-12-08 13:46:29 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell.php on line 813
+2022-12-08 13:46:29 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell.php on line 816
+2022-12-08 13:46:29 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell.php on line 817
+2022-12-08 13:46:29 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell.php on line 817
+2022-12-08 13:46:29 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell.php on line 819
+2022-12-08 13:46:29 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell.php on line 820
+2022-12-08 13:46:29 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell.php on line 820
+2022-12-08 13:46:29 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell.php on line 820
+2022-12-08 13:46:29 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell.php on line 824
+2022-12-08 13:46:29 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell\DefaultValueBinder.php on line 82
+2022-12-08 13:46:29 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell\DefaultValueBinder.php on line 90
+2022-12-08 13:46:29 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell\DefaultValueBinder.php on line 90
+2022-12-08 13:46:29 - PHP Notice:  Undefined index: balance in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\party_ledger.php on line 524
+2022-12-08 13:46:29 - PHP Notice:  Undefined index: balance in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\party_ledger.php on line 524
+2022-12-08 13:46:29 - PHP Notice:  Undefined index: balance in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\party_ledger.php on line 524
+2022-12-08 13:46:29 - PHP Notice:  Trying to access array offset on value of type float in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell\DefaultValueBinder.php on line 82
+2022-12-08 13:46:29 - PHP Notice:  Trying to access array offset on value of type float in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell\DefaultValueBinder.php on line 82
+2022-12-08 13:46:29 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation\Functions.php on line 321
+2022-12-08 13:46:29 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation\Functions.php on line 324
+2022-12-08 13:46:29 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation\Functions.php on line 564
+2022-12-08 13:46:29 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation\Functions.php on line 614
+2022-12-08 13:47:18 - PHP Warning:  chr() expects parameter 1 to be int, string given in C:\xampp\htdocs\php_milwa_trading\system\library\tcpdf\include\tcpdf_fonts.php on line 1671
+2022-12-08 13:47:27 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 2561
+2022-12-08 13:47:28 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 2561
+2022-12-08 13:47:28 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 2682
+2022-12-08 13:47:28 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 2682
+2022-12-08 13:47:28 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 2686
+2022-12-08 13:47:28 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 2774
+2022-12-08 13:47:28 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 2778
+2022-12-08 13:47:28 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 2790
+2022-12-08 13:47:28 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 3044
+2022-12-08 13:47:28 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 3176
+2022-12-08 13:47:28 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 3178
+2022-12-08 13:47:28 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 3179
+2022-12-08 13:47:28 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 3467
+2022-12-08 13:47:28 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 3467
+2022-12-08 13:47:28 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 3470
+2022-12-08 13:47:28 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 3471
+2022-12-08 13:47:28 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 3901
+2022-12-08 13:47:29 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 3901
+2022-12-08 13:47:29 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 3946
+2022-12-08 13:47:29 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 3952
+2022-12-08 13:47:29 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 4008
+2022-12-08 13:47:29 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 4011
+2022-12-08 13:47:29 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Worksheet\AutoFilter.php on line 720
+2022-12-08 13:47:29 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Worksheet\AutoFilter.php on line 720
+2022-12-08 13:47:29 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell.php on line 812
+2022-12-08 13:47:29 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell.php on line 813
+2022-12-08 13:47:29 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell.php on line 816
+2022-12-08 13:47:29 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell.php on line 817
+2022-12-08 13:47:29 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell.php on line 817
+2022-12-08 13:47:29 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell.php on line 819
+2022-12-08 13:47:29 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell.php on line 820
+2022-12-08 13:47:29 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell.php on line 820
+2022-12-08 13:47:29 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell.php on line 820
+2022-12-08 13:47:29 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell.php on line 824
+2022-12-08 13:47:29 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell\DefaultValueBinder.php on line 82
+2022-12-08 13:47:29 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell\DefaultValueBinder.php on line 90
+2022-12-08 13:47:29 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell\DefaultValueBinder.php on line 90
+2022-12-08 13:47:29 - PHP Notice:  Undefined index: balance in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\party_ledger.php on line 524
+2022-12-08 13:47:29 - PHP Notice:  Undefined index: balance in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\party_ledger.php on line 524
+2022-12-08 13:47:29 - PHP Notice:  Undefined index: balance in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\party_ledger.php on line 524
+2022-12-08 13:47:29 - PHP Notice:  Trying to access array offset on value of type float in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell\DefaultValueBinder.php on line 82
+2022-12-08 13:47:29 - PHP Notice:  Trying to access array offset on value of type float in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell\DefaultValueBinder.php on line 82
+2022-12-08 13:47:29 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation\Functions.php on line 321
+2022-12-08 13:47:29 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation\Functions.php on line 324
+2022-12-08 13:47:29 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation\Functions.php on line 564
+2022-12-08 13:47:29 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation\Functions.php on line 614
+2022-12-08 13:47:34 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 2561
+2022-12-08 13:47:34 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 2561
+2022-12-08 13:47:34 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 2682
+2022-12-08 13:47:34 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 2682
+2022-12-08 13:47:34 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 2686
+2022-12-08 13:47:34 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 2774
+2022-12-08 13:47:34 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 2778
+2022-12-08 13:47:34 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 2790
+2022-12-08 13:47:35 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 3044
+2022-12-08 13:47:35 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 3176
+2022-12-08 13:47:35 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 3178
+2022-12-08 13:47:35 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 3179
+2022-12-08 13:47:35 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 3467
+2022-12-08 13:47:35 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 3467
+2022-12-08 13:47:35 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 3470
+2022-12-08 13:47:35 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 3471
+2022-12-08 13:47:35 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 3901
+2022-12-08 13:47:35 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 3901
+2022-12-08 13:47:35 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 3946
+2022-12-08 13:47:35 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 3952
+2022-12-08 13:47:35 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 4008
+2022-12-08 13:47:35 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 4011
+2022-12-08 13:47:35 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Worksheet\AutoFilter.php on line 720
+2022-12-08 13:47:35 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Worksheet\AutoFilter.php on line 720
+2022-12-08 13:47:35 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell.php on line 812
+2022-12-08 13:47:35 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell.php on line 813
+2022-12-08 13:47:35 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell.php on line 816
+2022-12-08 13:47:35 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell.php on line 817
+2022-12-08 13:47:35 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell.php on line 817
+2022-12-08 13:47:35 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell.php on line 819
+2022-12-08 13:47:35 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell.php on line 820
+2022-12-08 13:47:35 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell.php on line 820
+2022-12-08 13:47:35 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell.php on line 820
+2022-12-08 13:47:35 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell.php on line 824
+2022-12-08 13:47:35 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell\DefaultValueBinder.php on line 82
+2022-12-08 13:47:35 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell\DefaultValueBinder.php on line 90
+2022-12-08 13:47:35 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell\DefaultValueBinder.php on line 90
+2022-12-08 13:47:35 - PHP Notice:  Trying to access array offset on value of type float in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell\DefaultValueBinder.php on line 82
+2022-12-08 13:47:35 - PHP Notice:  Trying to access array offset on value of type float in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell\DefaultValueBinder.php on line 82
+2022-12-08 13:47:35 - PHP Notice:  Trying to access array offset on value of type float in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell\DefaultValueBinder.php on line 82
+2022-12-08 13:47:35 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation\Functions.php on line 321
+2022-12-08 13:47:35 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation\Functions.php on line 324
+2022-12-08 13:47:35 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation\Functions.php on line 564
+2022-12-08 13:47:35 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation\Functions.php on line 614
+2022-12-08 13:48:16 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 2561
+2022-12-08 13:48:16 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 2561
+2022-12-08 13:48:16 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 2682
+2022-12-08 13:48:16 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 2682
+2022-12-08 13:48:16 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 2686
+2022-12-08 13:48:16 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 2774
+2022-12-08 13:48:16 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 2778
+2022-12-08 13:48:16 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 2790
+2022-12-08 13:48:16 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 3044
+2022-12-08 13:48:16 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 3176
+2022-12-08 13:48:16 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 3178
+2022-12-08 13:48:16 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 3179
+2022-12-08 13:48:16 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 3467
+2022-12-08 13:48:16 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 3467
+2022-12-08 13:48:16 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 3470
+2022-12-08 13:48:16 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 3471
+2022-12-08 13:48:16 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 3901
+2022-12-08 13:48:16 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 3901
+2022-12-08 13:48:16 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 3946
+2022-12-08 13:48:16 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 3952
+2022-12-08 13:48:16 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 4008
+2022-12-08 13:48:16 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 4011
+2022-12-08 13:48:16 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Worksheet\AutoFilter.php on line 720
+2022-12-08 13:48:16 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Worksheet\AutoFilter.php on line 720
+2022-12-08 13:48:16 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell.php on line 812
+2022-12-08 13:48:16 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell.php on line 813
+2022-12-08 13:48:16 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell.php on line 816
+2022-12-08 13:48:16 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell.php on line 817
+2022-12-08 13:48:16 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell.php on line 817
+2022-12-08 13:48:16 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell.php on line 819
+2022-12-08 13:48:16 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell.php on line 820
+2022-12-08 13:48:16 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell.php on line 820
+2022-12-08 13:48:16 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell.php on line 820
+2022-12-08 13:48:16 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell.php on line 824
+2022-12-08 13:48:16 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell\DefaultValueBinder.php on line 82
+2022-12-08 13:48:16 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell\DefaultValueBinder.php on line 90
+2022-12-08 13:48:16 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell\DefaultValueBinder.php on line 90
+2022-12-08 13:48:16 - PHP Notice:  Trying to access array offset on value of type float in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell\DefaultValueBinder.php on line 82
+2022-12-08 13:48:16 - PHP Notice:  Trying to access array offset on value of type float in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell\DefaultValueBinder.php on line 82
+2022-12-08 13:48:17 - PHP Notice:  Trying to access array offset on value of type float in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell\DefaultValueBinder.php on line 82
+2022-12-08 13:48:17 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation\Functions.php on line 321
+2022-12-08 13:48:17 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation\Functions.php on line 324
+2022-12-08 13:48:17 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation\Functions.php on line 564
+2022-12-08 13:48:17 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation\Functions.php on line 614
+2022-12-08 13:48:55 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 2561
+2022-12-08 13:48:55 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 2561
+2022-12-08 13:48:55 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 2682
+2022-12-08 13:48:55 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 2682
+2022-12-08 13:48:55 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 2686
+2022-12-08 13:48:55 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 2774
+2022-12-08 13:48:55 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 2778
+2022-12-08 13:48:55 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 2790
+2022-12-08 13:48:55 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 3044
+2022-12-08 13:48:55 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 3176
+2022-12-08 13:48:55 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 3178
+2022-12-08 13:48:55 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 3179
+2022-12-08 13:48:55 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 3467
+2022-12-08 13:48:56 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 3467
+2022-12-08 13:48:56 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 3470
+2022-12-08 13:48:56 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 3471
+2022-12-08 13:48:56 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 3901
+2022-12-08 13:48:56 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 3901
+2022-12-08 13:48:56 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 3946
+2022-12-08 13:48:56 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 3952
+2022-12-08 13:48:56 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 4008
+2022-12-08 13:48:56 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation.php on line 4011
+2022-12-08 13:48:56 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Worksheet\AutoFilter.php on line 720
+2022-12-08 13:48:56 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Worksheet\AutoFilter.php on line 720
+2022-12-08 13:48:56 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell.php on line 812
+2022-12-08 13:48:56 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell.php on line 813
+2022-12-08 13:48:56 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell.php on line 816
+2022-12-08 13:48:56 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell.php on line 817
+2022-12-08 13:48:56 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell.php on line 817
+2022-12-08 13:48:56 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell.php on line 819
+2022-12-08 13:48:56 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell.php on line 820
+2022-12-08 13:48:56 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell.php on line 820
+2022-12-08 13:48:56 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell.php on line 820
+2022-12-08 13:48:56 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell.php on line 824
+2022-12-08 13:48:56 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell\DefaultValueBinder.php on line 82
+2022-12-08 13:48:56 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell\DefaultValueBinder.php on line 90
+2022-12-08 13:48:56 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell\DefaultValueBinder.php on line 90
+2022-12-08 13:48:56 - PHP Notice:  Undefined index: balance in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\party_ledger.php on line 524
+2022-12-08 13:48:56 - PHP Notice:  Undefined index: balance in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\party_ledger.php on line 524
+2022-12-08 13:48:56 - PHP Notice:  Undefined index: balance in C:\xampp\htdocs\php_milwa_trading\admin\controller\report\party_ledger.php on line 524
+2022-12-08 13:48:56 - PHP Notice:  Trying to access array offset on value of type float in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell\DefaultValueBinder.php on line 82
+2022-12-08 13:48:56 - PHP Notice:  Trying to access array offset on value of type float in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Cell\DefaultValueBinder.php on line 82
+2022-12-08 13:48:56 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation\Functions.php on line 321
+2022-12-08 13:48:56 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation\Functions.php on line 324
+2022-12-08 13:48:56 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation\Functions.php on line 564
+2022-12-08 13:48:56 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in C:\xampp\htdocs\php_milwa_trading\system\library\PHPExcel\Calculation\Functions.php on line 614

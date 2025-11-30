@@ -1,0 +1,33 @@
+2022-06-20 9:00:05 - PHP Warning:  session_start(): open(C:\Users\TAIKHU~1\AppData\Local\Temp\sess_1dk5gdd0mcues2pjgfrdn2do2i, O_RDWR) failed: Permission denied (13) in C:\xampp\htdocs\php_milwa_trading\system\library\session.php on line 9
+2022-06-20 9:00:06 - PHP Warning:  session_start(): Failed to read session data: files (path: ) in C:\xampp\htdocs\php_milwa_trading\system\library\session.php on line 9
+2022-06-20 9:00:06 - PHP Warning:  session_destroy(): Trying to destroy uninitialized session in C:\xampp\htdocs\php_milwa_trading\system\library\user.php on line 38
+2022-06-20 9:04:50 - PHP Notice:  Undefined index: db_name in C:\xampp\htdocs\php_milwa_trading\system\engine\hmodel.php on line 12
+2022-06-20 9:04:50 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\preset.tpl on line 52
+2022-06-20 9:04:52 - PHP Notice:  Undefined index: db_name in C:\xampp\htdocs\php_milwa_trading\system\engine\hmodel.php on line 12
+2022-06-20 9:04:53 - PHP Notice:  Undefined index: case_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\home.php on line 55
+2022-06-20 9:04:53 - PHP Notice:  Undefined index: case_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\home.php on line 56
+2022-06-20 9:04:53 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-06-20 9:04:53 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-06-20 9:04:53 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 229
+2022-06-20 9:04:54 - PHP Notice:  Undefined variable: sale_order_details in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\home.tpl on line 174
+2022-06-20 9:04:54 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\home.tpl on line 174
+2022-06-20 9:04:54 - PHP Notice:  Undefined variable: bank_receipts in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\home.tpl on line 258
+2022-06-20 9:04:54 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\home.tpl on line 258
+2022-06-20 9:04:59 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-06-20 9:04:59 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-06-20 9:04:59 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 229
+2022-06-20 9:04:59 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\payments_list.tpl on line 19
+2022-06-20 9:04:59 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\payments_list.tpl on line 19
+2022-06-20 9:04:59 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\payments_list.tpl on line 19
+2022-06-20 9:04:59 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\payments_list.tpl on line 79
+2022-06-20 9:05:00 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-06-20 9:05:00 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-06-20 9:05:00 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 229
+2022-06-20 9:05:00 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_list.tpl on line 19
+2022-06-20 9:05:00 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_list.tpl on line 19
+2022-06-20 9:05:00 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_list.tpl on line 19
+2022-06-20 9:05:00 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\gl\receipts_list.tpl on line 79
+2022-06-20 9:05:05 - PHP Notice:  Undefined index: dc_no in C:\xampp\htdocs\php_milwa_trading\admin\controller\gl\payments.php on line 897
+2022-06-20 9:05:05 - PHP Notice:  Undefined index: ref_document_identity in C:\xampp\htdocs\php_milwa_trading\admin\controller\gl\payments.php on line 900
+2022-06-20 9:05:05 - PHP Notice:  Undefined index: ref_document_type_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\gl\payments.php on line 901
+2022-06-20 9:05:08 - PHP Notice:  Undefined index: cost_center_name in C:\xampp\htdocs\php_milwa_trading\admin\controller\gl\receipts.php on line 523

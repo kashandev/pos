@@ -1,0 +1,162 @@
+2022-08-16 9:33:23 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-08-16 9:33:23 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-08-16 9:33:23 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 229
+2022-08-16 9:33:23 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\sale_tax_invoice_list.tpl on line 19
+2022-08-16 9:33:23 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\sale_tax_invoice_list.tpl on line 19
+2022-08-16 9:33:23 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\sale_tax_invoice_list.tpl on line 19
+2022-08-16 9:33:23 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\sale_tax_invoice_list.tpl on line 79
+2022-08-16 9:34:46 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-08-16 9:34:46 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-08-16 9:34:46 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 229
+2022-08-16 9:34:46 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\sale_tax_invoice_list.tpl on line 19
+2022-08-16 9:34:46 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\sale_tax_invoice_list.tpl on line 19
+2022-08-16 9:34:46 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\sale_tax_invoice_list.tpl on line 19
+2022-08-16 9:34:46 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\sale_tax_invoice_list.tpl on line 79
+2022-08-16 9:37:34 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-08-16 9:37:34 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-08-16 9:37:34 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 229
+2022-08-16 9:37:34 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\sale_tax_invoice_list.tpl on line 19
+2022-08-16 9:37:34 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\sale_tax_invoice_list.tpl on line 19
+2022-08-16 9:37:34 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\sale_tax_invoice_list.tpl on line 19
+2022-08-16 9:37:34 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\sale_tax_invoice_list.tpl on line 79
+2022-08-16 9:39:15 - PHP Warning:  Declaration of ControllerInventoryDeliveryChallan::validateDelete($primary_key) should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\delivery_challan.php on line 1702
+2022-08-16 9:39:15 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-08-16 9:39:15 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-08-16 9:39:15 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 229
+2022-08-16 9:39:15 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\delivery_challan_list.tpl on line 19
+2022-08-16 9:39:15 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\delivery_challan_list.tpl on line 19
+2022-08-16 9:39:15 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\delivery_challan_list.tpl on line 19
+2022-08-16 9:39:15 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\delivery_challan_list.tpl on line 79
+2022-08-16 9:39:16 - PHP Warning:  Declaration of ControllerInventoryDeliveryChallan::validateDelete($primary_key) should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\delivery_challan.php on line 1702
+2022-08-16 9:39:16 - PHP Notice:  Undefined index: is_post in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\delivery_challan.php on line 126
+2022-08-16 9:39:16 - PHP Notice:  Undefined index: return_qty in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\delivery_challan.php on line 172
+2022-08-16 9:39:16 - PHP Notice:  Undefined index: is_post in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\delivery_challan.php on line 126
+2022-08-16 9:39:16 - PHP Notice:  Undefined index: is_post in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\delivery_challan.php on line 126
+2022-08-16 9:39:16 - PHP Notice:  Undefined index: return_qty in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\delivery_challan.php on line 172
+2022-08-16 9:39:16 - PHP Notice:  Undefined index: is_post in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\delivery_challan.php on line 126
+2022-08-16 9:39:16 - PHP Notice:  Undefined index: is_post in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\delivery_challan.php on line 126
+2022-08-16 9:39:16 - PHP Notice:  Undefined index: return_qty in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\delivery_challan.php on line 172
+2022-08-16 9:40:16 - PHP Warning:  Declaration of ControllerInventoryDeliveryChallan::validateDelete($primary_key) should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\delivery_challan.php on line 1702
+2022-08-16 9:40:17 - PHP Notice:  Undefined index: customer_unit in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\delivery_challan.php on line 1582
+2022-08-16 9:40:17 - PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\php_milwa_trading\system\helper\utility.php on line 397
+2022-08-16 9:40:17 - PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\php_milwa_trading\system\helper\utility.php on line 397
+2022-08-16 9:40:17 - PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\php_milwa_trading\system\helper\utility.php on line 397
+2022-08-16 9:40:17 - PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\php_milwa_trading\system\helper\utility.php on line 397
+2022-08-16 9:40:19 - PHP Warning:  Declaration of ControllerInventoryDeliveryChallan::validateDelete($primary_key) should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\delivery_challan.php on line 1702
+2022-08-16 9:40:20 - PHP Notice:  Undefined index: ref_document_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\delivery_challan.php on line 282
+2022-08-16 9:40:20 - PHP Notice:  Undefined index: ref_document_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\delivery_challan.php on line 282
+2022-08-16 9:40:20 - PHP Notice:  Undefined index: restrict_out_of_stock in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\delivery_challan.php on line 288
+2022-08-16 9:40:20 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-08-16 9:40:20 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-08-16 9:40:20 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 229
+2022-08-16 9:40:22 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\delivery_challan_form.tpl on line 18
+2022-08-16 9:40:22 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\delivery_challan_form.tpl on line 18
+2022-08-16 9:40:22 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\delivery_challan_form.tpl on line 18
+2022-08-16 9:40:22 - PHP Notice:  Undefined variable: action in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\delivery_challan_form.tpl on line 84
+2022-08-16 9:40:22 - PHP Notice:  Undefined variable: partner_types in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\delivery_challan_form.tpl on line 125
+2022-08-16 9:40:22 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\delivery_challan_form.tpl on line 125
+2022-08-16 9:40:22 - PHP Notice:  Undefined variable: customers in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\delivery_challan_form.tpl on line 172
+2022-08-16 9:40:22 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\delivery_challan_form.tpl on line 172
+2022-08-16 9:40:22 - PHP Notice:  Undefined variable: ref_documents in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\delivery_challan_form.tpl on line 193
+2022-08-16 9:40:22 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\delivery_challan_form.tpl on line 193
+2022-08-16 9:40:22 - PHP Notice:  Undefined variable: last_rate in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\delivery_challan_form.tpl on line 234
+2022-08-16 9:40:22 - PHP Notice:  Undefined index: ref_document_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\delivery_challan_form.tpl on line 269
+2022-08-16 9:40:22 - PHP Notice:  Undefined index: ref_document_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\delivery_challan_form.tpl on line 269
+2022-08-16 9:40:22 - PHP Notice:  Undefined variable: ref_document_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\delivery_challan_form.tpl on line 413
+2022-08-16 9:40:22 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\delivery_challan_form.tpl on line 519
+2022-08-16 10:40:49 - PHP Warning:  Declaration of ControllerInventoryDeliveryChallan::validateDelete($primary_key) should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\delivery_challan.php on line 1691
+2022-08-16 10:40:51 - PHP Notice:  Undefined index: customer_unit in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\delivery_challan.php on line 1582
+2022-08-16 10:40:51 - PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\php_milwa_trading\system\helper\utility.php on line 397
+2022-08-16 10:40:51 - PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\php_milwa_trading\system\helper\utility.php on line 397
+2022-08-16 11:09:03 - PHP Warning:  Declaration of ControllerInventoryDeliveryChallan::validateDelete($primary_key) should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\delivery_challan.php on line 1691
+2022-08-16 11:09:03 - PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in C:\xampp\htdocs\php_milwa_trading\system\database\dbmysqli.php on line 93
+2022-08-16 11:09:06 - PHP Warning:  Declaration of ControllerInventoryDeliveryChallan::validateDelete($primary_key) should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\delivery_challan.php on line 1691
+2022-08-16 11:09:08 - PHP Notice:  Undefined index: customer_unit in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\delivery_challan.php on line 1582
+2022-08-16 11:09:08 - PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\php_milwa_trading\system\helper\utility.php on line 397
+2022-08-16 11:09:08 - PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\php_milwa_trading\system\helper\utility.php on line 397
+2022-08-16 11:09:10 - PHP Warning:  Declaration of ControllerInventoryDeliveryChallan::validateDelete($primary_key) should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\delivery_challan.php on line 1691
+2022-08-16 11:09:10 - PHP Notice:  Undefined index: ref_document_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\delivery_challan.php on line 282
+2022-08-16 11:09:10 - PHP Notice:  Undefined index: ref_document_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\delivery_challan.php on line 282
+2022-08-16 11:09:11 - PHP Notice:  Undefined index: restrict_out_of_stock in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\delivery_challan.php on line 288
+2022-08-16 11:09:11 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-08-16 11:09:11 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-08-16 11:09:11 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 229
+2022-08-16 11:09:11 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\delivery_challan_form.tpl on line 18
+2022-08-16 11:09:11 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\delivery_challan_form.tpl on line 18
+2022-08-16 11:09:11 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\delivery_challan_form.tpl on line 18
+2022-08-16 11:09:11 - PHP Notice:  Undefined variable: action in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\delivery_challan_form.tpl on line 84
+2022-08-16 11:09:11 - PHP Notice:  Undefined variable: partner_types in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\delivery_challan_form.tpl on line 125
+2022-08-16 11:09:11 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\delivery_challan_form.tpl on line 125
+2022-08-16 11:09:11 - PHP Notice:  Undefined variable: customers in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\delivery_challan_form.tpl on line 172
+2022-08-16 11:09:11 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\delivery_challan_form.tpl on line 172
+2022-08-16 11:09:11 - PHP Notice:  Undefined variable: ref_documents in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\delivery_challan_form.tpl on line 193
+2022-08-16 11:09:11 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\delivery_challan_form.tpl on line 193
+2022-08-16 11:09:11 - PHP Notice:  Undefined variable: last_rate in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\delivery_challan_form.tpl on line 234
+2022-08-16 11:09:11 - PHP Notice:  Undefined index: ref_document_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\delivery_challan_form.tpl on line 269
+2022-08-16 11:09:11 - PHP Notice:  Undefined index: ref_document_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\delivery_challan_form.tpl on line 269
+2022-08-16 11:09:11 - PHP Notice:  Undefined variable: ref_document_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\delivery_challan_form.tpl on line 413
+2022-08-16 11:09:11 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\delivery_challan_form.tpl on line 519
+2022-08-16 11:09:34 - PHP Warning:  Declaration of ControllerInventoryDeliveryChallan::validateDelete($primary_key) should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\delivery_challan.php on line 1691
+2022-08-16 11:09:34 - PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in C:\xampp\htdocs\php_milwa_trading\system\database\dbmysqli.php on line 93
+2022-08-16 11:09:37 - PHP Warning:  Declaration of ControllerInventoryDeliveryChallan::validateDelete($primary_key) should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\delivery_challan.php on line 1691
+2022-08-16 11:09:38 - PHP Notice:  Undefined index: ref_document_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\delivery_challan.php on line 282
+2022-08-16 11:09:38 - PHP Notice:  Undefined index: ref_document_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\delivery_challan.php on line 282
+2022-08-16 11:09:38 - PHP Notice:  Undefined index: restrict_out_of_stock in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\delivery_challan.php on line 288
+2022-08-16 11:09:38 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-08-16 11:09:38 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-08-16 11:09:38 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 229
+2022-08-16 11:09:38 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\delivery_challan_form.tpl on line 18
+2022-08-16 11:09:38 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\delivery_challan_form.tpl on line 18
+2022-08-16 11:09:38 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\delivery_challan_form.tpl on line 18
+2022-08-16 11:09:38 - PHP Notice:  Undefined variable: action in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\delivery_challan_form.tpl on line 84
+2022-08-16 11:09:38 - PHP Notice:  Undefined variable: partner_types in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\delivery_challan_form.tpl on line 125
+2022-08-16 11:09:38 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\delivery_challan_form.tpl on line 125
+2022-08-16 11:09:38 - PHP Notice:  Undefined variable: customers in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\delivery_challan_form.tpl on line 172
+2022-08-16 11:09:38 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\delivery_challan_form.tpl on line 172
+2022-08-16 11:09:38 - PHP Notice:  Undefined variable: ref_documents in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\delivery_challan_form.tpl on line 193
+2022-08-16 11:09:38 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\delivery_challan_form.tpl on line 193
+2022-08-16 11:09:38 - PHP Notice:  Undefined variable: last_rate in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\delivery_challan_form.tpl on line 234
+2022-08-16 11:09:38 - PHP Notice:  Undefined index: ref_document_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\delivery_challan_form.tpl on line 269
+2022-08-16 11:09:38 - PHP Notice:  Undefined index: ref_document_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\delivery_challan_form.tpl on line 269
+2022-08-16 11:09:38 - PHP Notice:  Undefined variable: ref_document_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\delivery_challan_form.tpl on line 413
+2022-08-16 11:09:38 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\delivery_challan_form.tpl on line 519
+2022-08-16 11:09:41 - PHP Warning:  Declaration of ControllerInventoryDeliveryChallan::validateDelete($primary_key) should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\delivery_challan.php on line 1691
+2022-08-16 11:09:42 - PHP Notice:  Undefined index: customer_unit in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\delivery_challan.php on line 1582
+2022-08-16 11:09:42 - PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\php_milwa_trading\system\helper\utility.php on line 397
+2022-08-16 11:09:42 - PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\php_milwa_trading\system\helper\utility.php on line 397
+2022-08-16 11:44:43 - PHP Warning:  Declaration of ControllerInventoryDeliveryChallan::validateDelete($primary_key) should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\delivery_challan.php on line 1727
+2022-08-16 11:44:44 - PHP Notice:  Undefined index: customer_unit in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\delivery_challan.php on line 1582
+2022-08-16 11:44:44 - PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\php_milwa_trading\system\helper\utility.php on line 397
+2022-08-16 11:44:44 - PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\php_milwa_trading\system\helper\utility.php on line 397
+2022-08-16 11:44:44 - PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\php_milwa_trading\system\helper\utility.php on line 397
+2022-08-16 11:44:44 - PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\php_milwa_trading\system\helper\utility.php on line 397
+2022-08-16 11:48:24 - PHP Warning:  Declaration of ControllerInventoryDeliveryChallan::validateDelete($primary_key) should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\delivery_challan.php on line 1727
+2022-08-16 11:48:24 - PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in C:\xampp\htdocs\php_milwa_trading\system\database\dbmysqli.php on line 93
+2022-08-16 11:48:28 - PHP Warning:  Declaration of ControllerInventoryDeliveryChallan::validateDelete($primary_key) should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\delivery_challan.php on line 1727
+2022-08-16 11:48:29 - PHP Notice:  Undefined index: ref_document_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\delivery_challan.php on line 282
+2022-08-16 11:48:29 - PHP Notice:  Undefined index: ref_document_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\delivery_challan.php on line 282
+2022-08-16 11:48:29 - PHP Notice:  Undefined index: restrict_out_of_stock in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\delivery_challan.php on line 288
+2022-08-16 11:48:29 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-08-16 11:48:29 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-08-16 11:48:29 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 229
+2022-08-16 11:48:29 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\delivery_challan_form.tpl on line 18
+2022-08-16 11:48:29 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\delivery_challan_form.tpl on line 18
+2022-08-16 11:48:29 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\delivery_challan_form.tpl on line 18
+2022-08-16 11:48:29 - PHP Notice:  Undefined variable: action in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\delivery_challan_form.tpl on line 84
+2022-08-16 11:48:29 - PHP Notice:  Undefined variable: partner_types in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\delivery_challan_form.tpl on line 125
+2022-08-16 11:48:29 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\delivery_challan_form.tpl on line 125
+2022-08-16 11:48:29 - PHP Notice:  Undefined variable: customers in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\delivery_challan_form.tpl on line 172
+2022-08-16 11:48:29 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\delivery_challan_form.tpl on line 172
+2022-08-16 11:48:29 - PHP Notice:  Undefined variable: ref_documents in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\delivery_challan_form.tpl on line 193
+2022-08-16 11:48:29 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\delivery_challan_form.tpl on line 193
+2022-08-16 11:48:29 - PHP Notice:  Undefined variable: last_rate in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\delivery_challan_form.tpl on line 234
+2022-08-16 11:48:29 - PHP Notice:  Undefined index: ref_document_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\delivery_challan_form.tpl on line 269
+2022-08-16 11:48:29 - PHP Notice:  Undefined index: ref_document_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\delivery_challan_form.tpl on line 269
+2022-08-16 11:48:29 - PHP Notice:  Undefined variable: ref_document_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\delivery_challan_form.tpl on line 413
+2022-08-16 11:48:29 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\delivery_challan_form.tpl on line 519
+2022-08-16 11:48:32 - PHP Warning:  Declaration of ControllerInventoryDeliveryChallan::validateDelete($primary_key) should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\delivery_challan.php on line 1727
+2022-08-16 11:48:33 - PHP Notice:  Undefined index: customer_unit in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\delivery_challan.php on line 1582
+2022-08-16 11:48:33 - PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\php_milwa_trading\system\helper\utility.php on line 397
+2022-08-16 11:48:33 - PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\php_milwa_trading\system\helper\utility.php on line 397
+2022-08-16 11:48:33 - PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\php_milwa_trading\system\helper\utility.php on line 397
+2022-08-16 11:48:33 - PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\php_milwa_trading\system\helper\utility.php on line 397

@@ -1,0 +1,347 @@
+2022-06-17 11:23:42 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-06-17 11:23:42 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-06-17 11:23:42 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 229
+2022-06-17 11:23:43 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\purchase_invoice_list.tpl on line 19
+2022-06-17 11:23:43 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\purchase_invoice_list.tpl on line 19
+2022-06-17 11:23:43 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\purchase_invoice_list.tpl on line 19
+2022-06-17 11:23:43 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\purchase_invoice_list.tpl on line 78
+2022-06-17 11:25:04 - PHP Notice:  Undefined index: product_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\purchase_invoice.php on line 208
+2022-06-17 11:25:05 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-06-17 11:25:05 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-06-17 11:25:05 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 229
+2022-06-17 11:25:06 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\purchase_invoice_form.tpl on line 19
+2022-06-17 11:25:06 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\purchase_invoice_form.tpl on line 19
+2022-06-17 11:25:06 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\purchase_invoice_form.tpl on line 19
+2022-06-17 11:25:06 - PHP Notice:  Undefined variable: action in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\purchase_invoice_form.tpl on line 80
+2022-06-17 11:25:06 - PHP Notice:  Undefined index: payment_type in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\purchase_invoice_form.tpl on line 86
+2022-06-17 11:25:06 - PHP Notice:  Undefined variable: payment_type in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\purchase_invoice_form.tpl on line 91
+2022-06-17 11:25:06 - PHP Notice:  Undefined variable: payment_type in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\purchase_invoice_form.tpl on line 99
+2022-06-17 11:25:06 - PHP Notice:  Undefined index: href in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\purchase_invoice_form.tpl on line 284
+2022-06-17 11:25:06 - PHP Notice:  Undefined index: href in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\purchase_invoice_form.tpl on line 284
+2022-06-17 11:25:06 - PHP Notice:  Undefined variable: net_unit_cost_master in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\purchase_invoice_form.tpl on line 442
+2022-06-17 11:25:06 - PHP Notice:  Undefined variable: products in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\purchase_invoice_form.tpl on line 600
+2022-06-17 11:25:06 - PHP Notice:  Undefined variable: sales_tax_adjustable_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\purchase_invoice_form.tpl on line 605
+2022-06-17 11:25:06 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\purchase_invoice_form.tpl on line 721
+2022-06-17 11:27:19 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-06-17 11:27:19 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-06-17 11:27:19 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 229
+2022-06-17 11:27:19 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\quotation_list.tpl on line 19
+2022-06-17 11:27:19 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\quotation_list.tpl on line 19
+2022-06-17 11:27:19 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\quotation_list.tpl on line 19
+2022-06-17 11:27:19 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\quotation_list.tpl on line 77
+2022-06-17 11:27:24 - PHP Notice:  Undefined variable: arrRows in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\quotation.php on line 768
+2022-06-17 12:58:35 - PHP Notice:  Undefined variable: arrRows in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\quotation.php on line 768
+2022-06-17 12:58:39 - PHP Notice:  Undefined index: case_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\home.php on line 55
+2022-06-17 12:58:39 - PHP Notice:  Undefined index: case_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\home.php on line 56
+2022-06-17 12:58:49 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-06-17 12:58:49 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-06-17 12:58:49 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 229
+2022-06-17 12:58:50 - PHP Notice:  Undefined variable: sale_order_details in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\home.tpl on line 174
+2022-06-17 12:58:50 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\home.tpl on line 174
+2022-06-17 12:58:50 - PHP Notice:  Undefined variable: bank_receipts in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\home.tpl on line 258
+2022-06-17 12:58:50 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\home.tpl on line 258
+2022-06-17 12:58:50 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-06-17 12:58:50 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-06-17 12:58:50 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 229
+2022-06-17 12:58:51 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\quotation_list.tpl on line 19
+2022-06-17 12:58:51 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\quotation_list.tpl on line 19
+2022-06-17 12:58:51 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\quotation_list.tpl on line 19
+2022-06-17 12:58:51 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\quotation_list.tpl on line 77
+2022-06-17 13:34:53 - PHP Notice:  Undefined variable: arrRows in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\quotation.php on line 768
+2022-06-17 13:45:13 - PHP Warning:  Declaration of ControllerInventoryDeliveryChallan::validateDelete($primary_key) should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\delivery_challan.php on line 1615
+2022-06-17 13:45:13 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-06-17 13:45:13 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-06-17 13:45:13 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 229
+2022-06-17 13:45:13 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\delivery_challan_list.tpl on line 19
+2022-06-17 13:45:13 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\delivery_challan_list.tpl on line 19
+2022-06-17 13:45:13 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\delivery_challan_list.tpl on line 19
+2022-06-17 13:45:13 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\delivery_challan_list.tpl on line 79
+2022-06-17 13:45:14 - PHP Warning:  Declaration of ControllerInventoryDeliveryChallan::validateDelete($primary_key) should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\delivery_challan.php on line 1615
+2022-06-17 13:45:15 - PHP Notice:  Undefined index: is_post in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\delivery_challan.php on line 125
+2022-06-17 13:45:15 - PHP Notice:  Undefined index: return_qty in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\delivery_challan.php on line 171
+2022-06-17 13:45:27 - PHP Warning:  Declaration of ControllerInventoryDeliveryChallan::validateDelete($primary_key) should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\delivery_challan.php on line 1615
+2022-06-17 13:45:28 - PHP Notice:  Undefined index: customer_unit in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\delivery_challan.php on line 1547
+2022-06-17 13:45:55 - PHP Warning:  Declaration of ControllerSetupCustomer::validateDelete() should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 466
+2022-06-17 13:45:55 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-06-17 13:45:55 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-06-17 13:45:55 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 229
+2022-06-17 13:45:55 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\customer_list.tpl on line 19
+2022-06-17 13:45:55 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\customer_list.tpl on line 19
+2022-06-17 13:45:55 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\customer_list.tpl on line 19
+2022-06-17 13:45:55 - PHP Notice:  Undefined variable: partner_category_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\customer_list.tpl on line 46
+2022-06-17 13:45:55 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\customer_list.tpl on line 107
+2022-06-17 13:45:57 - PHP Warning:  Declaration of ControllerSetupCustomer::validateDelete() should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 466
+2022-06-17 13:45:57 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-06-17 13:45:57 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-06-17 13:45:57 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-06-17 13:45:57 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-06-17 13:45:59 - PHP Warning:  Declaration of ControllerSetupCustomer::validateDelete() should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 466
+2022-06-17 13:45:59 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-06-17 13:45:59 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-06-17 13:45:59 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 229
+2022-06-17 13:45:59 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\customer_form.tpl on line 18
+2022-06-17 13:45:59 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\customer_form.tpl on line 18
+2022-06-17 13:45:59 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\customer_form.tpl on line 18
+2022-06-17 13:45:59 - PHP Notice:  Undefined variable: action in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\customer_form.tpl on line 59
+2022-06-17 13:45:59 - PHP Notice:  Undefined index: receivable_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\customer_form.tpl on line 181
+2022-06-17 13:45:59 - PHP Notice:  Undefined index: advance_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\customer_form.tpl on line 195
+2022-06-17 13:45:59 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\customer_form.tpl on line 223
+2022-06-17 13:46:09 - PHP Warning:  Declaration of ControllerSetupCustomer::validateDelete() should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 466
+2022-06-17 13:46:09 - PHP Warning:  Declaration of ControllerSetupCustomer::validateDelete() should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 466
+2022-06-17 13:46:11 - PHP Warning:  Declaration of ControllerSetupCustomer::validateDelete() should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 466
+2022-06-17 13:46:11 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-06-17 13:46:11 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-06-17 13:46:11 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 229
+2022-06-17 13:46:11 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\customer_list.tpl on line 19
+2022-06-17 13:46:11 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\customer_list.tpl on line 19
+2022-06-17 13:46:11 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\customer_list.tpl on line 19
+2022-06-17 13:46:11 - PHP Notice:  Undefined variable: partner_category_id in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\customer_list.tpl on line 46
+2022-06-17 13:46:11 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\setup\customer_list.tpl on line 107
+2022-06-17 13:46:12 - PHP Warning:  Declaration of ControllerSetupCustomer::validateDelete() should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 466
+2022-06-17 13:46:12 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-06-17 13:46:12 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-06-17 13:46:12 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 200
+2022-06-17 13:46:12 - PHP Notice:  Undefined index: lang in C:\xampp\htdocs\php_milwa_trading\admin\controller\setup\customer.php on line 207
+2022-06-17 13:46:12 - PHP Warning:  Declaration of ControllerInventoryDeliveryChallan::validateDelete($primary_key) should be compatible with HController::validateDelete($id = '') in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\delivery_challan.php on line 1615
+2022-06-17 13:46:13 - PHP Notice:  Undefined index: customer_unit in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\delivery_challan.php on line 1547
+2022-06-17 13:47:18 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-06-17 13:47:18 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-06-17 13:47:18 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 229
+2022-06-17 13:47:18 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\sale_tax_invoice_list.tpl on line 19
+2022-06-17 13:47:18 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\sale_tax_invoice_list.tpl on line 19
+2022-06-17 13:47:18 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\sale_tax_invoice_list.tpl on line 19
+2022-06-17 13:47:18 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\sale_tax_invoice_list.tpl on line 79
+2022-06-17 13:47:47 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 2377
+2022-06-17 13:47:48 - PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\php_milwa_trading\system\helper\utility.php on line 397
+2022-06-17 13:47:48 - PHP Notice:  Undefined offset: 1 in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 2511
+2022-06-17 13:48:56 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 2377
+2022-06-17 13:48:58 - PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\php_milwa_trading\system\helper\utility.php on line 397
+2022-06-17 13:48:58 - PHP Notice:  Undefined offset: 1 in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 2511
+2022-06-17 13:50:18 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 2377
+2022-06-17 13:50:19 - PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\php_milwa_trading\system\helper\utility.php on line 397
+2022-06-17 13:50:19 - PHP Notice:  Undefined offset: 1 in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 2511
+2022-06-17 14:18:36 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 2377
+2022-06-17 14:18:37 - PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\php_milwa_trading\system\helper\utility.php on line 397
+2022-06-17 14:18:37 - PHP Notice:  Undefined offset: 1 in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 2511
+2022-06-17 14:30:20 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 2377
+2022-06-17 14:30:22 - PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\php_milwa_trading\system\helper\utility.php on line 397
+2022-06-17 14:30:22 - PHP Notice:  Undefined offset: 1 in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 2511
+2022-06-17 14:30:26 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 2377
+2022-06-17 14:30:28 - PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\php_milwa_trading\system\helper\utility.php on line 397
+2022-06-17 14:30:28 - PHP Notice:  Undefined offset: 1 in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 2511
+2022-06-17 14:30:34 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 2377
+2022-06-17 14:30:35 - PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\php_milwa_trading\system\helper\utility.php on line 397
+2022-06-17 14:30:35 - PHP Notice:  Undefined offset: 1 in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 2511
+2022-06-17 14:31:47 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 2377
+2022-06-17 14:31:49 - PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\php_milwa_trading\system\helper\utility.php on line 397
+2022-06-17 14:31:49 - PHP Notice:  Undefined offset: 1 in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 2511
+2022-06-17 14:32:10 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 2377
+2022-06-17 14:32:11 - PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\php_milwa_trading\system\helper\utility.php on line 397
+2022-06-17 14:32:11 - PHP Notice:  Undefined offset: 1 in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 2511
+2022-06-17 14:32:21 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 2377
+2022-06-17 14:32:22 - PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\php_milwa_trading\system\helper\utility.php on line 397
+2022-06-17 14:32:22 - PHP Notice:  Undefined offset: 1 in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 2511
+2022-06-17 14:54:05 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 2377
+2022-06-17 14:54:06 - PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\php_milwa_trading\system\helper\utility.php on line 397
+2022-06-17 14:54:06 - PHP Notice:  Undefined offset: 1 in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 2511
+2022-06-17 14:54:55 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 2377
+2022-06-17 14:54:57 - PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\php_milwa_trading\system\helper\utility.php on line 397
+2022-06-17 14:54:57 - PHP Notice:  Undefined offset: 1 in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 2511
+2022-06-17 14:55:06 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 2377
+2022-06-17 14:55:08 - PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\php_milwa_trading\system\helper\utility.php on line 397
+2022-06-17 14:55:08 - PHP Notice:  Undefined offset: 1 in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 2511
+2022-06-17 14:55:33 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 2377
+2022-06-17 14:55:34 - PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\php_milwa_trading\system\helper\utility.php on line 397
+2022-06-17 14:55:34 - PHP Notice:  Undefined offset: 1 in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 2511
+2022-06-17 18:07:29 - PHP Notice:  Undefined index: from_time in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\login.php on line 102
+2022-06-17 18:07:29 - PHP Notice:  Undefined index: to_time in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\login.php on line 103
+2022-06-17 18:07:32 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\preset.tpl on line 52
+2022-06-17 18:07:35 - PHP Notice:  Undefined index: case_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\home.php on line 55
+2022-06-17 18:07:35 - PHP Notice:  Undefined index: case_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\home.php on line 56
+2022-06-17 18:07:35 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-06-17 18:07:35 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-06-17 18:07:35 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 229
+2022-06-17 18:07:36 - PHP Notice:  Undefined variable: sale_order_details in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\home.tpl on line 174
+2022-06-17 18:07:36 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\home.tpl on line 174
+2022-06-17 18:07:36 - PHP Notice:  Undefined variable: bank_receipts in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\home.tpl on line 258
+2022-06-17 18:07:36 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\home.tpl on line 258
+2022-06-17 18:07:42 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-06-17 18:07:42 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-06-17 18:07:42 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 229
+2022-06-17 18:07:42 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\sale_tax_invoice_list.tpl on line 19
+2022-06-17 18:07:42 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\sale_tax_invoice_list.tpl on line 19
+2022-06-17 18:07:42 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\sale_tax_invoice_list.tpl on line 19
+2022-06-17 18:07:42 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\sale_tax_invoice_list.tpl on line 79
+2022-06-17 18:07:48 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 2377
+2022-06-17 18:07:49 - PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\php_milwa_trading\system\helper\utility.php on line 397
+2022-06-17 18:07:49 - PHP Notice:  Undefined offset: 1 in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 2511
+2022-06-17 18:07:51 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 2377
+2022-06-17 18:07:53 - PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\php_milwa_trading\system\helper\utility.php on line 397
+2022-06-17 18:07:53 - PHP Notice:  Undefined offset: 1 in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 2511
+2022-06-17 18:08:50 - PHP Warning:  implode(): Invalid arguments passed in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 286
+2022-06-17 18:08:50 - PHP Notice:  Undefined index: announcement_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 314
+2022-06-17 18:08:50 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-06-17 18:08:50 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-06-17 18:08:50 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 229
+2022-06-17 18:08:50 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 19
+2022-06-17 18:08:50 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 19
+2022-06-17 18:08:50 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 19
+2022-06-17 18:08:50 - PHP Notice:  Undefined variable: action_cash_receipt in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 29
+2022-06-17 18:08:50 - PHP Notice:  Undefined variable: action in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 92
+2022-06-17 18:08:50 - PHP Notice:  Undefined variable: last_rate in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 293
+2022-06-17 18:08:50 - PHP Notice:  Undefined index: href in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 333
+2022-06-17 18:08:50 - PHP Notice:  Undefined variable: products in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 354
+2022-06-17 18:08:51 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 354
+2022-06-17 18:08:51 - PHP Notice:  Undefined index: href in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 333
+2022-06-17 18:08:51 - PHP Notice:  Undefined variable: products in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 354
+2022-06-17 18:08:51 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 354
+2022-06-17 18:08:51 - PHP Notice:  Undefined variable: tax_per in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 462
+2022-06-17 18:08:51 - PHP Notice:  Undefined variable: action_cash_receipt in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 503
+2022-06-17 18:08:51 - PHP Notice:  Undefined variable: products in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 574
+2022-06-17 18:08:51 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\sale_tax_invoice_form.tpl on line 716
+2022-06-17 18:09:07 - PHP Notice:  Undefined index: page in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 397
+2022-06-17 18:09:08 - PHP Notice:  Undefined index: page in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 397
+2022-06-17 18:09:11 - PHP Notice:  Undefined index: page in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 397
+2022-06-17 18:09:12 - PHP Notice:  Undefined index: branch_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\function.php on line 168
+2022-06-17 18:09:12 - PHP Notice:  Undefined index: rate in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\function.php on line 180
+2022-06-17 18:09:14 - PHP Notice:  Undefined index: page in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 397
+2022-06-17 18:09:14 - PHP Notice:  Undefined index: page in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 397
+2022-06-17 18:09:15 - PHP Notice:  Undefined index: branch_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\function.php on line 168
+2022-06-17 18:09:15 - PHP Notice:  Undefined index: rate in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\function.php on line 180
+2022-06-17 18:09:16 - PHP Notice:  Undefined index: page in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 397
+2022-06-17 18:09:17 - PHP Notice:  Undefined index: page in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 397
+2022-06-17 18:09:18 - PHP Notice:  Undefined index: branch_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\function.php on line 168
+2022-06-17 18:09:18 - PHP Notice:  Undefined index: rate in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\function.php on line 180
+2022-06-17 18:09:19 - PHP Notice:  Undefined index: page in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 397
+2022-06-17 18:09:20 - PHP Notice:  Undefined index: page in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 397
+2022-06-17 18:09:21 - PHP Notice:  Undefined index: page in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 397
+2022-06-17 18:09:22 - PHP Notice:  Undefined index: branch_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\function.php on line 168
+2022-06-17 18:09:22 - PHP Notice:  Undefined index: rate in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\function.php on line 180
+2022-06-17 18:09:23 - PHP Notice:  Undefined index: page in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 397
+2022-06-17 18:09:24 - PHP Notice:  Undefined index: page in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 397
+2022-06-17 18:09:24 - PHP Notice:  Undefined index: branch_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\function.php on line 168
+2022-06-17 18:09:24 - PHP Notice:  Undefined index: rate in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\function.php on line 180
+2022-06-17 18:09:26 - PHP Notice:  Undefined index: page in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 397
+2022-06-17 18:09:26 - PHP Notice:  Undefined index: page in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 397
+2022-06-17 18:09:27 - PHP Notice:  Undefined index: branch_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\function.php on line 168
+2022-06-17 18:09:27 - PHP Notice:  Undefined index: rate in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\function.php on line 180
+2022-06-17 18:09:29 - PHP Notice:  Undefined index: page in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 397
+2022-06-17 18:09:30 - PHP Notice:  Undefined index: page in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 397
+2022-06-17 18:09:31 - PHP Notice:  Undefined index: page in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 397
+2022-06-17 18:09:32 - PHP Notice:  Undefined index: branch_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\function.php on line 168
+2022-06-17 18:09:32 - PHP Notice:  Undefined index: rate in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\function.php on line 180
+2022-06-17 18:09:34 - PHP Notice:  Undefined index: page in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 397
+2022-06-17 18:09:35 - PHP Notice:  Undefined index: page in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 397
+2022-06-17 18:09:36 - PHP Notice:  Undefined index: page in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 397
+2022-06-17 18:09:37 - PHP Notice:  Undefined index: branch_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\function.php on line 168
+2022-06-17 18:09:37 - PHP Notice:  Undefined index: rate in C:\xampp\htdocs\php_milwa_trading\admin\controller\common\function.php on line 180
+2022-06-17 18:10:12 - PHP Notice:  Undefined index: bilty_date in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 1379
+2022-06-17 18:10:12 - PHP Notice:  Undefined index: exempted in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 1388
+2022-06-17 18:10:13 - PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in C:\xampp\htdocs\php_milwa_trading\system\database\dbmysqli.php on line 93
+2022-06-17 18:10:15 - PHP Notice:  Undefined index: is_auto_increment in C:\xampp\htdocs\php_milwa_trading\system\engine\hmodel.php on line 196
+2022-06-17 18:10:16 - PHP Notice:  Undefined index: column in C:\xampp\htdocs\php_milwa_trading\system\engine\hmodel.php on line 198
+2022-06-17 18:10:16 - PHP Notice:  Undefined index: column in C:\xampp\htdocs\php_milwa_trading\system\engine\hmodel.php on line 199
+2022-06-17 18:10:16 - PHP Notice:  Undefined index: is_auto_increment in C:\xampp\htdocs\php_milwa_trading\system\engine\hmodel.php on line 217
+2022-06-17 18:10:16 - PHP Notice:  Undefined index: column in C:\xampp\htdocs\php_milwa_trading\system\engine\hmodel.php on line 220
+2022-06-17 18:10:16 - PHP Notice:  Undefined index: container_no in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 1574
+2022-06-17 18:10:16 - PHP Notice:  Undefined index: batch_no in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 1575
+2022-06-17 18:10:16 - PHP Notice:  Undefined index: ref_document_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 1612
+2022-06-17 18:10:16 - PHP Notice:  Undefined index: ref_document_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 1632
+2022-06-17 18:10:16 - PHP Notice:  Undefined index: is_auto_increment in C:\xampp\htdocs\php_milwa_trading\system\engine\hmodel.php on line 196
+2022-06-17 18:10:16 - PHP Notice:  Undefined index: column in C:\xampp\htdocs\php_milwa_trading\system\engine\hmodel.php on line 198
+2022-06-17 18:10:16 - PHP Notice:  Undefined index: column in C:\xampp\htdocs\php_milwa_trading\system\engine\hmodel.php on line 199
+2022-06-17 18:10:16 - PHP Notice:  Undefined index: is_auto_increment in C:\xampp\htdocs\php_milwa_trading\system\engine\hmodel.php on line 217
+2022-06-17 18:10:16 - PHP Notice:  Undefined index: column in C:\xampp\htdocs\php_milwa_trading\system\engine\hmodel.php on line 220
+2022-06-17 18:10:16 - PHP Notice:  Undefined index: container_no in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 1574
+2022-06-17 18:10:16 - PHP Notice:  Undefined index: batch_no in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 1575
+2022-06-17 18:10:16 - PHP Notice:  Undefined index: ref_document_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 1612
+2022-06-17 18:10:16 - PHP Notice:  Undefined index: ref_document_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 1632
+2022-06-17 18:10:16 - PHP Notice:  Undefined index: is_auto_increment in C:\xampp\htdocs\php_milwa_trading\system\engine\hmodel.php on line 196
+2022-06-17 18:10:16 - PHP Notice:  Undefined index: column in C:\xampp\htdocs\php_milwa_trading\system\engine\hmodel.php on line 198
+2022-06-17 18:10:16 - PHP Notice:  Undefined index: column in C:\xampp\htdocs\php_milwa_trading\system\engine\hmodel.php on line 199
+2022-06-17 18:10:16 - PHP Notice:  Undefined index: is_auto_increment in C:\xampp\htdocs\php_milwa_trading\system\engine\hmodel.php on line 217
+2022-06-17 18:10:16 - PHP Notice:  Undefined index: column in C:\xampp\htdocs\php_milwa_trading\system\engine\hmodel.php on line 220
+2022-06-17 18:10:17 - PHP Notice:  Undefined index: container_no in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 1574
+2022-06-17 18:10:17 - PHP Notice:  Undefined index: batch_no in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 1575
+2022-06-17 18:10:17 - PHP Notice:  Undefined index: ref_document_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 1612
+2022-06-17 18:10:17 - PHP Notice:  Undefined index: ref_document_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 1632
+2022-06-17 18:10:17 - PHP Notice:  Undefined index: is_auto_increment in C:\xampp\htdocs\php_milwa_trading\system\engine\hmodel.php on line 196
+2022-06-17 18:10:17 - PHP Notice:  Undefined index: column in C:\xampp\htdocs\php_milwa_trading\system\engine\hmodel.php on line 198
+2022-06-17 18:10:17 - PHP Notice:  Undefined index: column in C:\xampp\htdocs\php_milwa_trading\system\engine\hmodel.php on line 199
+2022-06-17 18:10:17 - PHP Notice:  Undefined index: is_auto_increment in C:\xampp\htdocs\php_milwa_trading\system\engine\hmodel.php on line 217
+2022-06-17 18:10:17 - PHP Notice:  Undefined index: column in C:\xampp\htdocs\php_milwa_trading\system\engine\hmodel.php on line 220
+2022-06-17 18:10:17 - PHP Notice:  Undefined index: container_no in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 1574
+2022-06-17 18:10:17 - PHP Notice:  Undefined index: batch_no in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 1575
+2022-06-17 18:10:17 - PHP Notice:  Undefined index: ref_document_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 1612
+2022-06-17 18:10:17 - PHP Notice:  Undefined index: ref_document_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 1632
+2022-06-17 18:10:17 - PHP Notice:  Undefined index: is_auto_increment in C:\xampp\htdocs\php_milwa_trading\system\engine\hmodel.php on line 196
+2022-06-17 18:10:17 - PHP Notice:  Undefined index: column in C:\xampp\htdocs\php_milwa_trading\system\engine\hmodel.php on line 198
+2022-06-17 18:10:17 - PHP Notice:  Undefined index: column in C:\xampp\htdocs\php_milwa_trading\system\engine\hmodel.php on line 199
+2022-06-17 18:10:17 - PHP Notice:  Undefined index: is_auto_increment in C:\xampp\htdocs\php_milwa_trading\system\engine\hmodel.php on line 217
+2022-06-17 18:10:17 - PHP Notice:  Undefined index: column in C:\xampp\htdocs\php_milwa_trading\system\engine\hmodel.php on line 220
+2022-06-17 18:10:18 - PHP Notice:  Undefined index: container_no in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 1574
+2022-06-17 18:10:18 - PHP Notice:  Undefined index: batch_no in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 1575
+2022-06-17 18:10:18 - PHP Notice:  Undefined index: ref_document_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 1612
+2022-06-17 18:10:18 - PHP Notice:  Undefined index: ref_document_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 1632
+2022-06-17 18:10:18 - PHP Notice:  Undefined index: is_auto_increment in C:\xampp\htdocs\php_milwa_trading\system\engine\hmodel.php on line 196
+2022-06-17 18:10:18 - PHP Notice:  Undefined index: column in C:\xampp\htdocs\php_milwa_trading\system\engine\hmodel.php on line 198
+2022-06-17 18:10:18 - PHP Notice:  Undefined index: column in C:\xampp\htdocs\php_milwa_trading\system\engine\hmodel.php on line 199
+2022-06-17 18:10:18 - PHP Notice:  Undefined index: is_auto_increment in C:\xampp\htdocs\php_milwa_trading\system\engine\hmodel.php on line 217
+2022-06-17 18:10:18 - PHP Notice:  Undefined index: column in C:\xampp\htdocs\php_milwa_trading\system\engine\hmodel.php on line 220
+2022-06-17 18:10:18 - PHP Notice:  Undefined index: container_no in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 1574
+2022-06-17 18:10:18 - PHP Notice:  Undefined index: batch_no in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 1575
+2022-06-17 18:10:18 - PHP Notice:  Undefined index: ref_document_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 1612
+2022-06-17 18:10:18 - PHP Notice:  Undefined index: ref_document_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 1632
+2022-06-17 18:10:18 - PHP Notice:  Undefined index: is_auto_increment in C:\xampp\htdocs\php_milwa_trading\system\engine\hmodel.php on line 196
+2022-06-17 18:10:18 - PHP Notice:  Undefined index: column in C:\xampp\htdocs\php_milwa_trading\system\engine\hmodel.php on line 198
+2022-06-17 18:10:18 - PHP Notice:  Undefined index: column in C:\xampp\htdocs\php_milwa_trading\system\engine\hmodel.php on line 199
+2022-06-17 18:10:18 - PHP Notice:  Undefined index: is_auto_increment in C:\xampp\htdocs\php_milwa_trading\system\engine\hmodel.php on line 217
+2022-06-17 18:10:18 - PHP Notice:  Undefined index: column in C:\xampp\htdocs\php_milwa_trading\system\engine\hmodel.php on line 220
+2022-06-17 18:10:18 - PHP Notice:  Undefined index: container_no in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 1574
+2022-06-17 18:10:18 - PHP Notice:  Undefined index: batch_no in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 1575
+2022-06-17 18:10:18 - PHP Notice:  Undefined index: ref_document_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 1612
+2022-06-17 18:10:18 - PHP Notice:  Undefined index: ref_document_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 1632
+2022-06-17 18:10:18 - PHP Notice:  Undefined index: is_auto_increment in C:\xampp\htdocs\php_milwa_trading\system\engine\hmodel.php on line 196
+2022-06-17 18:10:18 - PHP Notice:  Undefined index: column in C:\xampp\htdocs\php_milwa_trading\system\engine\hmodel.php on line 198
+2022-06-17 18:10:18 - PHP Notice:  Undefined index: column in C:\xampp\htdocs\php_milwa_trading\system\engine\hmodel.php on line 199
+2022-06-17 18:10:18 - PHP Notice:  Undefined index: is_auto_increment in C:\xampp\htdocs\php_milwa_trading\system\engine\hmodel.php on line 217
+2022-06-17 18:10:19 - PHP Notice:  Undefined index: column in C:\xampp\htdocs\php_milwa_trading\system\engine\hmodel.php on line 220
+2022-06-17 18:10:19 - PHP Notice:  Undefined index: container_no in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 1574
+2022-06-17 18:10:19 - PHP Notice:  Undefined index: batch_no in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 1575
+2022-06-17 18:10:19 - PHP Notice:  Undefined index: ref_document_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 1612
+2022-06-17 18:10:19 - PHP Notice:  Undefined index: ref_document_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 1632
+2022-06-17 18:10:19 - PHP Notice:  Undefined index: is_auto_increment in C:\xampp\htdocs\php_milwa_trading\system\engine\hmodel.php on line 196
+2022-06-17 18:10:19 - PHP Notice:  Undefined index: column in C:\xampp\htdocs\php_milwa_trading\system\engine\hmodel.php on line 198
+2022-06-17 18:10:19 - PHP Notice:  Undefined index: column in C:\xampp\htdocs\php_milwa_trading\system\engine\hmodel.php on line 199
+2022-06-17 18:10:19 - PHP Notice:  Undefined index: is_auto_increment in C:\xampp\htdocs\php_milwa_trading\system\engine\hmodel.php on line 217
+2022-06-17 18:10:19 - PHP Notice:  Undefined index: column in C:\xampp\htdocs\php_milwa_trading\system\engine\hmodel.php on line 220
+2022-06-17 18:10:19 - PHP Notice:  Undefined index: container_no in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 1574
+2022-06-17 18:10:19 - PHP Notice:  Undefined index: batch_no in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 1575
+2022-06-17 18:10:19 - PHP Notice:  Undefined index: ref_document_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 1612
+2022-06-17 18:10:19 - PHP Notice:  Undefined index: ref_document_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 1632
+2022-06-17 18:10:19 - PHP Notice:  Undefined index: is_auto_increment in C:\xampp\htdocs\php_milwa_trading\system\engine\hmodel.php on line 196
+2022-06-17 18:10:19 - PHP Notice:  Undefined index: column in C:\xampp\htdocs\php_milwa_trading\system\engine\hmodel.php on line 198
+2022-06-17 18:10:19 - PHP Notice:  Undefined index: column in C:\xampp\htdocs\php_milwa_trading\system\engine\hmodel.php on line 199
+2022-06-17 18:10:19 - PHP Notice:  Undefined index: is_auto_increment in C:\xampp\htdocs\php_milwa_trading\system\engine\hmodel.php on line 217
+2022-06-17 18:10:19 - PHP Notice:  Undefined index: column in C:\xampp\htdocs\php_milwa_trading\system\engine\hmodel.php on line 220
+2022-06-17 18:10:19 - PHP Notice:  Undefined index: container_no in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 1574
+2022-06-17 18:10:19 - PHP Notice:  Undefined index: batch_no in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 1575
+2022-06-17 18:10:19 - PHP Notice:  Undefined index: ref_document_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 1612
+2022-06-17 18:10:19 - PHP Notice:  Undefined index: ref_document_id in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 1632
+2022-06-17 18:10:19 - PHP Notice:  Undefined index: labour_charges in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 1713
+2022-06-17 18:10:19 - PHP Notice:  Undefined index: misc_charges in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 1726
+2022-06-17 18:10:19 - PHP Notice:  Undefined index: rent_charges in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 1739
+2022-06-17 18:10:19 - PHP Notice:  Undefined index: invoice_type in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 1789
+2022-06-17 18:10:23 - PHP Notice:  Undefined variable: href_gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-06-17 18:10:23 - PHP Notice:  Undefined index: gl_mapping_account in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 66
+2022-06-17 18:10:23 - PHP Notice:  Undefined variable: href_tool_dashboard in C:\xampp\htdocs\php_milwa_trading\admin\view\template\common\column_left.tpl on line 229
+2022-06-17 18:10:23 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\sale_tax_invoice_list.tpl on line 19
+2022-06-17 18:10:23 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\sale_tax_invoice_list.tpl on line 19
+2022-06-17 18:10:23 - PHP Notice:  Undefined index: class in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\sale_tax_invoice_list.tpl on line 19
+2022-06-17 18:10:23 - PHP Notice:  Undefined variable: column_right in C:\xampp\htdocs\php_milwa_trading\admin\view\template\inventory\sale_tax_invoice_list.tpl on line 79
+2022-06-17 18:10:27 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 2377
+2022-06-17 18:10:28 - PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\php_milwa_trading\system\helper\utility.php on line 397
+2022-06-17 18:10:28 - PHP Notice:  Undefined offset: 1 in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 2511
+2022-06-17 18:24:11 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 2377
+2022-06-17 18:24:12 - PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\php_milwa_trading\system\helper\utility.php on line 397
+2022-06-17 18:24:12 - PHP Notice:  Undefined offset: 1 in C:\xampp\htdocs\php_milwa_trading\admin\controller\inventory\sale_tax_invoice.php on line 2511
