@@ -30,8 +30,11 @@
 <body class="hold-transition login-page">
 <div class="login-box">
     <div class="login-logo">
-        <a href="javascript:void(0);"><b><?php echo $lang['heading_title']; ?></b></a>
+       <img src="<?php echo HTTPS_IMAGE.'Mother Pharmacy Logo.png' ?>" style="max-width:140px; margin-bottom:10px;">
+        <br>
+     <b><?php echo $lang['heading_title']; ?></b>
     </div><!-- /.login-logo -->
+
     <div class="login-box-body">
         <p class="login-box-msg"><?php echo $lang['text_session']; ?></p>
         <form action="<?php echo $action; ?>" method="post" enctype="multipart/form-data" id="form">

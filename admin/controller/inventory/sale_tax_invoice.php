@@ -2618,10 +2618,10 @@ class ControllerInventorySaleTaxInvoice extends HController {
         // add a page
         $pdf->AddPage();
         if($pdf->data['company_logo'] != '') {
-            $image_file = DIR_IMAGE.$pdf->data['company_logo'];
-            //$pdf->Image($file, $x='', $y='', $w=0, $h=0, $type='', $link='', $align='', $resize=false, $dpi=300, $palign='', $ismask=false, $imgmask=false, $border=0, $fitbox=false, $hidden=false, $fitonpage=false);
-            $pdf->Image($image_file, 0, 0, 80, '', 'JPG', '', 'T', false, 300, '', false, false, 0, false, false, false);
-            $pdf->Ln(20);
+             $image_file = DIR_IMAGE.$pdf->data['company_logo'];
+            //$this->Image($file, $x='', $y='', $w=0, $h=0, $type='', $link='', $align='', $resize=false, $dpi=300, $palign='', $ismask=false, $imgmask=false, $border=0, $fitbox=false, $hidden=false, $fitonpage=false);
+            $pdf->Image($image_file, 0, 0, 32, '', 'PNG', '', 'T', false, 300, '', false, false, 0, false, false, false);
+            $pdf->Ln(22);
         } else {
             // Set font
             $pdf->SetTextColor(0,0,0);
@@ -2647,6 +2647,8 @@ class ControllerInventorySaleTaxInvoice extends HController {
         $pdf->Cell(0, 4, $pdf->data['report_name'], 0, false, 'C', 0, '', 0, false, 'M', 'M');
         $pdf->SetFont('times', 'B', 9);
         $pdf->Ln(4);
+    
+
         // if($company['ntn_no']) {
         //     $pdf->Cell(30, 4, 'NTN No.', 0, false, 'L', 0, '', 0, false, 'M', 'M');
         //     $pdf->Cell(20, 4, $company['ntn_no'], 0, false, 'L', 0, '', 0, false, 'M', 'M');
@@ -2679,14 +2681,12 @@ class ControllerInventorySaleTaxInvoice extends HController {
         $pdf->Cell(24, 4, 'Invoice To - '.$partner['name'], 0, false, 'L', 0, '', 0, false, 'M', 'M');
         $pdf->setX(31,true);
         $pdf->Cell(20, 4, 'Invoice # '.$invoice['document_identity'], 0, false, 'L', 0, '', 0, false, 'M', 'M');
-        // $pdf->Cell(30, 4, '', 0, false, 'L', 0, '', 0, false, 'M', 'M');
-        // $pdf->Cell(20, 4, $invoice['document_identity'], 0, false, 'R', 0, '', 0, false, 'M', 'M');
-        $pdf->setXY(21,24,true);
-        $pdf->Cell(27.1, 4, '', 0, false, 'L', 0, '', 0, false, 'M', 'M');
-        $pdf->Cell(26, 4, 'Date : '.$invoice_date, 0, false, 'R', 0, '', 0, false, 'M', 'M');
-        $pdf->setXY(6.3,28,true);
-        $pdf->Cell(27.1, 4, '', 0, false, 'L', 0, '', 0, false, 'M', 'M');
+        $pdf->Ln(4);
+        $pdf->Cell(2.6, 4, '', 0, false, 'L', 0, '', 0, false, 'M', 'M');
         $pdf->Cell(24, 4, 'Print By : '.$pdf->data['print_by'], 0, false, 'R', 0, '', 0, false, 'M', 'M');
+        $pdf->Cell(19.1, 4, '', 0, false, 'L', 0, '', 0, false, 'M', 'M');
+        $pdf->Cell(26, 4, 'Date : '.$invoice_date, 0, false, 'R', 0, '', 0, false, 'M', 'M');
+
 
        // $pdf->Cell(24, 4, $partner['mobile'], 0, false, 'L', 0, '', 0, false, 'M', 'M');
         //   if(strlen($invoice['remarks']) < 38){
@@ -2744,7 +2744,12 @@ class ControllerInventorySaleTaxInvoice extends HController {
         //     $pdf->setY(31);
         // }
 
-        $pdf->setY(36);
+        if($pdf->data['company_logo'] !== ''){
+          $pdf->setY(50);
+        }
+        else {
+          $pdf->setY(32);
+        }
         foreach($details as $detail) {
             $sr++;
             if(strlen($detail['description']) < 15) {
