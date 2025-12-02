@@ -5,7 +5,7 @@
 
 
 // Heading
-$_['heading_title'] = 'Invoice';
+$_['heading_title'] = 'Item Invoice';
 
 // Text
 $_['text_delivery_challan'] = 'Delivery Challan';

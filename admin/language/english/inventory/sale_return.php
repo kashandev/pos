@@ -1,7 +1,7 @@
 <?php
 
 // Heading
-$_['heading_title'] = 'Sale Return';
+$_['heading_title'] = 'Item Invoice Return';
 
 // Column 
 $_['document_date'] = 'Document Date';

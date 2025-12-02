@@ -30,7 +30,7 @@
 <body class="hold-transition login-page">
 <div class="login-box">
     <div class="login-logo">
-       <img src="<?php echo HTTPS_IMAGE.'Mother Pharmacy Logo.png' ?>" style="max-width:140px; margin-bottom:10px;">
+       <img src="<?php echo HTTPS_IMAGE.'Mother Pharmacy Logo.png' ?>" style="max-width:140px; height:125px; margin-bottom:10px;">
         <br>
      <b><?php echo $lang['heading_title']; ?></b>
     </div><!-- /.login-logo -->

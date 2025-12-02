@@ -1271,7 +1271,7 @@ class ControllerInventorySaleReturn extends HController {
 
         // set document information
         $pdf->SetCreator(PDF_CREATOR);
-        $pdf->SetAuthor('Huzaifa Khambaty');
+        $pdf->SetAuthor('Kashan');
         $pdf->SetTitle('Sale Return');
         $pdf->SetSubject('Sale Return');
 
@@ -1446,8 +1446,8 @@ class PDF extends TCPDF {
         */
         // Set font
 
-        if($this->data['company_header_print'] != '') {
-            $image_file = DIR_IMAGE.$this->data['company_header_print'];
+        if($this->data['company_image'] != '') {
+            $image_file = DIR_IMAGE.$this->data['company_image'];
             // d($image_file, true);
             // $this->Image($file, $x='', $y='', $w=0, $h=0, $type='', $link='', $align='', $resize=false, $dpi=300, $palign='', $ismask=false, $imgmask=false, $border=0, $fitbox=false, $hidden=false, $fitonpage=false);
             $this->Image($image_file, 5, 5, 200, '', 'PNG', '', 'T', false, 300, '', false, false, 0, false, false, false);
