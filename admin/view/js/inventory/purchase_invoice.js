@@ -266,155 +266,155 @@ function fillGrid($obj) {
     calculateTotal();
 }
 
-$(document).on('click','.btnAddGrid', function() {
-    $html = '';
-    //EnterLKey(this);
-    $html += '<tr id="grid_row_'+$grid_row+'" data-row_id="'+$grid_row+'">';
-    $html += '<td>';
-    //$html += '<a title="Duplicate" class="btn btn-xs btn-primary btnAddDuplicate" href="javascript:void(0);"><i class="fa fa-clone"></i></a>&nbsp;';
-    $html += '<a title="Add" class="btn btn-xs btn-primary btnAddGrid" href="javascript:void(0);"><i class="fa fa-plus"></i></a>&nbsp;';
-    $html += '<a onclick="removeRow(this);" title="Remove" class="btn btn-xs btn-danger" href="javascript:void(0);"><i class="fa fa-times"></i></a>';
-    $html += '</td>';
-    // $html += '<td>';
-    // $html += '<input type="hidden" name="purchase_invoice_details['+$grid_row+'][ref_document_type_id]" id="purchase_invoice_detail_ref_document_type_id_'+$grid_row+'" value="" />';
-    // $html += '<input type="hidden" name="purchase_invoice_details['+$grid_row+'][ref_document_identity]" id="purchase_invoice_detail_ref_document_identity_'+$grid_row+'" value="" />';
-    // $html += '</td>';
-    $html += '<td>';
-    $html += '<input type="text" onchange="getProductByCode(this);" style="min-width: 100px;" class="form-control code1" name="purchase_invoice_details['+$grid_row+'][product_code]" id="purchase_invoice_detail_product_code_'+$grid_row+'" />';
-    $html += '</td>';
-    $html += '<td style="min-width: 300px;" id="exist_name_div_'+$grid_row+'">';
-    $html += '<div class="input-group">';
-    $html += '<select style="min-width: 100px;" onchange="getProductById(this);" class="form-control select2 code1" id="purchase_invoice_detail_product_id_'+$grid_row+'" name="purchase_invoice_details['+$grid_row+'][product_id]" >';
-    $html += '<option value="">&nbsp;</option>';
-    $html += '</select>';
-    $html += '<span class="input-group-btn ">';
-    $html += '<button class="btn btn-default btn-flat QSearchProduct" id="QSearchProduct" type="button" data-element="purchase_invoice_detail_product_id_'+$grid_row+'" data-field="product_id">';
-    $html += '<i class="fa fa-search"></i>';
-    $html += '</button>';
-    $html += '</span>';
-    $html += '</div>';
-    $html += '</td>';
+// $(document).on('click','.btnAddGrid', function() {
+//     $html = '';
+//     //EnterLKey(this);
+//     $html += '<tr id="grid_row_'+$grid_row+'" data-row_id="'+$grid_row+'">';
+//     $html += '<td>';
+//     //$html += '<a title="Duplicate" class="btn btn-xs btn-primary btnAddDuplicate" href="javascript:void(0);"><i class="fa fa-clone"></i></a>&nbsp;';
+//     $html += '<a title="Add" class="btn btn-xs btn-primary btnAddGrid" href="javascript:void(0);"><i class="fa fa-plus"></i></a>&nbsp;';
+//     $html += '<a onclick="removeRow(this);" title="Remove" class="btn btn-xs btn-danger" href="javascript:void(0);"><i class="fa fa-times"></i></a>';
+//     $html += '</td>';
+//     // $html += '<td>';
+//     // $html += '<input type="hidden" name="purchase_invoice_details['+$grid_row+'][ref_document_type_id]" id="purchase_invoice_detail_ref_document_type_id_'+$grid_row+'" value="" />';
+//     // $html += '<input type="hidden" name="purchase_invoice_details['+$grid_row+'][ref_document_identity]" id="purchase_invoice_detail_ref_document_identity_'+$grid_row+'" value="" />';
+//     // $html += '</td>';
+//     $html += '<td>';
+//     $html += '<input type="text" onchange="getProductByCode(this);" style="min-width: 100px;" class="form-control code1" name="purchase_invoice_details['+$grid_row+'][product_code]" id="purchase_invoice_detail_product_code_'+$grid_row+'" />';
+//     $html += '</td>';
+//     $html += '<td style="min-width: 300px;" id="exist_name_div_'+$grid_row+'">';
+//     $html += '<div class="input-group">';
+//     $html += '<select style="min-width: 100px;" onchange="getProductById(this);" class="form-control select2 code1" id="purchase_invoice_detail_product_id_'+$grid_row+'" name="purchase_invoice_details['+$grid_row+'][product_id]" >';
+//     $html += '<option value="">&nbsp;</option>';
+//     $html += '</select>';
+//     $html += '<span class="input-group-btn ">';
+//     $html += '<button class="btn btn-default btn-flat QSearchProduct" id="QSearchProduct" type="button" data-element="purchase_invoice_detail_product_id_'+$grid_row+'" data-field="product_id">';
+//     $html += '<i class="fa fa-search"></i>';
+//     $html += '</button>';
+//     $html += '</span>';
+//     $html += '</div>';
+//     $html += '</td>';
 
-    $html += '<td style="min-width: 300px;" class="hide" id="new_name_div_'+$grid_row+'">';
-    $html += '<input type="text" style="min-width: 100px;" class="form-control product_name" name="purchase_invoice_details['+$grid_row+'][product_name]" id="purchase_invoice_detail_product_name_'+$grid_row+'" />';
-    $html += '</td>';
+//     $html += '<td style="min-width: 300px;" class="hide" id="new_name_div_'+$grid_row+'">';
+//     $html += '<input type="text" style="min-width: 100px;" class="form-control product_name" name="purchase_invoice_details['+$grid_row+'][product_name]" id="purchase_invoice_detail_product_name_'+$grid_row+'" />';
+//     $html += '</td>';
 
-    $html += '<td id="exist_category_div_'+$grid_row+'">';
-    $html += '<div class="input-group">';
-    $html += '<input type="hidden" class="form-control select2 product_category" id="purchase_invoice_detail_product_category_id_'+$grid_row+'" name="purchase_invoice_details['+$grid_row+'][product_category_id]">';
-    $html += '<input style="min-width: 100px;" class="form-control product_category" id="purchase_invoice_detail_product_category_'+$grid_row+'" readonly>';
-    $html += '</div>';
-    $html += '</td>';
+//     $html += '<td id="exist_category_div_'+$grid_row+'">';
+//     $html += '<div class="input-group">';
+//     $html += '<input type="hidden" class="form-control select2 product_category" id="purchase_invoice_detail_product_category_id_'+$grid_row+'" name="purchase_invoice_details['+$grid_row+'][product_category_id]">';
+//     $html += '<input style="min-width: 100px;" class="form-control product_category" id="purchase_invoice_detail_product_category_'+$grid_row+'" readonly>';
+//     $html += '</div>';
+//     $html += '</td>';
 
-    $html += '<td class="hide" id="new_category_div_'+$grid_row+'">';
-    $html += '<select style="min-width: 100px;" class="form-control select2 new_product_category_id" id="purchase_invoice_detail_new_product_category_id_'+$grid_row+'" name="purchase_invoice_details['+$grid_row+'][product_category_id]" >';
-    $html += '<option value="">&nbsp;</option>';
-    $product_categories.forEach(function($category,$index) {
-        $html += '<option value="'+$category.product_category_id+'" >'+$category.name+'</option>';
-    });
-    $html += '</select>';
-    $html += '</td>';
+//     $html += '<td class="hide" id="new_category_div_'+$grid_row+'">';
+//     $html += '<select style="min-width: 100px;" class="form-control select2 new_product_category_id" id="purchase_invoice_detail_new_product_category_id_'+$grid_row+'" name="purchase_invoice_details['+$grid_row+'][product_category_id]" >';
+//     $html += '<option value="">&nbsp;</option>';
+//     $product_categories.forEach(function($category,$index) {
+//         $html += '<option value="'+$category.product_category_id+'" >'+$category.name+'</option>';
+//     });
+//     $html += '</select>';
+//     $html += '</td>';
 
-    $html += '<td class="hide">';
-    $html += '<select class="form-control select2 warehouse_id" id="purchase_invoice_detail_warehouse_id_'+$grid_row+'" name="purchase_invoice_details['+$grid_row+'][warehouse_id]" >';
-    $warehouses.forEach(function($warehouse,$index) {
-        $index == 0 ? $selected = 'selected="true"' : $selected = '';
-        $html += '<option value="'+$warehouse.warehouse_id+'" '+$selected+'>'+$warehouse.name+'</option>';
-    });
-    $html += '</select>';
-    $html += '</td>';
-    $html += '<td>';
-    $html += '<input onchange="calculateAmount(this);" style="min-width: 100px;" type="text" class="form-control fPDecimal" name="purchase_invoice_details['+$grid_row+'][qty]" id="purchase_invoice_detail_qty_'+$grid_row+'" value="12" />';
-    $html += '</td>';
-    // $html += '<td>';
-    // $html += '<input type="text" style="min-width: 100px;" class="form-control" name="purchase_invoice_details['+$grid_row+'][unit]" id="purchase_invoice_detail_unit_'+$grid_row+'" value="" readonly="true" />';
-    // $html += '<input type="hidden" class="form-control" name="purchase_invoice_details['+$grid_row+'][unit_id]" id="purchase_invoice_detail_unit_id_'+$grid_row+'" value="" readonly/>';
-    // $html += '</td>';
-    $html += '<td>';
-    $html += '<input onchange="calculateAmount(this);" style="min-width: 100px;" type="text" class="form-control fPDecimal" name="purchase_invoice_details['+$grid_row+'][rate]" id="purchase_invoice_detail_rate_'+$grid_row+'" value="0" />';
-    $html += '</td>';
-    $html += '<td>';
-    $html += '<input style="min-width: 100px;" type="text" class="form-control fPDecimal" name="purchase_invoice_details['+$grid_row+'][sale_rate]" id="purchase_invoice_detail_sale_rate_'+$grid_row+'" value="0" />';
-    $html += '</td>';
-    $html += '<td>';
-    $html += '<input type="text" style="min-width: 100px;" class="form-control fPDecimal" name="purchase_invoice_details['+$grid_row+'][amount]" id="purchase_invoice_detail_amount_'+$grid_row+'" value="0" readonly="true" />';
-    $html += '</td>';
-    // $html += '<td>';
-    // $html += '<input onchange="calculateDiscountAmount(this);" type="text" style="min-width: 100px;" class="form-control fPDecimal" name="purchase_invoice_details['+$grid_row+'][discount_percent]" id="purchase_invoice_detail_discount_percent_'+$grid_row+'" value="0" />';
-    // $html += '</td>';
-    // $html += '<td>';
-    // $html += '<input onchange="calculateDiscountPercent(this);" type="text" style="min-width: 100px;" class="form-control fPDecimal" name="purchase_invoice_details['+$grid_row+'][discount_amount]" id="purchase_invoice_detail_discount_amount_'+$grid_row+'" value="0" />';
-    // $html += '</td>';
-    // $html += '<td>';
-    // $html += '<input type="text" style="min-width: 100px;" class="form-control fPDecimal" name="purchase_invoice_details['+$grid_row+'][gross_amount]" id="purchase_invoice_detail_gross_amount_'+$grid_row+'" value="" readonly="true"/>';
-    // $html += '</td>';
-    // $html += '<td>';
-    // $html += '<input onchange="calculateTaxAmount(this);" type="text" style="min-width: 100px;" class="form-control fPDecimal" name="purchase_invoice_details['+$grid_row+'][tax_percent]" id="purchase_invoice_detail_tax_percent_'+$grid_row+'" value="0" />';
-    // $html += '</td>';
-    // $html += '<td>';
-    // $html += '<input onchange="calculateTaxPercent(this);" type="text" style="min-width: 100px;" class="form-control fPDecimal" name="purchase_invoice_details['+$grid_row+'][tax_amount]" id="purchase_invoice_detail_tax_amount_'+$grid_row+'" value="0" />';
-    // $html += '</td>';
-    // $html += '<td>';
-    // $html += '<input type="text" style="min-width: 100px;" class="form-control fPDecimal" name="purchase_invoice_details['+$grid_row+'][total_amount]" id="purchase_invoice_detail_total_amount_'+$grid_row+'" value="" readonly="true" />';
-    // $html += '</td>';
-    // $html += '<td>';
-    // $html += '<input type="text" style="min-width: 100px;" class="form-control" name="purchase_invoice_details['+$grid_row+'][remarks]" id="purchase_invoice_detail_remarks_'+$grid_row+'" value="" />';
-    // $html += '</td>';
-    $html += '<td>';
-    // $html += '<a title="Duplicate" class="btn btn-xs btn-primary btnAddDuplicate" href="javascript:void(0);"><i class="fa fa-clone"></i></a>&nbsp;';
-    $html += '<a title="Add" class="btn btn-xs btn-primary btnAddGrid" href="javascript:void(0);"><i class="fa fa-plus"></i></a>&nbsp;';
-    $html += '<a onclick="removeRow(this);" title="Remove" class="btn btn-xs btn-danger" href="javascript:void(0);"><i class="fa fa-times"></i></a>';
-    $html += '</td>';
-    $html += '</tr>';
+//     $html += '<td class="hide">';
+//     $html += '<select class="form-control select2 warehouse_id" id="purchase_invoice_detail_warehouse_id_'+$grid_row+'" name="purchase_invoice_details['+$grid_row+'][warehouse_id]" >';
+//     $warehouses.forEach(function($warehouse,$index) {
+//         $index == 0 ? $selected = 'selected="true"' : $selected = '';
+//         $html += '<option value="'+$warehouse.warehouse_id+'" '+$selected+'>'+$warehouse.name+'</option>';
+//     });
+//     $html += '</select>';
+//     $html += '</td>';
+//     $html += '<td>';
+//     $html += '<input onchange="calculateAmount(this);" style="min-width: 100px;" type="text" class="form-control fPDecimal" name="purchase_invoice_details['+$grid_row+'][qty]" id="purchase_invoice_detail_qty_'+$grid_row+'" value="12" />';
+//     $html += '</td>';
+//     // $html += '<td>';
+//     // $html += '<input type="text" style="min-width: 100px;" class="form-control" name="purchase_invoice_details['+$grid_row+'][unit]" id="purchase_invoice_detail_unit_'+$grid_row+'" value="" readonly="true" />';
+//     // $html += '<input type="hidden" class="form-control" name="purchase_invoice_details['+$grid_row+'][unit_id]" id="purchase_invoice_detail_unit_id_'+$grid_row+'" value="" readonly/>';
+//     // $html += '</td>';
+//     $html += '<td>';
+//     $html += '<input onchange="calculateAmount(this);" style="min-width: 100px;" type="text" class="form-control fPDecimal" name="purchase_invoice_details['+$grid_row+'][rate]" id="purchase_invoice_detail_rate_'+$grid_row+'" value="0" />';
+//     $html += '</td>';
+//     $html += '<td>';
+//     $html += '<input style="min-width: 100px;" type="text" class="form-control fPDecimal" name="purchase_invoice_details['+$grid_row+'][sale_rate]" id="purchase_invoice_detail_sale_rate_'+$grid_row+'" value="0" />';
+//     $html += '</td>';
+//     $html += '<td>';
+//     $html += '<input type="text" style="min-width: 100px;" class="form-control fPDecimal" name="purchase_invoice_details['+$grid_row+'][amount]" id="purchase_invoice_detail_amount_'+$grid_row+'" value="0" readonly="true" />';
+//     $html += '</td>';
+//     // $html += '<td>';
+//     // $html += '<input onchange="calculateDiscountAmount(this);" type="text" style="min-width: 100px;" class="form-control fPDecimal" name="purchase_invoice_details['+$grid_row+'][discount_percent]" id="purchase_invoice_detail_discount_percent_'+$grid_row+'" value="0" />';
+//     // $html += '</td>';
+//     // $html += '<td>';
+//     // $html += '<input onchange="calculateDiscountPercent(this);" type="text" style="min-width: 100px;" class="form-control fPDecimal" name="purchase_invoice_details['+$grid_row+'][discount_amount]" id="purchase_invoice_detail_discount_amount_'+$grid_row+'" value="0" />';
+//     // $html += '</td>';
+//     // $html += '<td>';
+//     // $html += '<input type="text" style="min-width: 100px;" class="form-control fPDecimal" name="purchase_invoice_details['+$grid_row+'][gross_amount]" id="purchase_invoice_detail_gross_amount_'+$grid_row+'" value="" readonly="true"/>';
+//     // $html += '</td>';
+//     // $html += '<td>';
+//     // $html += '<input onchange="calculateTaxAmount(this);" type="text" style="min-width: 100px;" class="form-control fPDecimal" name="purchase_invoice_details['+$grid_row+'][tax_percent]" id="purchase_invoice_detail_tax_percent_'+$grid_row+'" value="0" />';
+//     // $html += '</td>';
+//     // $html += '<td>';
+//     // $html += '<input onchange="calculateTaxPercent(this);" type="text" style="min-width: 100px;" class="form-control fPDecimal" name="purchase_invoice_details['+$grid_row+'][tax_amount]" id="purchase_invoice_detail_tax_amount_'+$grid_row+'" value="0" />';
+//     // $html += '</td>';
+//     // $html += '<td>';
+//     // $html += '<input type="text" style="min-width: 100px;" class="form-control fPDecimal" name="purchase_invoice_details['+$grid_row+'][total_amount]" id="purchase_invoice_detail_total_amount_'+$grid_row+'" value="" readonly="true" />';
+//     // $html += '</td>';
+//     // $html += '<td>';
+//     // $html += '<input type="text" style="min-width: 100px;" class="form-control" name="purchase_invoice_details['+$grid_row+'][remarks]" id="purchase_invoice_detail_remarks_'+$grid_row+'" value="" />';
+//     // $html += '</td>';
+//     $html += '<td>';
+//     // $html += '<a title="Duplicate" class="btn btn-xs btn-primary btnAddDuplicate" href="javascript:void(0);"><i class="fa fa-clone"></i></a>&nbsp;';
+//     $html += '<a title="Add" class="btn btn-xs btn-primary btnAddGrid" href="javascript:void(0);"><i class="fa fa-plus"></i></a>&nbsp;';
+//     $html += '<a onclick="removeRow(this);" title="Remove" class="btn btn-xs btn-danger" href="javascript:void(0);"><i class="fa fa-times"></i></a>';
+//     $html += '</td>';
+//     $html += '</tr>';
 
 
-    if($(this).parent().parent().data('row_id')=='H') {
-        $('#tblPurchaseInvoice tbody').append($html);
-    } else {
-        $(this).parent().parent().after($html);
-    }
-    // setFieldFormat();
-    //$('#purchase_invoice_detail_product_id_'+$grid_row).select2({width: '100%'});
-    $('#purchase_invoice_detail_product_id_'+$grid_row).select2({
-        width: '100%',
-        ajax: {
-            url: $UrlGetProductJSON,
-            dataType: 'json',
-            type: 'post',
-            mimeType:"multipart/form-data",
-            delay: 250,
-            data: function (params) {
-                return {
-                    q: params.term, // search term
-                    page: params.page
-                };
-            },
-            processResults: function (data, params) {
-                // parse the results into the format expected by Select2
-                // since we are using custom formatting functions we do not need to
-                // alter the remote JSON data, except to indicate that infinite
-                // scrolling can be used
-                params.page = params.page || 1;
+//     if($(this).parent().parent().data('row_id')=='H') {
+//         $('#tblPurchaseInvoice tbody').append($html);
+//     } else {
+//         $(this).parent().parent().after($html);
+//     }
+//     // setFieldFormat();
+//     //$('#purchase_invoice_detail_product_id_'+$grid_row).select2({width: '100%'});
+//     $('#purchase_invoice_detail_product_id_'+$grid_row).select2({
+//         width: '100%',
+//         ajax: {
+//             url: $UrlGetProductJSON,
+//             dataType: 'json',
+//             type: 'post',
+//             mimeType:"multipart/form-data",
+//             delay: 250,
+//             data: function (params) {
+//                 return {
+//                     q: params.term, // search term
+//                     page: params.page
+//                 };
+//             },
+//             processResults: function (data, params) {
+//                 // parse the results into the format expected by Select2
+//                 // since we are using custom formatting functions we do not need to
+//                 // alter the remote JSON data, except to indicate that infinite
+//                 // scrolling can be used
+//                 params.page = params.page || 1;
 
-                return {
-                    results: data.items,
-                    pagination: {
-                        more: (params.page * 30) < data.total_count
-                    }
-                };
-            },
-            cache: true
-        },
-        escapeMarkup: function (markup) { return markup; }, // let our custom formatter work
-        minimumInputLength: 2,
-        templateResult: formatRepo, // omitted for brevity, see the source of this page
-        templateSelection: formatRepoSelection // omitted for brevity, see the source of this page                }
-    });
-    $('#purchase_invoice_detail_warehouse_id_'+$grid_row).select2({width: '100%'});
-    $('#purchase_invoice_detail_warehouse_id_'+$grid_row).trigger('change');
+//                 return {
+//                     results: data.items,
+//                     pagination: {
+//                         more: (params.page * 30) < data.total_count
+//                     }
+//                 };
+//             },
+//             cache: true
+//         },
+//         escapeMarkup: function (markup) { return markup; }, // let our custom formatter work
+//         minimumInputLength: 2,
+//         templateResult: formatRepo, // omitted for brevity, see the source of this page
+//         templateSelection: formatRepoSelection // omitted for brevity, see the source of this page                }
+//     });
+//     $('#purchase_invoice_detail_warehouse_id_'+$grid_row).select2({width: '100%'});
+//     $('#purchase_invoice_detail_warehouse_id_'+$grid_row).trigger('change');
 
-    $grid_row++;
-});
+//     $grid_row++;
+// });
 
 $(document).on('click','.btnAddDuplicate', function() {
     var $row_id = $(this).parent().parent().data('row_id');
@@ -973,3 +973,291 @@ function Save() {
         $('.btnsave').removeAttr('disabled');
     }
 }
+// ================================================
+// FULLY UPDATED & ENHANCED CODE (based on your latest pasted version)
+// - Original .btnAddGrid click handler (kept compatible)
+// - Reusable row generator
+// - Automatic Barcode / QR Scanner support
+// - NEW: Prevent duplicate scanning (by product_code)
+// - NEW: Visual "Item Scanned" detector (green highlight + auto fade)
+// - NEW: If no scanner is detected → Press ENTER in "product_code" field to auto-append new row
+// ================================================
+
+// Global barcode scanner variables (keyboard emulation)
+let barcodeInput = '';
+let lastKeypressTime = 0;
+let lastScanTime = 0;          // NEW: prevents conflict between scanner + manual Enter
+const BARCODE_MIN_LENGTH = 4;
+const BARCODE_TIMEOUT = 80;
+
+// Check if product_code already exists in the grid
+function isProductDuplicate(scannedCode) {
+    let isDuplicate = false;
+    $('#tblPurchaseInvoice tbody tr').each(function() {
+        const existingCode = $(this).find('input.code1[name*="product_code"]').val();
+        if (existingCode && existingCode.trim() === scannedCode) {
+            isDuplicate = true;
+            return false; // break loop
+        }
+    });
+    return isDuplicate;
+}
+
+// Reusable function to generate a complete new grid row HTML
+function generateRowHtml(gridRow) {
+    let $html = '';
+    $html += '<tr id="grid_row_'+gridRow+'" data-row_id="'+gridRow+'">';
+    $html += '<td>';
+    $html += '<a title="Add" class="btn btn-xs btn-primary btnAddGrid" href="javascript:void(0);"><i class="fa fa-plus"></i></a>&nbsp;';
+    $html += '<a onclick="removeRow(this);" title="Remove" class="btn btn-xs btn-danger" href="javascript:void(0);"><i class="fa fa-times"></i></a>';
+    $html += '</td>';
+    $html += '<td>';
+    $html += '<input type="text" onchange="getProductByCode(this);" style="min-width: 100px;" class="form-control code1" name="purchase_invoice_details['+gridRow+'][product_code]" id="purchase_invoice_detail_product_code_'+gridRow+'" />';
+    $html += '</td>';
+    $html += '<td style="min-width: 300px;" id="exist_name_div_'+gridRow+'">';
+    $html += '<div class="input-group">';
+    $html += '<select style="min-width: 100px;" onchange="getProductById(this);" class="form-control select2 code1" id="purchase_invoice_detail_product_id_'+gridRow+'" name="purchase_invoice_details['+gridRow+'][product_id]" >';
+    $html += '<option value="">&nbsp;</option>';
+    $html += '</select>';
+    $html += '<span class="input-group-btn ">';
+    $html += '<button class="btn btn-default btn-flat QSearchProduct" id="QSearchProduct" type="button" data-element="purchase_invoice_detail_product_id_'+gridRow+'" data-field="product_id">';
+    $html += '<i class="fa fa-search"></i>';
+    $html += '</button>';
+    $html += '</span>';
+    $html += '</div>';
+    $html += '</td>';
+    $html += '<td style="min-width: 300px;" class="hide" id="new_name_div_'+gridRow+'">';
+    $html += '<input type="text" style="min-width: 100px;" class="form-control product_name" name="purchase_invoice_details['+gridRow+'][product_name]" id="purchase_invoice_detail_product_name_'+gridRow+'" />';
+    $html += '</td>';
+    $html += '<td id="exist_category_div_'+gridRow+'">';
+    $html += '<div class="input-group">';
+    $html += '<input type="hidden" class="form-control select2 product_category" id="purchase_invoice_detail_product_category_id_'+gridRow+'" name="purchase_invoice_details['+gridRow+'][product_category_id]">';
+    $html += '<input style="min-width: 100px;" class="form-control product_category" id="purchase_invoice_detail_product_category_'+gridRow+'" readonly>';
+    $html += '</div>';
+    $html += '</td>';
+    $html += '<td class="hide" id="new_category_div_'+gridRow+'">';
+    $html += '<select style="min-width: 100px;" class="form-control select2 new_product_category_id" id="purchase_invoice_detail_new_product_category_id_'+gridRow+'" name="purchase_invoice_details['+gridRow+'][product_category_id]" >';
+    $html += '<option value="">&nbsp;</option>';
+    $product_categories.forEach(function($category,$index) {
+        $html += '<option value="'+$category.product_category_id+'" >'+$category.name+'</option>';
+    });
+    $html += '</select>';
+    $html += '</td>';
+    $html += '<td class="hide">';
+    $html += '<select class="form-control select2 warehouse_id" id="purchase_invoice_detail_warehouse_id_'+gridRow+'" name="purchase_invoice_details['+gridRow+'][warehouse_id]" >';
+    $warehouses.forEach(function($warehouse,$index) {
+        let $selected = ($index == 0) ? 'selected="true"' : '';
+        $html += '<option value="'+$warehouse.warehouse_id+'" '+$selected+'>'+$warehouse.name+'</option>';
+    });
+    $html += '</select>';
+    $html += '</td>';
+    $html += '<td>';
+    $html += '<input onchange="calculateAmount(this);" style="min-width: 100px;" type="text" class="form-control fPDecimal" name="purchase_invoice_details['+gridRow+'][qty]" id="purchase_invoice_detail_qty_'+gridRow+'" value="12" />';
+    $html += '</td>';
+    $html += '<td>';
+    $html += '<input onchange="calculateAmount(this);" style="min-width: 100px;" type="text" class="form-control fPDecimal" name="purchase_invoice_details['+gridRow+'][rate]" id="purchase_invoice_detail_rate_'+gridRow+'" value="0" />';
+    $html += '</td>';
+    $html += '<td>';
+    $html += '<input style="min-width: 100px;" type="text" class="form-control fPDecimal" name="purchase_invoice_details['+gridRow+'][sale_rate]" id="purchase_invoice_detail_sale_rate_'+gridRow+'" value="0" />';
+    $html += '</td>';
+    $html += '<td>';
+    $html += '<input type="text" style="min-width: 100px;" class="form-control fPDecimal" name="purchase_invoice_details['+gridRow+'][amount]" id="purchase_invoice_detail_amount_'+gridRow+'" value="0" readonly="true" />';
+    $html += '</td>';
+    $html += '<td>';
+    $html += '<a title="Add" class="btn btn-xs btn-primary btnAddGrid" href="javascript:void(0);"><i class="fa fa-plus"></i></a>&nbsp;';
+    $html += '<a onclick="removeRow(this);" title="Remove" class="btn btn-xs btn-danger" href="javascript:void(0);"><i class="fa fa-times"></i></a>';
+    $html += '</td>';
+    $html += '</tr>';
+    return $html;
+}
+
+// Reusable function to add a new row
+function addNewGridRow(insertAfterRow = null) {
+    const currentRow = $grid_row;
+    const $html = generateRowHtml(currentRow);
+
+    if (insertAfterRow && insertAfterRow.length) {
+        insertAfterRow.after($html);           // insert after current row (manual mode)
+    } else {
+        $('#tblPurchaseInvoice tbody').append($html); // default: append at bottom (scanner mode)
+    }
+
+    // Initialize Select2 for product search
+    $('#purchase_invoice_detail_product_id_'+currentRow).select2({
+        width: '100%',
+        ajax: {
+            url: $UrlGetProductJSON,
+            dataType: 'json',
+            type: 'post',
+            mimeType: "multipart/form-data",
+            delay: 250,
+            data: function (params) {
+                return { q: params.term, page: params.page };
+            },
+            processResults: function (data, params) {
+                params.page = params.page || 1;
+                return {
+                    results: data.items,
+                    pagination: { more: (params.page * 30) < data.total_count }
+                };
+            },
+            cache: true
+        },
+        escapeMarkup: function (markup) { return markup; },
+        minimumInputLength: 2,
+        templateResult: formatRepo,
+        templateSelection: formatRepoSelection
+    });
+
+    // Initialize warehouse
+    $('#purchase_invoice_detail_warehouse_id_'+currentRow).select2({width: '100%'});
+    $('#purchase_invoice_detail_warehouse_id_'+currentRow).trigger('change');
+
+    $grid_row++;
+    return currentRow;
+}
+
+// Updated original click handler (now uses reusable generator)
+$(document).on('click','.btnAddGrid', function() {
+    const $html = generateRowHtml($grid_row);
+
+    if ($(this).parent().parent().data('row_id') === 'H') {
+        $('#tblPurchaseInvoice tbody').append($html);
+    } else {
+        $(this).parent().parent().after($html);
+    }
+
+    const currentRow = $grid_row;
+    $('#purchase_invoice_detail_product_id_'+currentRow).select2({
+        width: '100%',
+        ajax: {
+            url: $UrlGetProductJSON,
+            dataType: 'json',
+            type: 'post',
+            mimeType: "multipart/form-data",
+            delay: 250,
+            data: function (params) {
+                return { q: params.term, page: params.page };
+            },
+            processResults: function (data, params) {
+                params.page = params.page || 1;
+                return {
+                    results: data.items,
+                    pagination: { more: (params.page * 30) < data.total_count }
+                };
+            },
+            cache: true
+        },
+        escapeMarkup: function (markup) { return markup; },
+        minimumInputLength: 2,
+        templateResult: formatRepo,
+        templateSelection: formatRepoSelection
+    });
+
+    $('#purchase_invoice_detail_warehouse_id_'+currentRow).select2({width: '100%'});
+    $('#purchase_invoice_detail_warehouse_id_'+currentRow).trigger('change');
+
+    $grid_row++;
+});
+
+// ================================================
+// AUTOMATIC BARCODE / QR SCANNER LISTENER
+// ================================================
+$(document).on('keypress', function(e) {
+    const now = Date.now();
+
+    if (now - lastKeypressTime > BARCODE_TIMEOUT) {
+        barcodeInput = '';
+    }
+    lastKeypressTime = now;
+
+    const key = e.key;
+
+    if (key === 'Enter') {
+        if (barcodeInput.length >= BARCODE_MIN_LENGTH) {
+            processScannedBarcode(barcodeInput.trim());
+            barcodeInput = '';
+            e.preventDefault();
+            return false;
+        }
+        barcodeInput = '';
+        return;
+    }
+
+    if (key.length === 1 && /[ -~]/.test(key)) {
+        barcodeInput += key;
+    }
+});
+
+// Process scanned barcode with duplicate prevention + visual detector
+function processScannedBarcode(scannedCode) {
+    lastScanTime = Date.now();   // mark as scanner input
+
+    // === DUPLICATE CHECK ===
+    if (isProductDuplicate(scannedCode)) {
+        alert('⚠️ Duplicate item detected!\n\nThis barcode has already been scanned.');
+        // Highlight existing row
+        $('#tblPurchaseInvoice tbody tr').each(function() {
+            const codeField = $(this).find('input.code1[name*="product_code"]');
+            if (codeField.val() && codeField.val().trim() === scannedCode) {
+                $(this).addClass('table-warning').fadeOut(200).fadeIn(400);
+                return false;
+            }
+        });
+        return;
+    }
+
+    // === ADD NEW ROW ===
+    const newRowIndex = addNewGridRow();
+
+    const codeInput = $('#purchase_invoice_detail_product_code_' + newRowIndex);
+    if (codeInput.length) {
+        codeInput.val(scannedCode);
+        getProductByCode(codeInput[0]);
+
+        // === VISUAL DETECTOR: Item Scanned ===
+        const newRow = $('#grid_row_' + newRowIndex);
+        newRow.addClass('table-success fw-bold');   // Green highlight (Bootstrap)
+
+        // Remove highlight after 3 seconds
+        setTimeout(() => {
+            newRow.removeClass('table-success fw-bold');
+        }, 3000);
+
+        // Scroll to new row
+        if (newRow.length) {
+            $('html, body').animate({ scrollTop: newRow.offset().top - 120 }, 300);
+        }
+    }
+}
+
+// ================================================
+// MANUAL KEYBOARD FALLBACK (when scanner is NOT connected)
+// Press ENTER inside any "product_code" field → auto append new row
+// ================================================
+$(document).on('keydown', 'input.code1[name*="product_code"]', function(e) {
+    if (e.key === 'Enter') {
+        // If this Enter came right after a scanner event, ignore manual logic
+        const now = Date.now();
+        if (lastScanTime && (now - lastScanTime < 1000)) {
+            lastScanTime = 0;
+            return;
+        }
+
+        e.preventDefault();
+
+        const $row = $(this).closest('tr');
+
+        // Trigger product lookup
+        getProductByCode(this);
+
+        // Append new row RIGHT AFTER current row
+        const newRowIndex = addNewGridRow($row);
+
+        // Scroll to new row
+        const newRow = $('#grid_row_' + newRowIndex);
+        if (newRow.length) {
+            $('html, body').animate({ scrollTop: newRow.offset().top - 120 }, 300);
+        }
+    }
+});

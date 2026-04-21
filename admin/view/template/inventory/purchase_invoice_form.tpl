@@ -433,6 +433,7 @@
     <script src="plugins/dataTables/dataTables.bootstrap.js"></script>
     <script type="text/javascript" src="../admin/view/js/inventory/purchase_invoice.js"></script>
     <script type="text/javascript" src="plugins/validate/jquery.validate.min.js"></script>
+    <script src="https://unpkg.com/html5-qrcode@2.3.8/html5-qrcode.min.js"></script>
     <script>
         jQuery('#form').validate(<?php echo $strValidation; ?>);
         var $lang = <?php echo json_encode($lang) ?>;
