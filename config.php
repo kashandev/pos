@@ -1,15 +1,15 @@
 <?php
 // HTTP
-define('HTTP_SERVER', 'http://' . $_SERVER['HTTP_HOST'] . '/pos/');
-define('HTTP_BASE', 'http://' . $_SERVER['HTTP_HOST'] . '/pos/assets/');
-define('HTTP_IMAGE', 'http://' . $_SERVER['HTTP_HOST'] . '/pos/image/');
-define('HTTP_EVENT_FILE', 'http://' . $_SERVER['HTTP_HOST'] . '/pos/event_file/');
+define('HTTP_SERVER', 'http://' . $_SERVER['HTTP_HOST'] . '/ifg/');
+define('HTTP_BASE', 'http://' . $_SERVER['HTTP_HOST'] . '/ifg/assets/');
+define('HTTP_IMAGE', 'http://' . $_SERVER['HTTP_HOST'] . '/ifg/image/');
+define('HTTP_EVENT_FILE', 'http://' . $_SERVER['HTTP_HOST'] . '/ifg/event_file/');
 
 // HTTPS
-define('HTTPS_SERVER', 'http://' . $_SERVER['HTTP_HOST'] . '/pos/');
-define('HTTPS_BASE', 'http://' . $_SERVER['HTTP_HOST'] . '/pos/assets/');
-define('HTTPS_IMAGE', 'http://' . $_SERVER['HTTP_HOST'] . '/pos/image/');
-define('HTTPS_EVENT_FILE', 'http://' . $_SERVER['HTTP_HOST'] . '/pos/event_file/');
+define('HTTPS_SERVER', 'http://' . $_SERVER['HTTP_HOST'] . '/ifg/');
+define('HTTPS_BASE', 'http://' . $_SERVER['HTTP_HOST'] . '/ifg/assets/');
+define('HTTPS_IMAGE', 'http://' . $_SERVER['HTTP_HOST'] . '/ifg/image/');
+define('HTTPS_EVENT_FILE', 'http://' . $_SERVER['HTTP_HOST'] . '/ifg/event_file/');
 
 // DIR
 define('DIR_ROOT', getcwd() . "/");
@@ -33,7 +33,7 @@ define('DB_DRIVER', 'dbmysqli');
 define('DB_HOSTNAME', '127.0.0.1');
 define('DB_USERNAME', 'root');
 define('DB_PASSWORD', '');
-define('DB_DATABASE', 'pos_master');
+define('DB_DATABASE', 'ifg_master');
 define('DB_PREFIX', '');
 
 // Config
@@ -42,8 +42,8 @@ define('CONFIG_LOG_ERROR', 1);
 define('CONFIG_ERROR_FILE_NAME', 'error_'.date('Ymd').'.log');
 
 // Config
-define('CONFIG_APPLICATION_CODE', 'ps');
-define('CONFIG_APPLICATION_NAME', 'Pos');
+define('CONFIG_APPLICATION_CODE', 'if');
+define('CONFIG_APPLICATION_NAME', 'IFG');
 
 // Date
 define('PICKER_DATE', 'DD-MM-YYYY');

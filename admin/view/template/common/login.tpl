@@ -19,6 +19,7 @@
     <link rel="stylesheet" href="plugins/iCheck/square/blue.css">
     <!-- Modify CSS -->
     <link rel="stylesheet" href="dist/css/modify.css">
+    <link rel="icon" type="image/png" href="<?php echo HTTPS_IMAGE . 'ifg_small.png'; ?>">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -30,7 +31,7 @@
 <body class="hold-transition login-page">
 <div class="login-box">
     <div class="login-logo">
-       <img src="<?php echo HTTPS_IMAGE.'Mother Pharmacy Logo.png' ?>" style="max-width:140px; height:125px; margin-bottom:10px;">
+       <img src="<?php echo HTTPS_IMAGE.'ifg_logo2.png' ?>" style="width:100%; margin-bottom:10px;">
         <br>
      <b><?php echo $lang['login']; ?></b>
     </div><!-- /.login-logo -->
