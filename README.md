@@ -1,4 +1,4 @@
-# POS (php_jefco)
+# POS - php_jefco
 
 A point-of-sale (POS) web app written in PHP, with a MySQL / MariaDB database.
 
